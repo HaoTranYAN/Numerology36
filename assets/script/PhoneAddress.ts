@@ -123,6 +123,16 @@ export class PhoneAddress extends Component {
     i18n.updateSceneRenderers();
 
     this.addPrefabTools();
+    setTimeout(() => {
+      this.preloadScene();
+    }, 50);
+  }
+
+  preloadScene() {
+    director.preloadScene("Home", function () {});
+    director.preloadScene("Love", function () {});
+    director.preloadScene("PhoneAddress", function () {});
+
   }
 
   checkValidate() {

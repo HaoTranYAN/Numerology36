@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 8944.475083947182,
+      "mTimestamp": 7662.117228984833,
       "chunkId": "86ea51a86e5d858891ef07385334b7b1017d7ca2",
       "imports": [
         {
@@ -598,11 +598,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 78089529.23036087,
+      "mTimestamp": 8350335.6152329445,
       "chunkId": "730cac957a6d242a4fce5cea88163e6b4f8178bd",
       "imports": [
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -611,12 +611,12 @@
             },
             "end": {
               "line": 4,
-              "column": 96
+              "column": 73
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioPersistRootNode.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioPersistRootNode.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -625,12 +625,12 @@
             },
             "end": {
               "line": 5,
-              "column": 104
+              "column": 81
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -639,12 +639,12 @@
             },
             "end": {
               "line": 6,
-              "column": 92
+              "column": 69
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -653,12 +653,12 @@
             },
             "end": {
               "line": 7,
-              "column": 92
+              "column": 69
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
@@ -667,12 +667,12 @@
             },
             "end": {
               "line": 8,
-              "column": 92
+              "column": 69
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/SoundPersistRootNode.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/common/SoundPersistRootNode.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
@@ -681,12 +681,12 @@
             },
             "end": {
               "line": 9,
-              "column": 104
+              "column": 81
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts",
           "resolved": "__unresolved_6",
           "loc": {
             "start": {
@@ -695,12 +695,12 @@
             },
             "end": {
               "line": 10,
-              "column": 109
+              "column": 86
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabCountNumber.ts",
           "resolved": "__unresolved_7",
           "loc": {
             "start": {
@@ -709,12 +709,12 @@
             },
             "end": {
               "line": 11,
-              "column": 101
+              "column": 78
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabDetailYourNumber.ts",
           "resolved": "__unresolved_8",
           "loc": {
             "start": {
@@ -723,12 +723,12 @@
             },
             "end": {
               "line": 12,
-              "column": 106
+              "column": 83
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecast.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabForecast.ts",
           "resolved": "__unresolved_9",
           "loc": {
             "start": {
@@ -737,12 +737,12 @@
             },
             "end": {
               "line": 13,
-              "column": 98
+              "column": 75
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecastMonth.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabForecastMonth.ts",
           "resolved": "__unresolved_10",
           "loc": {
             "start": {
@@ -751,12 +751,12 @@
             },
             "end": {
               "line": 14,
-              "column": 103
+              "column": 80
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabLove.ts",
           "resolved": "__unresolved_11",
           "loc": {
             "start": {
@@ -765,12 +765,12 @@
             },
             "end": {
               "line": 15,
-              "column": 94
+              "column": 71
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabMainNumbers.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabMainNumbers.ts",
           "resolved": "__unresolved_12",
           "loc": {
             "start": {
@@ -779,12 +779,12 @@
             },
             "end": {
               "line": 16,
-              "column": 101
+              "column": 78
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPeriod.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabPeriod.ts",
           "resolved": "__unresolved_13",
           "loc": {
             "start": {
@@ -793,12 +793,12 @@
             },
             "end": {
               "line": 17,
-              "column": 96
+              "column": 73
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabTools.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabTools.ts",
           "resolved": "__unresolved_14",
           "loc": {
             "start": {
@@ -807,12 +807,12 @@
             },
             "end": {
               "line": 18,
-              "column": 95
+              "column": 72
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/en.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/resources/en.ts",
           "resolved": "__unresolved_15",
           "loc": {
             "start": {
@@ -821,12 +821,12 @@
             },
             "end": {
               "line": 19,
-              "column": 89
+              "column": 66
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/vi.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/resources/vi.ts",
           "resolved": "__unresolved_16",
           "loc": {
             "start": {
@@ -835,12 +835,12 @@
             },
             "end": {
               "line": 20,
-              "column": 89
+              "column": 66
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Detail.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/script/Detail.ts",
           "resolved": "__unresolved_17",
           "loc": {
             "start": {
@@ -849,12 +849,12 @@
             },
             "end": {
               "line": 21,
-              "column": 90
+              "column": 67
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Home.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/script/Home.ts",
           "resolved": "__unresolved_18",
           "loc": {
             "start": {
@@ -863,12 +863,12 @@
             },
             "end": {
               "line": 22,
-              "column": 88
+              "column": 65
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Intro.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/script/Intro.ts",
           "resolved": "__unresolved_19",
           "loc": {
             "start": {
@@ -877,12 +877,12 @@
             },
             "end": {
               "line": 23,
-              "column": 89
+              "column": 66
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Love.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/script/Love.ts",
           "resolved": "__unresolved_20",
           "loc": {
             "start": {
@@ -891,12 +891,12 @@
             },
             "end": {
               "line": 24,
-              "column": 88
+              "column": 65
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PeriodCycle.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/script/PeriodCycle.ts",
           "resolved": "__unresolved_21",
           "loc": {
             "start": {
@@ -905,12 +905,12 @@
             },
             "end": {
               "line": 25,
-              "column": 95
+              "column": 72
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PhoneAddress.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/script/PhoneAddress.ts",
           "resolved": "__unresolved_22",
           "loc": {
             "start": {
@@ -919,12 +919,12 @@
             },
             "end": {
               "line": 26,
-              "column": 96
+              "column": 73
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Profile.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/script/Profile.ts",
           "resolved": "__unresolved_23",
           "loc": {
             "start": {
@@ -933,12 +933,12 @@
             },
             "end": {
               "line": 27,
-              "column": 91
+              "column": 68
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Settings.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/script/Settings.ts",
           "resolved": "__unresolved_24",
           "loc": {
             "start": {
@@ -947,12 +947,12 @@
             },
             "end": {
               "line": 28,
-              "column": 92
+              "column": 69
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Splash.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/assets/script/Splash.ts",
           "resolved": "__unresolved_25",
           "loc": {
             "start": {
@@ -961,12 +961,12 @@
             },
             "end": {
               "line": 29,
-              "column": 90
+              "column": 67
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts",
           "resolved": "__unresolved_26",
           "loc": {
             "start": {
@@ -975,12 +975,12 @@
             },
             "end": {
               "line": 30,
-              "column": 105
+              "column": 82
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedLabel.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedLabel.ts",
           "resolved": "__unresolved_27",
           "loc": {
             "start": {
@@ -989,12 +989,12 @@
             },
             "end": {
               "line": 31,
-              "column": 107
+              "column": 84
             }
           }
         },
         {
-          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedSprite.ts",
+          "value": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedSprite.ts",
           "resolved": "__unresolved_28",
           "loc": {
             "start": {
@@ -1003,7 +1003,7 @@
             },
             "end": {
               "line": 32,
-              "column": 108
+              "column": 85
             }
           }
         }
@@ -1013,203 +1013,203 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioPersistRootNode.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioPersistRootNode.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/SoundPersistRootNode.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/SoundPersistRootNode.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabCountNumber.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabDetailYourNumber.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecast.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabForecast.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecastMonth.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabForecastMonth.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabLove.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabMainNumbers.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabMainNumbers.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPeriod.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabPeriod.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabTools.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabTools.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/en.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/resources/en.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/vi.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/resources/vi.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Detail.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/script/Detail.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Home.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/script/Home.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Intro.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/script/Intro.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Love.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/script/Love.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PeriodCycle.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/script/PeriodCycle.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PhoneAddress.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/script/PhoneAddress.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Profile.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/script/Profile.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Settings.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/script/Settings.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Splash.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/script/Splash.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedLabel.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedLabel.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedSprite.ts"
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedSprite.ts"
           },
           "messages": []
         }
@@ -1654,7 +1654,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1662541308522,
+      "mTimestamp": 1662620907655,
       "chunkId": "3a1fd7b13056478820ebedd306d3446d1aa408cc",
       "imports": [],
       "type": "esm",
@@ -4639,6 +4639,3039 @@
           "resolved": {
             "type": "module",
             "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts": {
+      "mTimestamp": {
+        "mtime": 1662535018000,
+        "uuid": "b05066de-ea1f-4f71-a797-d9a7e7e8d56e"
+      },
+      "chunkId": "98cccfa668efc79e3293cdd851c49971041a557b",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 71
+            },
+            "end": {
+              "line": 1,
+              "column": 75
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/common/AudioPersistRootNode.ts": {
+      "mTimestamp": {
+        "mtime": 1662526009000,
+        "uuid": "b2d76bdf-2f7a-4ba2-aeb4-ed4a39287e91"
+      },
+      "chunkId": "b1ed2a3b27e044f2cfd2ee6c48bcca373fdeb33f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 69
+            },
+            "end": {
+              "line": 1,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts": {
+      "mTimestamp": {
+        "mtime": 1661499355000,
+        "uuid": "e8581cf7-9790-4fe4-b818-83d407020832"
+      },
+      "chunkId": "c138c5182a739b114d4e4b6affb3472a2ca20f60",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 71
+            },
+            "end": {
+              "line": 8,
+              "column": 75
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts": {
+      "mTimestamp": {
+        "mtime": 1661835585000,
+        "uuid": "038449bc-292e-4dec-912f-62cd4a0a1712"
+      },
+      "chunkId": "6e8562ef8130dd5d3e594d2b333c80919d74736c",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 50
+            },
+            "end": {
+              "line": 1,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts": {
+      "mTimestamp": {
+        "mtime": 1660883869000,
+        "uuid": "c37918d4-3fc6-45a2-92dd-05d205472f5b"
+      },
+      "chunkId": "e12c9c9f6fb8c3f4d976bca94e62bcabac72a664",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 32
+            },
+            "end": {
+              "line": 13,
+              "column": 36
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/common/SoundPersistRootNode.ts": {
+      "mTimestamp": {
+        "mtime": 1662534749000,
+        "uuid": "dd848e7e-bb08-4d71-88ef-529a6cedaf0d"
+      },
+      "chunkId": "860a96b17dd6c364dcd74c92b0a941702adbb69c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 69
+            },
+            "end": {
+              "line": 1,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "./AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts": {
+      "mTimestamp": {
+        "mtime": 1662618863000,
+        "uuid": "3f69caa8-c558-42aa-ad80-b31f28afe182"
+      },
+      "chunkId": "ad5b998c773ca93959239f5d32e665d35c9ae50c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 86
+            },
+            "end": {
+              "line": 1,
+              "column": 90
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts": {
+      "mTimestamp": {
+        "mtime": 1661499219000,
+        "uuid": "b3f015f8-224e-4b11-b20f-29766bdc9583"
+      },
+      "chunkId": "3faf8cebcc25c54e4b28a61f22df3e4f2657b14d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 29
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabCountNumber.ts": {
+      "mTimestamp": {
+        "mtime": 1662618839000,
+        "uuid": "b37cf922-8bcf-4e59-8127-f9fc8b2811b5"
+      },
+      "chunkId": "2fbb90136df4e08ac420404b7ceb008ef0448113",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 86
+            },
+            "end": {
+              "line": 1,
+              "column": 90
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabDetailYourNumber.ts": {
+      "mTimestamp": {
+        "mtime": 1662618888000,
+        "uuid": "59f053d6-4f9f-435c-ba38-2464f6a5d420"
+      },
+      "chunkId": "1ff22d73d9ba482c4e7747794279d061470a861e",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 86
+            },
+            "end": {
+              "line": 1,
+              "column": 90
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabForecast.ts": {
+      "mTimestamp": {
+        "mtime": 1662628072000,
+        "uuid": "9839ec6e-91b4-40f9-a503-d86923cc6731"
+      },
+      "chunkId": "c73d8da4d6f7d1026ceddf7912a562b440e3a496",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 159
+            },
+            "end": {
+              "line": 1,
+              "column": 163
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 45
+            },
+            "end": {
+              "line": 4,
+              "column": 65
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 26
+            },
+            "end": {
+              "line": 5,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabForecastMonth.ts": {
+      "mTimestamp": {
+        "mtime": 1662618006000,
+        "uuid": "051137c1-a572-45a6-a2ee-2855c76e4d4f"
+      },
+      "chunkId": "207f5e75a60360907ab5ab002d793362658db101",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 127
+            },
+            "end": {
+              "line": 1,
+              "column": 131
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 45
+            },
+            "end": {
+              "line": 4,
+              "column": 65
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 26
+            },
+            "end": {
+              "line": 5,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabLove.ts": {
+      "mTimestamp": {
+        "mtime": 1662618911000,
+        "uuid": "94b5aff1-7e01-40bb-b4f2-22d8514a9694"
+      },
+      "chunkId": "27edaeb840ed48c6c46c2db2df2c95b1b398b15c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 86
+            },
+            "end": {
+              "line": 1,
+              "column": 90
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabMainNumbers.ts": {
+      "mTimestamp": {
+        "mtime": 1661836211000,
+        "uuid": "c4237123-3947-4ce3-9165-2a53efeab687"
+      },
+      "chunkId": "2d545eea2c19564287380f4fab036d3855b622c1",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 66
+            },
+            "end": {
+              "line": 1,
+              "column": 70
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 37
+            },
+            "end": {
+              "line": 5,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabPeriod.ts": {
+      "mTimestamp": {
+        "mtime": 1661836228000,
+        "uuid": "ab1adcc3-4d36-4f88-b6ec-9341995e39c3"
+      },
+      "chunkId": "ef38ff9daf30324be2ec499167395c1e26bca584",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 54
+            },
+            "end": {
+              "line": 1,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabTools.ts": {
+      "mTimestamp": {
+        "mtime": 1661756693000,
+        "uuid": "f41f5088-2002-46ab-905d-4b8dbe994f9b"
+      },
+      "chunkId": "642be18d6e581a6f655e314426fb0efe4b8cfffe",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 54
+            },
+            "end": {
+              "line": 1,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/resources/en.ts": {
+      "mTimestamp": {
+        "mtime": 1661768242000,
+        "uuid": "7cebac75-5de9-4f51-9bed-37769f6917ac"
+      },
+      "chunkId": "d936cd75cd1f1f4ea6f2e1525946c4e47c541e54",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/resources/vi.ts": {
+      "mTimestamp": {
+        "mtime": 1661768240000,
+        "uuid": "c57ae844-9cf1-409e-8dd7-c70d2276b352"
+      },
+      "chunkId": "a6f5b95a3c62d8442847b9045cfbcfe87abea4a5",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/script/Detail.ts": {
+      "mTimestamp": {
+        "mtime": 1662622828000,
+        "uuid": "53889653-2f38-4b30-8aeb-27cbe5eb9a62"
+      },
+      "chunkId": "54a5cf712e2ad8f052cf22c0add91791fd635159",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 7
+            },
+            "end": {
+              "line": 12,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 29
+            },
+            "end": {
+              "line": 14,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 26
+            },
+            "end": {
+              "line": 15,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 22
+            },
+            "end": {
+              "line": 16,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 37
+            },
+            "end": {
+              "line": 17,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 25
+            },
+            "end": {
+              "line": 18,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../prefab/PrefabCountNumber",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 34
+            },
+            "end": {
+              "line": 19,
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "../prefab/PrefabDetailYourNumber",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 39
+            },
+            "end": {
+              "line": 20,
+              "column": 73
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabCountNumber.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabDetailYourNumber.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/script/Home.ts": {
+      "mTimestamp": {
+        "mtime": 1662622874000,
+        "uuid": "1fbd29c9-2b3b-4ed0-83bc-7383ddfde370"
+      },
+      "chunkId": "adbd256f4320609e178091abd63318010dfffa9e",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 7
+            },
+            "end": {
+              "line": 10,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 29
+            },
+            "end": {
+              "line": 13,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 37
+            },
+            "end": {
+              "line": 15,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/script/Intro.ts": {
+      "mTimestamp": {
+        "mtime": 1662621935000,
+        "uuid": "4c79c8e8-a88e-4a5b-ad73-5ae742ad1107"
+      },
+      "chunkId": "8cc4764be35c14e6ca8619745dd5a9a04a648c23",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 64
+            },
+            "end": {
+              "line": 1,
+              "column": 68
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 22
+            },
+            "end": {
+              "line": 5,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/script/Love.ts": {
+      "mTimestamp": {
+        "mtime": 1662622484000,
+        "uuid": "edf618f3-f0f7-46a5-908d-7078ec243aee"
+      },
+      "chunkId": "064162082e397462636425e68d336bc34c258c01",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 7
+            },
+            "end": {
+              "line": 14,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 29
+            },
+            "end": {
+              "line": 17,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 26
+            },
+            "end": {
+              "line": 18,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 22
+            },
+            "end": {
+              "line": 19,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 25
+            },
+            "end": {
+              "line": 20,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 25
+            },
+            "end": {
+              "line": 21,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../prefab/PrefabLove",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 27
+            },
+            "end": {
+              "line": 22,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabLove.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/script/PeriodCycle.ts": {
+      "mTimestamp": {
+        "mtime": 1662621883000,
+        "uuid": "f7a716f7-0a79-47b0-a874-82cfaca6d893"
+      },
+      "chunkId": "d016d23ba54c7b35253c53a0b4088d99fa234d90",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 7
+            },
+            "end": {
+              "line": 9,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 29
+            },
+            "end": {
+              "line": 11,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 26
+            },
+            "end": {
+              "line": 12,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 22
+            },
+            "end": {
+              "line": 13,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 27
+            },
+            "end": {
+              "line": 14,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/script/PhoneAddress.ts": {
+      "mTimestamp": {
+        "mtime": 1662622529000,
+        "uuid": "3c1dd904-8992-4ec3-8da4-74c46e1901e0"
+      },
+      "chunkId": "95aef71be5c5cc48d9d6cf87b43d544320a2c2bc",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 7
+            },
+            "end": {
+              "line": 16,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 29
+            },
+            "end": {
+              "line": 18,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 26
+            },
+            "end": {
+              "line": 19,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 22
+            },
+            "end": {
+              "line": 20,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 37
+            },
+            "end": {
+              "line": 21,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 25
+            },
+            "end": {
+              "line": 22,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../prefab/PrefabContentPhoneAddress",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 42
+            },
+            "end": {
+              "line": 23,
+              "column": 79
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/script/Profile.ts": {
+      "mTimestamp": {
+        "mtime": 1662621561000,
+        "uuid": "9504d3e1-f086-4476-b5c3-1d5e4f0c4026"
+      },
+      "chunkId": "7e01da83e1d29d56e4f069e97b0690b74ee75bfd",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 7
+            },
+            "end": {
+              "line": 17,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 29
+            },
+            "end": {
+              "line": 20,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 22
+            },
+            "end": {
+              "line": 21,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 25
+            },
+            "end": {
+              "line": 22,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 25
+            },
+            "end": {
+              "line": 23,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/script/Settings.ts": {
+      "mTimestamp": {
+        "mtime": 1662622120000,
+        "uuid": "ae7c2e6e-3c40-462c-9504-61076e425471"
+      },
+      "chunkId": "8e69098ad750b5c65d3763df3202d21f3abfd343",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 7
+            },
+            "end": {
+              "line": 12,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 29
+            },
+            "end": {
+              "line": 14,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 26
+            },
+            "end": {
+              "line": 15,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 22
+            },
+            "end": {
+              "line": 16,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/assets/script/Splash.ts": {
+      "mTimestamp": {
+        "mtime": 1662628335000,
+        "uuid": "d1faddca-a142-4cc7-b739-defa504246b0"
+      },
+      "chunkId": "279e6c85f30555b56eeb5296dc55383014de0789",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 7
+            },
+            "end": {
+              "line": 11,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 22
+            },
+            "end": {
+              "line": 14,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 26
+            },
+            "end": {
+              "line": 16,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedLabel.ts": {
+      "mTimestamp": {
+        "mtime": 1660891185000,
+        "uuid": "edf98407-d83d-4052-80ab-b5095bc45ad4"
+      },
+      "chunkId": "f4c8ce76376d578c5a52b96f4dc94b4c7ac1fa31",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./LanguageData",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 45
+            },
+            "end": {
+              "line": 4,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedSprite.ts": {
+      "mTimestamp": {
+        "mtime": 1660891203000,
+        "uuid": "c05c2e42-e313-40ba-9598-301f77b48ce9"
+      },
+      "chunkId": "ac3003b43270dbb9b2f592ec8fadd55c2dc51ed5",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./LanguageData",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 59
+            },
+            "end": {
+              "line": 4,
+              "column": 63
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
           },
           "messages": []
         }

@@ -7,11 +7,10 @@
     "sceneListMap": {
         "30f95c25-369f-47a0-a25b-6b69836eb966": "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Splash.scene",
         "0c4c10af-dd8d-4b78-92c9-6262093ad79a": "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Settings.scene",
-        "5bfb9266-e23d-4959-940a-f56b2bc6af09": "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Profile.scene",
         "17a1c7e8-9c32-43c2-9804-5088f400eb87": "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Love.scene",
         "99884bf1-c0a7-46b8-8ff2-ff3d3562e121": "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/PhoneAddress.scene",
-        "9401f302-3507-4804-aed1-e337f86d4af8": "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Home.scene",
-        "b5ba79ef-37d5-40a8-adfc-33f8a151ac68": "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Detail.scene"
+        "b5ba79ef-37d5-40a8-adfc-33f8a151ac68": "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Detail.scene",
+        "9401f302-3507-4804-aed1-e337f86d4af8": "/Volumes/D/YAN/Numerology36/assets/scene/Home.scene"
     },
     "deviceMd5": "12e0bfaaadc8c1f88df6bae4eb36b5f7"
 }

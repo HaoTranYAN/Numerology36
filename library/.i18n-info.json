@@ -22,5 +22,29 @@
   },
   "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedSprite.ts.meta": {
     "time": 1660881852280.9102
+  },
+  "/Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts": {
+    "time": 1661499219000,
+    "uuid": "b3f015f8-224e-4b11-b20f-29766bdc9583",
+    "missing": false
+  },
+  "/Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedLabel.ts": {
+    "time": 1660891185000,
+    "uuid": "edf98407-d83d-4052-80ab-b5095bc45ad4",
+    "missing": false
+  },
+  "/Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedSprite.ts": {
+    "time": 1660891203000,
+    "uuid": "c05c2e42-e313-40ba-9598-301f77b48ce9",
+    "missing": false
+  },
+  "/Volumes/D/YAN/Numerology36/extensions/i18n/assets/LanguageData.ts.meta": {
+    "time": 1660881852000
+  },
+  "/Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedLabel.ts.meta": {
+    "time": 1660881852000
+  },
+  "/Volumes/D/YAN/Numerology36/extensions/i18n/assets/LocalizedSprite.ts.meta": {
+    "time": 1660881852000
   }
 }

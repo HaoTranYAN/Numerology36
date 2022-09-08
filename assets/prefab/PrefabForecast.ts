@@ -180,9 +180,6 @@ export class PrefabForecast extends Component {
      self.richTextDay.string =`<color=#000000>${texture.toString()}</color>`;
     });
 
-
-
-
   }
 
 }

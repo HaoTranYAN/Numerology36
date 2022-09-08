@@ -1,103 +1,116 @@
-import { _decorator, Component, Node, Button, Label, director, RichText, instantiate, Prefab, ScrollView, EditBox,sys } from 'cc';
+import {
+  _decorator,
+  Component,
+  Node,
+  Button,
+  Label,
+  director,
+  RichText,
+  instantiate,
+  Prefab,
+  ScrollView,
+  EditBox,
+  sys,
+} from "cc";
 const { ccclass, property } = _decorator;
 
 import { AudioManager } from "../common/AudioManager";
 import { Languages } from "../common/Language";
 import * as i18n from "db://i18n/LanguageData";
-import { Constant } from '../common/Constant';
-import { CommonTS } from '../common/CommonTS';
-import { PrefabLove } from '../prefab/PrefabLove';
-@ccclass('Love')
+import { Constant } from "../common/Constant";
+import { CommonTS } from "../common/CommonTS";
+import { PrefabLove } from "../prefab/PrefabLove";
+@ccclass("Love")
 export class Love extends Component {
-    
-    @property(Button)
-    btnClose: Button = null;
+  @property(Button)
+  btnClose: Button = null;
 
-    @property(Label)
-    lblWarning: Label = null;
-  
-    @property(RichText)
-    richTextDescription: RichText = null;
-  
-    @property(Prefab)
-    prefabTools: Prefab = null;
+  @property(Label)
+  lblWarning: Label = null;
 
-    @property(Node)
-    content: Node = null;
-  
-    @property(ScrollView)
-    scrollView: ScrollView = null;
+  @property(RichText)
+  richTextDescription: RichText = null;
 
-    @property(Prefab)
-    prefabContent: Prefab = null;
+  @property(Prefab)
+  prefabTools: Prefab = null;
 
-    @property(EditBox)
-    edtYouDay: EditBox = null;
-  
-    @property(EditBox)
-    edtYouMonth: EditBox = null;
-  
-    @property(EditBox)
-    edtYouYear: EditBox = null;
+  @property(Node)
+  content: Node = null;
 
-    @property(EditBox)
-    edtPartnerDay: EditBox = null;
-  
-    @property(EditBox)
-    edtPartnerMonth: EditBox = null;
-  
-    @property(EditBox)
-    edtPartnerYear: EditBox = null;
-    onLoad(){
-        this.initLayout();
+  @property(ScrollView)
+  scrollView: ScrollView = null;
 
+  @property(Prefab)
+  prefabContent: Prefab = null;
 
-    }
-    start() {
+  @property(EditBox)
+  edtYouDay: EditBox = null;
 
-    }
+  @property(EditBox)
+  edtYouMonth: EditBox = null;
 
-    update(deltaTime: number) {
-        
-    }
+  @property(EditBox)
+  edtYouYear: EditBox = null;
 
-    initLayout(){
-        AudioManager.checkPlayMusic();
-        this.hideWarning();
+  @property(EditBox)
+  edtPartnerDay: EditBox = null;
 
-        var language = Languages.getLanguage();
-        i18n.init(language);
-        this.richTextDescription.string = `<color=#ffffff>${i18n.t(
-            "INTROLOVE"
-            )}</color>`;
-            i18n.updateSceneRenderers();
+  @property(EditBox)
+  edtPartnerMonth: EditBox = null;
 
-            this.addPrefabTools();
+  @property(EditBox)
+  edtPartnerYear: EditBox = null;
+  onLoad() {
+    this.initLayout();
+  }
+  start() {}
 
-        this.loadData()
+  update(deltaTime: number) {}
 
+  initLayout() {
+    AudioManager.checkPlayMusic();
+    this.hideWarning();
 
-    }
+    var language = Languages.getLanguage();
+    i18n.init(language);
+    this.richTextDescription.string = `<color=#ffffff>${i18n.t(
+      "INTROLOVE"
+    )}</color>`;
+    i18n.updateSceneRenderers();
 
+    this.addPrefabTools();
 
- loadData(){
+    this.loadData();
+
+    setTimeout(() => {
+      this.preloadScene();
+    }, 50);
+  }
+
+  preloadScene() {
+    director.preloadScene("Home", function () {});
+    director.preloadScene("PhoneAddress", function () {});
+
+  }
+
+  loadData() {
     var dataUser = JSON.parse(sys.localStorage.getItem(Constant.PERSONAL));
-    this.edtYouDay.string = parseInt(dataUser.dayOfBirth)+"";
-    this.edtYouMonth.string = parseInt(dataUser.monthOfBirth)+"";
-    this.edtYouYear.string = parseInt(dataUser.yearOfBirth)+"";
-   
+    this.edtYouDay.string = parseInt(dataUser.dayOfBirth) + "";
+    this.edtYouMonth.string = parseInt(dataUser.monthOfBirth) + "";
+    this.edtYouYear.string = parseInt(dataUser.yearOfBirth) + "";
+
     var dataUser2 = JSON.parse(sys.localStorage.getItem(Constant.PERSONAL2));
-    if(dataUser2 != null) {
-    this.edtPartnerDay.string = parseInt(dataUser2.dayOfBirth)+"";
-    this.edtPartnerMonth.string = parseInt(dataUser2.monthOfBirth)+"";
-    this.edtPartnerYear.string = parseInt(dataUser2.yearOfBirth)+"";
-    this.addPrefabContent(this.tinhDestinyNumber(dataUser, dataUser2));
-    // setTimeout( () => {
-    this.scrollView.scrollToBottom(0.5);
-    // }, 15);
+    if (dataUser2 != null) {
+      this.edtPartnerDay.string = parseInt(dataUser2.dayOfBirth) + "";
+      this.edtPartnerMonth.string = parseInt(dataUser2.monthOfBirth) + "";
+      this.edtPartnerYear.string = parseInt(dataUser2.yearOfBirth) + "";
+      this.addPrefabContent(this.tinhDestinyNumber(dataUser, dataUser2));
+      // setTimeout( () => {
+      this.scrollView.scrollToBottom(0.5);
+      // }, 15);
     }
- }
- addPrefabContent(loveData) {
+  }
+  addPrefabContent(loveData) {
     var nodeText = this.content.getChildByName("nodeContent");
     if (nodeText == null) {
       var nodeText = instantiate(this.prefabContent);
@@ -108,14 +121,12 @@ export class Love extends Component {
     cell.updateData(loveData);
   }
 
-
   hidePrefabContent() {
     var nodeText = this.content.getChildByName("nodeContent");
     if (nodeText != null) {
       nodeText.removeFromParent();
     }
   }
-
 
   checkValidate() {
     AudioManager.playSoundClick();
@@ -143,15 +154,18 @@ export class Love extends Component {
       this.lblWarning.string = i18n.t("ERROR9");
       this.hidePrefabContent();
       return;
-    } else if(this.checkFormat(yDay) != -1 || this.checkFormat(tDay) != -1) {
+    } else if (this.checkFormat(yDay) != -1 || this.checkFormat(tDay) != -1) {
       this.lblWarning.node.active = true;
       this.lblWarning.string = i18n.t("ERROR4");
       return;
-    } else if(this.checkFormat(yMonth) != -1 || this.checkFormat(tMonth) != -1) {
+    } else if (
+      this.checkFormat(yMonth) != -1 ||
+      this.checkFormat(tMonth) != -1
+    ) {
       this.lblWarning.node.active = true;
       this.lblWarning.string = i18n.t("ERROR11");
       return;
-    } else if(this.checkFormat(yYear) != -1 || this.checkFormat(tYear) != -1) {
+    } else if (this.checkFormat(yYear) != -1 || this.checkFormat(tYear) != -1) {
       this.lblWarning.node.active = true;
       this.lblWarning.string = i18n.t("ERROR12");
       return;
@@ -195,20 +209,19 @@ export class Love extends Component {
     this.scrollView.scrollToPercentVertical(0.8);
   }
 
-
   checkFormat(str) {
     var format = /[0-9]+/;
     var result = str.toString().split("");
     var len = result.length;
     var index = -1;
-    for(let i = 0; i < len; i++) {
-      if(format.test(result[i]) == false) {
+    for (let i = 0; i < len; i++) {
+      if (format.test(result[i]) == false) {
         index = i;
       }
     }
     return index;
   }
- tinhDestinyNumber(person1, person2) {
+  tinhDestinyNumber(person1, person2) {
     var number1 = CommonTS.rutGonSo(CommonTS.tinhSoChuDao(person1), 9);
     var number2 = CommonTS.rutGonSo(CommonTS.tinhSoChuDao(person2), 9);
     var loveData = {
@@ -225,7 +238,6 @@ export class Love extends Component {
     this.lblWarning.node.active = true;
   }
 
-
   loadHome() {
     AudioManager.playSoundClick();
 
@@ -237,7 +249,4 @@ export class Love extends Component {
     node.name = "nodeTools";
     this.content.addChild(node);
   }
-
 }
-
-

@@ -30,12 +30,19 @@ export class Splash extends Component {
     //     this.loadHome();
     //   }
 
-
     // this.schedule(function() {
     //   // Here this refers to component
     // }, 5);
 
-   this.loadData();
+    this.loadData();
+
+    setTimeout(() => {
+      this.preloadScene();
+    }, 50);
+  }
+
+  preloadScene() {
+    director.preloadScene("Home", function () {});
   }
 
   update(deltaTime: number) {}
@@ -189,35 +196,18 @@ export class Splash extends Component {
       data.push(vi_namenumber);
     }
 
-
-
-
     var bundle = assetManager.getBundle("data");
     var dataUser = JSON.parse(sys.localStorage.getItem(PERSONAL));
     var self = this;
-
-    if (bundle == null) {
-      assetManager.loadBundle("data", (err, bundle) => {
-        bundle.loadDir(data.toString(), TextAsset, function (err, texture) {
-          if (dataUser == null || dataUser == undefined) {
-            self.loadProfile();
-          } else {
-            // //this.loadHome();
-            self.loadHome();
-          }        });
+    assetManager.loadBundle("data", (err, bundle) => {
+      bundle.load(data.toString(), function (err, texture) {
+        if (dataUser == null || dataUser == undefined) {
+          self.loadProfile();
+        } else {
+          self.loadHome();
+        }
       });
-    } else {
-        bundle.loadDir(data.toString(), TextAsset, function (err, texture) {
-          ////console.log(texture)
-          if (dataUser == null || dataUser == undefined) {
-            self.loadProfile();
-          } else {
-            // //this.loadHome();
-            self.loadHome();
-          }        });
-    }
-    
-    
+    });
   }
 
   loadProfile() {

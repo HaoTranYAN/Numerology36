@@ -68,8 +68,21 @@ export class Detail extends Component {
     setTimeout(function () {
       self.addPrefabForDetail();
     }, 50);
-  }
+    setTimeout(() => {
+      this.preloadScene();
+    }, 50);
+  
+  
+  
+    }
+  
+    preloadScene(){
+      director.preloadScene("Home",function(){})
+      director.preloadScene("PeriodCycle",function(){})
+      director.preloadScene("Detail",function(){})
 
+
+    }
   addPrefabForDetail() {
     switch (window["typeAction"]) {
       case TypeAction.PERIOD1:

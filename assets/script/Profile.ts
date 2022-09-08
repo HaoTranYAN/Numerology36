@@ -109,7 +109,19 @@ export default class Profile extends Component {
     }
 
 
-  }
+    setTimeout(() => {
+      this.preloadScene();
+    }, 50);
+  
+  
+  
+    }
+  
+    preloadScene(){
+      director.preloadScene("Home",function(){})
+  
+  
+    }
 
   callback(event: Event, customEventData: string) {
     AudioManager.playSoundClick();

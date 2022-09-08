@@ -15,10 +15,10 @@
         "/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
-        "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/*"
+        "/Volumes/D/YAN/Numerology36/assets/*"
       ],
       "db://i18n/*": [
-        "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/*"
+        "/Volumes/D/YAN/Numerology36/extensions/i18n/assets/*"
       ]
     },
     "experimentalDecorators": true,

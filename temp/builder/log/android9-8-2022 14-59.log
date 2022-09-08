@@ -1,0 +1,445 @@
+9-8-2022 14:59-debug: =================================== Build Task (android) Start ================================
+9-8-2022 14:59-debug: // ---- cocos-service:(onBeforeBuild) ----
+9-8-2022 14:59-debug: Process: heapTotal 208.26MB heapUsed 184.63MB rss 289.85MB
+9-8-2022 14:59-debug: Start build task, options:{"name":"Numerology36","platform":"android","buildPath":"project://build","debug":false,"md5Cache":true,"skipCompressTexture":false,"sourceMaps":false,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","replaceSplashScreen":true,"compressTexture":true,"packAutoAtlas":true,"startScene":"30f95c25-369f-47a0-a25b-6b69836eb966","outputName":"android","scenes":[{"url":"db://assets/scene/Detail.scene","uuid":"b5ba79ef-37d5-40a8-adfc-33f8a151ac68","inBundle":false},{"url":"db://assets/scene/Home.scene","uuid":"9401f302-3507-4804-aed1-e337f86d4af8","inBundle":false},{"url":"db://assets/scene/Intro.scene","uuid":"ab98a63c-e779-46f4-9a74-ca800968bfe4","inBundle":false},{"url":"db://assets/scene/Love.scene","uuid":"17a1c7e8-9c32-43c2-9804-5088f400eb87","inBundle":false},{"url":"db://assets/scene/PeriodCycle.scene","uuid":"f36df58c-24c5-436d-85d3-21b7d4bdf6f5","inBundle":false},{"url":"db://assets/scene/PhoneAddress.scene","uuid":"99884bf1-c0a7-46b8-8ff2-ff3d3562e121","inBundle":false},{"url":"db://assets/scene/Profile.scene","uuid":"5bfb9266-e23d-4959-940a-f56b2bc6af09","inBundle":false},{"url":"db://assets/scene/Settings.scene","uuid":"0c4c10af-dd8d-4b78-92c9-6262093ad79a","inBundle":false},{"url":"db://assets/scene/Splash.scene","uuid":"30f95c25-369f-47a0-a25b-6b69836eb966","inBundle":false}],"android":[],"packages":{"android":{"packageName":"com.com.commm","orientation":{"portrait":true,"upsideDown":false,"landscapeRight":false,"landscapeLeft":false},"apiLevel":32,"appABIs":["armeabi-v7a","arm64-v8a","x86","x86_64"],"useDebugKeystore":true,"keystorePath":"","keystorePassword":"","keystoreAlias":"","keystoreAliasPassword":"","appBundle":false,"androidInstant":false,"remoteUrl":"","sdkPath":"","ndkPath":"","renderBackEnd":{"vulkan":true,"gles3":true,"gles2":true},"swappy":true,"__version__":"1.0.1"},"cocos-service":{"configID":"b5b46c","services":[],"__version__":"3.0.4"},"native":{"encrypted":false,"xxteaKey":"feVp5IQpxNnoCAZ1","compressZip":false,"JobSystem":"none","__version__":"1.0.2"}},"__version__":"1.3.3"}
+9-8-2022 14:59-debug: Build with Cocos Creator 3.6.0
+9-8-2022 14:59-debug: cocos-service:(onBeforeBuild) start...0%
+9-8-2022 14:59-debug: // ---- cocos-service:(onBeforeBuild) success ----
+9-8-2022 14:59-debug: cocos-service:(onBeforeBuild)2%
+9-8-2022 14:59-debug: Query all assets info in project
+9-8-2022 14:59-debug: init custom config: keepNodeUuid: false, useCache: true
+9-8-2022 14:59-debug: BuildAssetLibrary query-assets with assets 784
+9-8-2022 14:59-debug: BuildAssetLibrary initialized with asset 1001!
+9-8-2022 14:59-debug:   Number of other assets: 1069
+9-8-2022 14:59-debug: native:(onAfterInit) start...2%
+9-8-2022 14:59-debug: Process: heapTotal 209.40MB heapUsed 187.86MB rss 289.86MB
+9-8-2022 14:59-debug:   Number of all scenes: 9
+9-8-2022 14:59-debug:   Number of all scripts: 29
+9-8-2022 14:59-debug: // ---- native:(onAfterInit) ----
+9-8-2022 14:59-debug: Native engine root:/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+9-8-2022 14:59-debug: // ---- native:(onAfterInit) success ----
+9-8-2022 14:59-debug: android:(onAfterInit) start...4%
+9-8-2022 14:59-debug: // ---- android:(onAfterInit) ----
+9-8-2022 14:59-debug: Process: heapTotal 209.93MB heapUsed 188.72MB rss 298.23MB
+9-8-2022 14:59-debug: native:(onAfterInit)4%
+9-8-2022 14:59-debug: // ---- android:(onAfterInit) success ----
+9-8-2022 14:59-debug: android:(onAfterInit)7%
+9-8-2022 14:59-debug: cocos-service:(onAfterInit) start...7%
+9-8-2022 14:59-debug: // ---- cocos-service:(onAfterInit) ----
+9-8-2022 14:59-debug: Process: heapTotal 209.93MB heapUsed 188.77MB rss 298.23MB
+9-8-2022 14:59-debug: // ---- cocos-service:(onAfterInit) success ----
+9-8-2022 14:59-debug: localization-editor:(onAfterInit) start...9%
+9-8-2022 14:59-debug: // ---- localization-editor:(onAfterInit) ----
+9-8-2022 14:59-debug: Process: heapTotal 209.93MB heapUsed 188.82MB rss 298.23MB
+9-8-2022 14:59-debug: cocos-service:(onAfterInit)9%
+9-8-2022 14:59-debug: // ---- localization-editor:(onAfterInit) success ----
+9-8-2022 14:59-debug: Reload project scripts start11%
+9-8-2022 14:59-log: // ---- Reload project scripts ----
+9-8-2022 14:59-debug: localization-editor:(onAfterInit)11%
+9-8-2022 14:59-debug: Process: heapTotal 209.93MB heapUsed 188.85MB rss 298.24MB
+9-8-2022 14:59-debug: reload all scripts.
+9-8-2022 14:59-debug: Incremental keys: 
+9-8-2022 14:59-debug: Set detail map pack:///resolution-detail-map.json: {}
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/ca/ca4374a3008ca85000d465787e739a302e4e4ac6.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/ca/ca4374a3008ca85000d465787e739a302e4e4ac6.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/ca/ca4374a3008ca85000d465787e739a302e4e4ac6.js" loaded.
+9-8-2022 14:59-debug: Invalidating 'pack:///chunks/ca/ca4374a3008ca85000d465787e739a302e4e4ac6.js'
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/ca/ca4374a3008ca85000d465787e739a302e4e4ac6.js" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+9-8-2022 14:59-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/3d/3da5c602a2424370fccd798e09dc140ebc8ae04c.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/3d/3da5c602a2424370fccd798e09dc140ebc8ae04c.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/3d/3da5c602a2424370fccd798e09dc140ebc8ae04c.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/2d/2d3b905a2c1b067da588d2855de77b92e23d05e9.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/2d/2d3b905a2c1b067da588d2855de77b92e23d05e9.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/2d/2d3b905a2c1b067da588d2855de77b92e23d05e9.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/e9/e93968359c2e944d0ec7cd4427379f77617874df.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/e9/e93968359c2e944d0ec7cd4427379f77617874df.js is not in module cache!
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/84/84741ad843cea9a440c5d8c2d379669b6551400d.js" loaded.
+9-8-2022 14:59-debug: [[Executor]] Register AudioPersistRootNode
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/e9/e93968359c2e944d0ec7cd4427379f77617874df.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/d2/d240e73e1a13478054aaba09ebdd93daed9cfd96.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/d2/d240e73e1a13478054aaba09ebdd93daed9cfd96.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/d2/d240e73e1a13478054aaba09ebdd93daed9cfd96.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/6e/6e8562ef8130dd5d3e594d2b333c80919d74736c.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/6e/6e8562ef8130dd5d3e594d2b333c80919d74736c.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/6e/6e8562ef8130dd5d3e594d2b333c80919d74736c.js" loaded.
+9-8-2022 14:59-debug: [[Executor]] Register Constant
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/86/860e64c9c3882bc9dc58b5407fd55c6c938d54dd.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/86/860e64c9c3882bc9dc58b5407fd55c6c938d54dd.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/86/860e64c9c3882bc9dc58b5407fd55c6c938d54dd.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/fd/fdb923e39c7c44e1be8a4fa44f137fc12c4f204e.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/fd/fdb923e39c7c44e1be8a4fa44f137fc12c4f204e.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register SoundPersistRootNode
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/fd/fdb923e39c7c44e1be8a4fa44f137fc12c4f204e.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/22/224c5086f6234b13396f0106752ea7d1b831b105.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/22/224c5086f6234b13396f0106752ea7d1b831b105.js is not in module cache!
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/f5/f50851fbbffa31e5add1bfa44f1b7a02c7e331d5.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/f5/f50851fbbffa31e5add1bfa44f1b7a02c7e331d5.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/f5/f50851fbbffa31e5add1bfa44f1b7a02c7e331d5.js" loaded.
+9-8-2022 14:59-debug: [[Executor]] Register PrefabContentPhoneAddress
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/22/224c5086f6234b13396f0106752ea7d1b831b105.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/1d/1dd3c83d57126f21bb9f1fc9f70591ee7aa9fe25.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/1d/1dd3c83d57126f21bb9f1fc9f70591ee7aa9fe25.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/1d/1dd3c83d57126f21bb9f1fc9f70591ee7aa9fe25.js" loaded.
+9-8-2022 14:59-debug: [[Executor]] Register PrefabCountNumber
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/fe/fee5739f0943a584add8411a2ef80950e29e95a2.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/fe/fee5739f0943a584add8411a2ef80950e29e95a2.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register PrefabDetailYourNumber
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/fe/fee5739f0943a584add8411a2ef80950e29e95a2.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/88/8846d5f4be1272d65075216934bdc5ebe84ccdb5.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/88/8846d5f4be1272d65075216934bdc5ebe84ccdb5.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register PrefabForecast
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/88/8846d5f4be1272d65075216934bdc5ebe84ccdb5.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/9f/9fdd9cdc411e0d8a81f532b4401d7d28c956000e.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/9f/9fdd9cdc411e0d8a81f532b4401d7d28c956000e.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register PrefabForecastMonth
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/9f/9fdd9cdc411e0d8a81f532b4401d7d28c956000e.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/7f/7fd6b8e9d86913e240ca2d649eb264025bbab60c.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/7f/7fd6b8e9d86913e240ca2d649eb264025bbab60c.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/7f/7fd6b8e9d86913e240ca2d649eb264025bbab60c.js" loaded.
+9-8-2022 14:59-debug: [[Executor]] Register PrefabLove
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/aa/aaeb87d3787414ba809c33cf7c75329c2ee8a142.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/aa/aaeb87d3787414ba809c33cf7c75329c2ee8a142.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register PrefabMainNumbers
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/aa/aaeb87d3787414ba809c33cf7c75329c2ee8a142.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/ef/ef38ff9daf30324be2ec499167395c1e26bca584.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/ef/ef38ff9daf30324be2ec499167395c1e26bca584.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register PrefabPeriod
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/ef/ef38ff9daf30324be2ec499167395c1e26bca584.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/64/642be18d6e581a6f655e314426fb0efe4b8cfffe.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/64/642be18d6e581a6f655e314426fb0efe4b8cfffe.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register PrefabTools
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/64/642be18d6e581a6f655e314426fb0efe4b8cfffe.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/d9/d936cd75cd1f1f4ea6f2e1525946c4e47c541e54.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/d9/d936cd75cd1f1f4ea6f2e1525946c4e47c541e54.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/d9/d936cd75cd1f1f4ea6f2e1525946c4e47c541e54.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/a6/a6f5b95a3c62d8442847b9045cfbcfe87abea4a5.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/a6/a6f5b95a3c62d8442847b9045cfbcfe87abea4a5.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/a6/a6f5b95a3c62d8442847b9045cfbcfe87abea4a5.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/5c/5c73ef14969630141f39fe85cd5cd1cb7c188c43.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/5c/5c73ef14969630141f39fe85cd5cd1cb7c188c43.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register Detail
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/5c/5c73ef14969630141f39fe85cd5cd1cb7c188c43.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/0c/0c1c142d5a717bc89d17a2713cb40cfa5216917b.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/0c/0c1c142d5a717bc89d17a2713cb40cfa5216917b.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register Home
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/0c/0c1c142d5a717bc89d17a2713cb40cfa5216917b.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/fd/fd8bdf082c0b5bfba6e61bd4d8a3da0690519090.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/fd/fd8bdf082c0b5bfba6e61bd4d8a3da0690519090.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register Intro
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/fd/fd8bdf082c0b5bfba6e61bd4d8a3da0690519090.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/e5/e59542a599f4725c3d6fe243ca60352f4e6299e6.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/e5/e59542a599f4725c3d6fe243ca60352f4e6299e6.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register Love
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/e5/e59542a599f4725c3d6fe243ca60352f4e6299e6.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/c1/c14c388209736a73249abc6bc73879f259120f3e.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/c1/c14c388209736a73249abc6bc73879f259120f3e.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/c1/c14c388209736a73249abc6bc73879f259120f3e.js" loaded.
+9-8-2022 14:59-debug: [[Executor]] Register PeriodCycle
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/02/0252b4c60c6ec486abea121a85c815c3047ccfab.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/02/0252b4c60c6ec486abea121a85c815c3047ccfab.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register PhoneAddress
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/02/0252b4c60c6ec486abea121a85c815c3047ccfab.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/2a/2a1460822082015e061a5093f1db275a64c1f6fa.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/2a/2a1460822082015e061a5093f1db275a64c1f6fa.js is not in module cache!
+9-8-2022 14:59-warn: 'ToggleContainerComponent' is deprecated since v1.2.0, please use 'ToggleContainer' instead.
+9-8-2022 14:59-warn: 'ToggleComponent' is deprecated since v1.2.0, please use 'Toggle' instead.
+9-8-2022 14:59-debug: [[Executor]] Register Profile
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/2a/2a1460822082015e061a5093f1db275a64c1f6fa.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/8f/8fc716b19b6cbc48bd58e58c36fd007f07ea8eca.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/8f/8fc716b19b6cbc48bd58e58c36fd007f07ea8eca.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register Settings
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/8f/8fc716b19b6cbc48bd58e58c36fd007f07ea8eca.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/a4/a4c7d3851eec380becffe9aa26bd6ec1ace8dc41.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/a4/a4c7d3851eec380becffe9aa26bd6ec1ace8dc41.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register Splash
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/a4/a4c7d3851eec380becffe9aa26bd6ec1ace8dc41.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/fa/fab1f740339a3ef41dd09cf1bbc77cf56a5e532c.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/fa/fab1f740339a3ef41dd09cf1bbc77cf56a5e532c.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Register LocalizedLabel
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/fa/fab1f740339a3ef41dd09cf1bbc77cf56a5e532c.js" loaded.
+9-8-2022 14:59-debug: /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/bf/bf8d622e0d9a200271a3452947841776a56556f9.js resolved to /Volumes/D/YAN/Numerology36/temp/programming/packer-driver/targets/editor/chunks/bf/bf8d622e0d9a200271a3452947841776a56556f9.js is not in module cache!
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/3d/3da5c602a2424370fccd798e09dc140ebc8ae04c.js" loaded.
+9-8-2022 14:59-debug: Reload project scripts √12%
+9-8-2022 14:59-debug: Query asset bundle start12%
+9-8-2022 14:59-log: // ---- Query asset bundle ----
+9-8-2022 14:59-debug: Process: heapTotal 232.53MB heapUsed 209.87MB rss 329.29MB
+9-8-2022 14:59-debug: [[Executor]] Register LocalizedSprite
+9-8-2022 14:59-debug: [[Executor]] Module "pack:///chunks/bf/bf8d622e0d9a200271a3452947841776a56556f9.js" loaded.
+9-8-2022 14:59-debug: [[Executor]] Register LocalizedSpriteItem
+9-8-2022 14:59-debug: Query asset bundle √14%
+9-8-2022 14:59-debug: Query and organize assets start14%
+9-8-2022 14:59-log: // ---- Query and organize assets ----
+9-8-2022 14:59-debug: Process: heapTotal 232.53MB heapUsed 209.92MB rss 329.30MB
+9-8-2022 14:59-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,1baf0fc9-befa-459c-8bdd-af1a450a0319,511d2633-09a7-4bdd-ac42-f778032124b3,5d45aa00-e064-4938-b314-4265f0c2258c,28d6d6b8-3f66-4a73-9795-17a0852ba2d4,ec8106fe-05bf-4e94-943c-e0d3b7bb5e45,620b6bf3-0369-4560-837f-2a2c00b73c26,ff9be190-20a4-4e48-b68c-76e3c7cff085,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,9361fd90-ba52-4f84-aa93-6e878fd576ca,0835f102-5471-47a3-9a76-01c07ac9cdb2,b5475517-23b9-4873-bc1a-968d96616081,0ed97c56-390e-4dd1-96b7-e7f2d93a98ed,b23391b6-52eb-46a6-8da1-6244d9d315fb,4bb480dd-8384-4bc9-987f-de67cc53052a,d9937e59-61fe-4ec6-92ab-7ac5a19c89b0,d1346436-ac96-4271-b863-1f4fdead95b0,971bdb23-3ff6-43eb-b422-1c30165a3663,17debcc3-0a6b-4b8a-b00b-dc58b885581e,711ebe11-f673-4cd9-9a83-63c60ba54c5b,c0143906-9aed-447e-9436-2ae8512d1b6e,14da1725-c4c2-42b4-ab08-ee0aeb6898b3,081cab31-dccd-428e-8652-f2404cc81c47,78e0584a-4343-4727-8f37-e14e65c2a2db,ba21476f-2866-4f81-9c4d-6e359316e448,871c3b6c-7379-419d-bda3-794b239ab90d,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,1d08ef62-a503-4ce2-8b9a-46c90873f7d3
+9-8-2022 14:59-debug: Number of scenes: 9
+9-8-2022 14:59-debug: Number of assets: 631
+9-8-2022 14:59-debug: Number of asset bundle: 4
+9-8-2022 14:59-debug: Query and organize assets √15%
+9-8-2022 14:59-log: // ---- Organize scripts ----
+9-8-2022 14:59-debug: Organize scripts start15%
+9-8-2022 14:59-debug: Process: heapTotal 233.28MB heapUsed 214.92MB rss 327.58MB
+9-8-2022 14:59-debug: Organize texture compression tasks start16%
+9-8-2022 14:59-debug: Organize scripts √16%
+9-8-2022 14:59-debug: sort script group...
+9-8-2022 14:59-log: // ---- Organize texture compression tasks ----
+9-8-2022 14:59-debug: Process: heapTotal 233.28MB heapUsed 214.95MB rss 327.59MB
+9-8-2022 14:59-debug: Number of image-compress task: 0
+9-8-2022 14:59-debug: Organize texture compression tasks √17%
+9-8-2022 14:59-debug: Group json start17%
+9-8-2022 14:59-debug: Process: heapTotal 233.28MB heapUsed 215.77MB rss 328.00MB
+9-8-2022 14:59-log: // ---- Group json ----
+9-8-2022 14:59-debug: Number of json group: 69
+9-8-2022 14:59-debug: Group json √19%
+9-8-2022 14:59-debug: Merging Texture2D json start19%
+9-8-2022 14:59-debug: Process: heapTotal 233.28MB heapUsed 216.69MB rss 328.01MB
+9-8-2022 14:59-log: // ---- Merging Texture2D json ----
+9-8-2022 14:59-debug: Merging Texture2D json √20%
+9-8-2022 14:59-debug: Sort import-map.json start20%
+9-8-2022 14:59-log: // ---- Sort import-map.json ----
+9-8-2022 14:59-debug: Process: heapTotal 233.28MB heapUsed 216.80MB rss 328.21MB
+9-8-2022 14:59-debug: Sort import-map.json √21%
+9-8-2022 14:59-debug: // ---- native:(onBeforeBuildAssets) ----
+9-8-2022 14:59-debug: native:(onBeforeBuildAssets) start...21%
+9-8-2022 14:59-debug: // ---- native:(onBeforeBuildAssets) success ----
+9-8-2022 14:59-debug: Process: heapTotal 233.28MB heapUsed 216.82MB rss 328.21MB
+9-8-2022 14:59-debug: native:(onBeforeBuildAssets)23%
+9-8-2022 14:59-debug: localization-editor:(onBeforeBuildAssets) start...23%
+9-8-2022 14:59-debug: // ---- localization-editor:(onBeforeBuildAssets) ----
+9-8-2022 14:59-debug: Process: heapTotal 233.28MB heapUsed 216.86MB rss 328.21MB
+9-8-2022 14:59-debug: // ---- localization-editor:(onBeforeBuildAssets) success ----
+9-8-2022 14:59-debug: localization-editor:(onBeforeBuildAssets)26%
+9-8-2022 14:59-debug: Build auto-atlas start26%
+9-8-2022 14:59-log: // ---- Build auto-atlas ----
+9-8-2022 14:59-debug: Process: heapTotal 233.78MB heapUsed 209.76MB rss 328.33MB
+9-8-2022 14:59-debug: Build auto-atlas √32%
+9-8-2022 14:59-debug: Compress Image start32%
+9-8-2022 14:59-log: // ---- Compress Image ----
+9-8-2022 14:59-debug: Process: heapTotal 233.78MB heapUsed 209.80MB rss 328.34MB
+9-8-2022 14:59-debug: Compress Image √39%
+9-8-2022 14:59-debug: Copy the resource start39%
+9-8-2022 14:59-log: // ---- Copy the resource ----
+9-8-2022 14:59-debug: Process: heapTotal 233.78MB heapUsed 209.81MB rss 328.34MB
+9-8-2022 14:59-debug: Asset Bundle(internal) handle assets: 42
+9-8-2022 14:59-debug: Asset Bundle(resources) handle assets: 196
+9-8-2022 14:59-debug: Asset Bundle(main) handle assets: 93
+9-8-2022 14:59-debug: Asset Bundle(data) handle assets: 360
+9-8-2022 14:59-debug: Copy the resource √46%
+9-8-2022 14:59-debug: Build the grouped json and scatter files to the specified location start46%
+9-8-2022 14:59-log: // ---- Build the grouped json and scatter files to the specified location ----
+9-8-2022 14:59-debug: Process: heapTotal 233.78MB heapUsed 211.44MB rss 328.39MB
+9-8-2022 14:59-debug: Json group(0fdc5f3ec) compile success，json number: 6
+9-8-2022 14:59-debug: Json group(0ef294fb0) compile success，json number: 6
+9-8-2022 14:59-debug: Json group(02185d50c) compile success，json number: 6
+9-8-2022 14:59-debug: Json group(0f0ef9df0) compile success，json number: 6
+9-8-2022 14:59-debug: Json group(068ece648) compile success，json number: 6
+9-8-2022 14:59-debug: Json group(0a8ef4b70) compile success，json number: 6
+9-8-2022 14:59-debug: Build the grouped json and scatter files to the specified location √52%
+9-8-2022 14:59-debug: Compress zip bundle start52%
+9-8-2022 14:59-log: // ---- Compress zip bundle ----
+9-8-2022 14:59-debug: Process: heapTotal 236.53MB heapUsed 217.93MB rss 335.89MB
+9-8-2022 14:59-debug: Compress zip bundle √59%
+9-8-2022 14:59-debug: Build script start59%
+9-8-2022 14:59-log: // ---- Build script ----
+9-8-2022 14:59-debug: Process: heapTotal 236.53MB heapUsed 217.94MB rss 335.89MB
+9-8-2022 14:59-debug: Caught exception during build core-js: WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema. - configuration.entry should be an non-empty array.   -> A non-empty array of non-empty stringsThis may indicates the core-js polyfill is not necessary. See https://github.com/zloirock/core-js/issues/822
+9-8-2022 14:59-debug: Build project script start...59%
+9-8-2022 14:59-debug: Process: heapTotal 243.83MB heapUsed 222.91MB rss 335.77MB
+9-8-2022 14:59-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+9-8-2022 14:59-log: [build-script]enter sub process 95955, /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+9-8-2022 14:59-debug: excute-script over with build-script 10443ms
+9-8-2022 14:59-debug: Copy externalScripts success!
+9-8-2022 14:59-debug: Process: heapTotal 243.83MB heapUsed 223.09MB rss 230.19MB
+9-8-2022 14:59-debug: Build engine start...59%
+9-8-2022 14:59-debug: Build project script in (10954 ms) √59%
+9-8-2022 14:59-log: Run build task(build-engine) in child, see: chrome://inspect/#devices
+9-8-2022 14:59-log: [build-engine]enter sub process 95997, /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Frameworks/CocosCreator Helper (Renderer).app/Contents/MacOS/CocosCreator Helper (Renderer),/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/app.asar/builtin/builder/static/sub-process-index
+9-8-2022 14:59-log: [build-engine]Build-engine options: {  "engine": "/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/",  "platform": "NATIVE",  "moduleFormat": 2,  "compress": true,  "split": false,  "ammoJsWasm": "js",  "assetURLFormat": "runtime-resolved",  "noDeprecatedFeatures": false,  "engineName": "cocos-js",  "sourceMaps": false,  "features": [    "2d",    "3d",    "animation",    "audio",    "base",    "custom-pipeline",    "debug-renderer",    "dragon-bones",    "geometry-renderer",    "gfx-webgl",    "gfx-webgl2",    "intersection-2d",    "marionette",    "occlusion-query",    "particle",    "particle-2d",    "physics-2d-box2d",    "physics-ammo",    "primitive",    "profiler",    "skeletal-animation",    "spine",    "terrain",    "tiled-map",    "tween",    "ui",    "video",    "webview"  ],  "loose": true,  "mode": "BUILD",  "flags": {    "DEBUG": false,    "UI_GPU_DRIVEN": false  },  "name": "cocos-js",  "incremental": "/var/folders/s9/nh0sypxs6lv8fpgmnfw780_c0000gn/T/CocosCreator/3.6.0/builder/engine/7a790c369f81b3451500419203973881.watch-files.json",  "out": "/var/folders/s9/nh0sypxs6lv8fpgmnfw780_c0000gn/T/CocosCreator/3.6.0/builder/engine/7a790c369f81b3451500419203973881",  "buildTimeConstants": {    "HTML5": false,    "NATIVE": true,    "WECHAT": false,    "BAIDU": false,    "XIAOMI": false,    "ALIPAY": false,    "BYTEDANCE": false,    "OPPO": false,    "VIVO": false,    "HUAWEI": false,    "COCOSPLAY": false,    "QTT": false,    "LINKSURE": false,    "EDITOR": false,    "PREVIEW": false,    "BUILD": true,    "TEST": false,    "DEBUG": false,    "SERVER_MODE": false,    "DEV": false,    "MINIGAME": false,    "RUNTIME_BASED": false,    "SUPPORT_JIT": true,    "JSB": true,    "NOT_PACK_PHYSX_LIBS": false,    "NET_MODE": 0  },  "metaFile": "/var/folders/s9/nh0sypxs6lv8fpgmnfw780_c0000gn/T/CocosCreator/3.6.0/builder/engine/7a790c369f81b3451500419203973881.meta/meta.json",  "targets": "chrome 80"}
+9-8-2022 14:59-log: [build-engine]Module source "internal-constants":function tryDefineGlobal (name, value) {    const _global = typeof window === 'undefined' ? global : window;    if (typeof _global[name] === 'undefined') {        return (_global[name] = value);    } else {        // eslint-disable-next-line @typescript-eslint/no-unsafe-return        return _global[name];    }}export const HTML5 = false;export const NATIVE = true;export const WECHAT = false;tryDefineGlobal('CC_WECHAT', false);export const BAIDU = false;tryDefineGlobal('CC_BAIDU', false);export const XIAOMI = false;tryDefineGlobal('CC_XIAOMI', false);export const ALIPAY = false;tryDefineGlobal('CC_ALIPAY', false);export const BYTEDANCE = false;tryDefineGlobal('CC_BYTEDANCE', false);export const OPPO = false;tryDefineGlobal('CC_OPPO', false);export const VIVO = false;tryDefineGlobal('CC_VIVO', false);export const HUAWEI = false;tryDefineGlobal('CC_HUAWEI', false);export const COCOSPLAY = false;tryDefineGlobal('CC_COCOSPLAY', false);export const QTT = false;tryDefineGlobal('CC_QTT', false);export const LINKSURE = false;tryDefineGlobal('CC_LINKSURE', false);export const EDITOR = false;tryDefineGlobal('CC_EDITOR', false);export const PREVIEW = false;tryDefineGlobal('CC_PREVIEW', false);export const BUILD = true;tryDefineGlobal('CC_BUILD', true);export const TEST = false;tryDefineGlobal('CC_TEST', false);export const DEBUG = false;tryDefineGlobal('CC_DEBUG', false);export const SERVER_MODE = false;export const DEV = false;tryDefineGlobal('CC_DEV', false);export const MINIGAME = false;tryDefineGlobal('CC_MINIGAME', false);export const RUNTIME_BASED = false;tryDefineGlobal('CC_RUNTIME_BASED', false);export const SUPPORT_JIT = true;tryDefineGlobal('CC_SUPPORT_JIT', true);export const JSB = true;tryDefineGlobal('CC_JSB', true);export const NOT_PACK_PHYSX_LIBS = false;export const NET_MODE = 0;
+9-8-2022 14:59-log: [build-engine]Module source "cc":export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/2d.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/3d.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/animation.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/audio.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/base.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/custom-pipeline.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/dragon-bones.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/geometry-renderer.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/gfx-webgl.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/gfx-webgl2.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/intersection-2d.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/particle.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/particle-2d.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-2d-box2d.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-2d-framework.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-ammo.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/physics-framework.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/primitive.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/profiler.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/skeletal-animation.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/spine.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/terrain.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/tiled-map.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/tween.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/ui.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/video.ts';export * from '/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/exports/webview.ts';
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/pipeline/geometry-renderer.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/pipeline/geometry-renderer.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module internal:native to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/native-binding/impl.ts
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/dragon-bones/index.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/dragon-bones/index.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/spine/index.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/spine/index.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/pipeline/custom/index.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/pipeline/custom/index.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/node.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/node.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/material.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/material.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/assets/mesh.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/assets/mesh.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module pal/system-info to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/system-info/native/system-info.ts
+9-8-2022 14:59-log: [build-engine]Redirect module pal/env to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/env/native/env.ts
+9-8-2022 14:59-log: [build-engine]Redirect module pal/pacer to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/pacer/pacer-native.ts
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/root.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/root.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/index.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/index.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/gfx/index.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/gfx/index.jsb.ts
+9-8-2022 14:59-log: [build-engine]Redirect module pal/input to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/input/native/index.ts
+9-8-2022 14:59-log: [build-engine]Redirect module pal/audio to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/audio/native/player.ts
+9-8-2022 14:59-log: [build-engine]Redirect module pal/screen-adapter to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/screen-adapter/native/screen-adapter.ts
+9-8-2022 14:59-log: [build-engine]Redirect module pal/minigame to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/pal/minigame/non-minigame.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/pass.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/pass.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/program-lib.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/program-lib.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/render-scene.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/render-scene.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/material-instance.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/material-instance.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/index.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/index.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/pipeline/index.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/pipeline/index.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/scene/index.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/scene/index.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/pipeline/render-pipeline.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/pipeline/render-pipeline.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/builtin/builtin-res-mgr.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/builtin/builtin-res-mgr.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/models/morph-model.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/models/morph-model.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/asset.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/asset.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/scene-asset.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/scene-asset.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/rendering-sub-mesh.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/rendering-sub-mesh.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/image-asset.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/image-asset.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/texture-2d.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/texture-2d.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/scene/submodel.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/scene/submodel.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/gfx/base/pipeline-state.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/gfx/base/pipeline-state.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/2d/renderer/native-2d.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/2d/renderer/native-2d.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/misc/create-mesh.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/misc/create-mesh.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/scene/camera.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/scene/camera.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/assets/skeleton.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/assets/skeleton.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/native-pools.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/core/native-pools.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/effect-asset.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/effect-asset.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/base-node.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/base-node.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/texture-base.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/texture-base.jsb.ts
+9-8-2022 15:00-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/spine/lib/spine-core.js
+9-8-2022 15:00-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/spine/lib/spine-core.js
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/scene.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/scene.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/scene-globals.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/scene-graph/scene-globals.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/buffer-asset.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/buffer-asset.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/render-texture.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/render-texture.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/texture-cube.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/texture-cube.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/models/skinning-model.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/models/skinning-model.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/models/baked-skinning-model.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/3d/models/baked-skinning-model.jsb.ts
+9-8-2022 15:00-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/node_modules/@cocos/dragonbones-js/out/dragonBones.js
+9-8-2022 15:00-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/node_modules/@cocos/dragonbones-js/out/dragonBones.js
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/scene/model.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/renderer/scene/model.jsb.ts
+9-8-2022 15:00-log: [build-engine]Redirect module /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/simple-texture.ts to /Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/cocos/core/assets/simple-texture.jsb.ts
+9-8-2022 15:00-log: [build-engine]==== Performance ===={"# BUILD":[43037.969683,397232452,481567072],"## generate module graph":[40838.671175,368971504,453309184],"- plugin 0 (@cocos/build-engine|code-asset) - resolveId":[386.27180600000014,435552,700310552],"- plugin 1 (@cocos/build-engine|load-asset) - resolveId":[456.69381200000026,1061580,700311788],"- plugin 1 (@cocos/build-engine|load-asset) - resolveId (async)":[1738.0889059999988,3406020,700312176],"- plugin 2 (@cocos/build-engine|module-overrides) - resolveId":[340.6401280000004,802552,700312960],"- plugin 3 (virtual) - resolveId":[386.8850949999988,5622876,700316204],"- plugin 4 (ts-paths) - resolveId":[314.0476459999998,277864,700316988],"- plugin 5 (node-resolve) - resolveId":[446.60534800000005,5977112,700323112],"- plugin 5 (node-resolve) - resolveId (async)":[98654.27054299998,2186606888,700787224],"load modules":[212484.8832760001,5478885068,700956812],"- plugin 0 (@cocos/build-engine|code-asset) - load":[80.43222700000003,296348,700791396],"- plugin 0 (@cocos/build-engine|code-asset) - load (async)":[89.10620200000001,196228,700791680],"- plugin 1 (@cocos/build-engine|load-asset) - load":[70.28071300000008,209024,700792236],"- plugin 1 (@cocos/build-engine|load-asset) - load (async)":[112.76512999999994,191860,700792520],"- plugin 2 (@cocos/build-engine|module-overrides) - load":[91.99341299999993,114172,700792912],"- plugin 3 (virtual) - load":[66.34006300000001,62276,700793304],"- plugin 6 (json) - transform":[92.80393299999987,631680,700962404],"- plugin 7 (commonjs) - transform":[1695.8876570000027,37376024,700965340],"- plugin 8 (babel) - transform":[480.2322299999996,24180404,700998508],"generate ast":[3484.303222999997,22161360,700312032],"analyse ast":[2180.790416000001,77966660,700376124],"- plugin 5 (node-resolve) - load":[76.86674500000007,61340,700793736],"- plugin 7 (commonjs) - load":[68.12781700000004,101460,700794216],"- plugin 8 (babel) - load":[335.6121870000008,4975256,700794608],"- plugin 8 (babel) - transform (async)":[22410.940953999972,465570956,700122260],"- plugin 7 (commonjs) - resolveId":[17.162676999999995,19316,688762608],"- plugin 8 (babel) - resolveId":[13.986879000000002,9492,688763024],"- plugin 7 (commonjs) - resolveId (async)":[8585.989529,-45736116,578879900],"- plugin 7 (commonjs) - load (async)":[574.112434,10707512,589595512],"## sort modules":[458.965663,15356480,468666104],"## mark included statements":[1739.7502439999998,12899468,481565960],"treeshaking pass 1":[320.551,570948,474485280],"treeshaking pass 2":[259.261645,1334492,475820152],"treeshaking pass 3":[239.590308,-882768,474937764],"treeshaking pass 4":[144.797849,-1035048,473903096],"treeshaking pass 5":[215.45001,5535720,479439196],"treeshaking pass 6":[171.495793,-3781888,475657688],"treeshaking pass 7":[131.8754,5963748,481621816],"treeshaking pass 8":[116.743033,132604,481754800],"treeshaking pass 9":[114.086302,-189592,481565588]}====             ====
+9-8-2022 15:00-debug: excute-script over with build-engine 76752ms
+9-8-2022 15:00-debug: Build engine in (77409 ms) √59%
+9-8-2022 15:00-debug: Build script √66%
+9-8-2022 15:00-debug: Process: heapTotal 243.83MB heapUsed 223.56MB rss 74.47MB
+9-8-2022 15:00-debug: native:(onAfterBuildAssets)68%
+9-8-2022 15:00-debug: Add md5 suffix to assets start68%
+9-8-2022 15:00-debug: // ---- native:(onAfterBuildAssets) success ----
+9-8-2022 15:00-debug: Process: heapTotal 243.83MB heapUsed 223.58MB rss 75.34MB
+9-8-2022 15:00-debug: // ---- native:(onAfterBuildAssets) ----
+9-8-2022 15:00-debug: native:(onAfterBuildAssets) start...66%
+9-8-2022 15:00-log: // ---- Add md5 suffix to assets ----
+9-8-2022 15:00-debug: add suffix to assets(79) success!
+9-8-2022 15:00-debug: Add md5 suffix to assets √78%
+9-8-2022 15:00-debug: Init settings and config √78%
+9-8-2022 15:00-debug: builder.tasks.settings.macro does not defined in i18n
+9-8-2022 15:00-debug: builder.tasks.settings.macro start78%
+9-8-2022 15:00-log: // ---- builder.tasks.settings.macro ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.44MB rss 101.88MB
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.48MB rss 102.09MB
+9-8-2022 15:00-debug: Init settings and config start78%
+9-8-2022 15:00-log: // ---- Init settings and config ----
+9-8-2022 15:00-debug: builder.tasks.settings.macro √79%
+9-8-2022 15:00-debug: Sort some build options to settings.json start79%
+9-8-2022 15:00-log: // ---- Sort some build options to settings.json ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.52MB rss 102.21MB
+9-8-2022 15:00-debug: Sort some build options to settings.json √79%
+9-8-2022 15:00-debug: custom joint texture layouts start79%
+9-8-2022 15:00-log: // ---- custom joint texture layouts ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.58MB rss 102.45MB
+9-8-2022 15:00-debug: custom joint physics start80%
+9-8-2022 15:00-debug: custom joint texture layouts √80%
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.60MB rss 102.54MB
+9-8-2022 15:00-log: // ---- custom joint physics ----
+9-8-2022 15:00-log: // ---- Fill script data to settings ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.62MB rss 102.56MB
+9-8-2022 15:00-debug: custom joint physics √81%
+9-8-2022 15:00-debug: Fill script data to settings start81%
+9-8-2022 15:00-debug: Fill script data to settings √81%
+9-8-2022 15:00-debug: Fill scene data to settings start81%
+9-8-2022 15:00-log: // ---- Fill scene data to settings ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.63MB rss 102.59MB
+9-8-2022 15:00-debug: Fill scene data to settings √82%
+9-8-2022 15:00-debug: Organize assets groups，generate packedAssets and rawAssets data start82%
+9-8-2022 15:00-log: // ---- Organize assets groups，generate packedAssets and rawAssets data ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.64MB rss 102.76MB
+9-8-2022 15:00-debug: Organize assets groups，generate packedAssets and rawAssets data √82%
+9-8-2022 15:00-debug: Generate md5AssetsMap from suffixMap to settings start82%
+9-8-2022 15:00-log: // ---- Generate md5AssetsMap from suffixMap to settings ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.87MB rss 106.12MB
+9-8-2022 15:00-debug: Generate md5AssetsMap from suffixMap to settings √83%
+9-8-2022 15:00-debug: cocos-service:(onBeforeCompressSettings) start...83%
+9-8-2022 15:00-debug: // ---- cocos-service:(onBeforeCompressSettings) ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.91MB rss 106.16MB
+9-8-2022 15:00-debug: // ---- cocos-service:(onBeforeCompressSettings) success ----
+9-8-2022 15:00-debug: Build import-map.json start85%
+9-8-2022 15:00-log: // ---- Build import-map.json ----
+9-8-2022 15:00-debug: cocos-service:(onBeforeCompressSettings)85%
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 221.02MB rss 106.46MB
+9-8-2022 15:00-debug: Build import-map.json √86%
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 221.05MB rss 106.50MB
+9-8-2022 15:00-debug: Save config.json start87%
+9-8-2022 15:00-log: // ---- Save config.json ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.82MB rss 105.36MB
+9-8-2022 15:00-debug: Compress settings.json and config.json √87%
+9-8-2022 15:00-debug: Save config.json √88%
+9-8-2022 15:00-log: // ---- Save Settings.json ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 221.08MB rss 105.70MB
+9-8-2022 15:00-debug: Save Settings.json √89%
+9-8-2022 15:00-debug: Sort build template start89%
+9-8-2022 15:00-log: // ---- Sort build template ----
+9-8-2022 15:00-debug: Process: heapTotal 228.68MB heapUsed 220.47MB rss 106.11MB
+9-8-2022 15:00-log: // ---- Compress settings.json and config.json ----
+9-8-2022 15:00-debug: Save Settings.json start88%
+9-8-2022 15:00-debug: Compress settings.json and config.json start86%
+9-8-2022 15:00-debug: Sort build template √90%
+9-8-2022 15:00-debug: native:(onAfterCompressSettings) start...90%
+9-8-2022 15:00-debug: // ---- native:(onAfterCompressSettings) ----
+9-8-2022 15:00-debug: Process: heapTotal 230.09MB heapUsed 222.01MB rss 115.40MB
+9-8-2022 15:00-log: Checking template version...
+9-8-2022 15:00-log: Validating template consistency...
+9-8-2022 15:00-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY ON)","APP_NAME":"set(APP_NAME Numerology36)","COCOS_X_PATH":"set(COCOS_X_PATH \"/Applications/CocosCreator/Creator/3.6.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_ANTIALIAS_FXAA":"set(ENABLE_ANTIALIAS_FXAA OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY ON)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER ON)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER ON)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN ON)"}
+9-8-2022 15:00-log: While replace template content, file /Volumes/D/YAN/Numerology36/build/android/proj/main.cpp
+9-8-2022 15:00-log: While replace template content, file /Volumes/D/YAN/Numerology36/build/android/proj/main.m
+9-8-2022 15:00-log: While replace template content, file /Volumes/D/YAN/Numerology36/native/engine/android/entry/src/main/config.json
+9-8-2022 15:00-log: update settings.properties
+9-8-2022 15:00-log: update gradle.properties
+9-8-2022 15:00-log: AndroidAPI level 32
+9-8-2022 15:00-log: android instant not configured
+9-8-2022 15:00-debug: // ---- native:(onAfterCompressSettings) success ----
+9-8-2022 15:00-debug: native:(onAfterCompressSettings)92%
+9-8-2022 15:00-debug: cocos-service:(onAfterCompressSettings) start...92%
+9-8-2022 15:00-debug: // ---- cocos-service:(onAfterCompressSettings) ----
+9-8-2022 15:00-debug: Process: heapTotal 230.09MB heapUsed 222.08MB rss 116.87MB
+9-8-2022 15:00-debug: // ---- cocos-service:(onAfterCompressSettings) success ----
+9-8-2022 15:00-debug: cocos-service:(onAfterCompressSettings)94%
+9-8-2022 15:00-debug: native:(onAfterBuild) start...94%
+9-8-2022 15:00-debug: // ---- native:(onAfterBuild) ----
+9-8-2022 15:00-debug: Process: heapTotal 230.09MB heapUsed 221.94MB rss 117.43MB
+9-8-2022 15:01-debug: Use user build-template in {link(/Volumes/D/YAN/Numerology36/build-templates/android)}
+9-8-2022 15:01-debug: // ---- native:(onAfterBuild) success ----
+9-8-2022 15:01-debug: Process: heapTotal 231.09MB heapUsed 222.41MB rss 109.61MB
+9-8-2022 15:01-debug: cocos-service:(onAfterBuild) start...97%
+9-8-2022 15:01-debug: // ---- cocos-service:(onAfterBuild) ----
+9-8-2022 15:01-debug: native:(onAfterBuild)97%
+9-8-2022 15:01-debug: // ---- cocos-service:(onAfterBuild) success ----
+9-8-2022 15:01-debug: builder:build-project-total (107102ms)
+9-8-2022 15:01-debug: cocos-service:(onAfterBuild)99%
+9-8-2022 15:01-debug: build success in 107102 ms!
+9-8-2022 15:01-debug: ================================ Build Task (android) Finished ================================

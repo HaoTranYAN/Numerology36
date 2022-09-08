@@ -61,7 +61,21 @@ export class Settings extends Component {
     this.loadVersionTitle();
 
 
-  }
+    setTimeout(() => {
+      this.preloadScene();
+    }, 50);
+  
+  
+  
+    }
+  
+    preloadScene(){
+      director.preloadScene("Home",function(){})
+      director.preloadScene("Profile",function(){})
+      director.preloadScene("Intro",function(){})
+
+  
+    }
 
   clickChangeStateMusic() {
     if (AudioManager.getMusic() === "true") {
