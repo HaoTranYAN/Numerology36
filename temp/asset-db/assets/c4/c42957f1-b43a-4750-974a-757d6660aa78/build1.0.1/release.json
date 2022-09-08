@@ -1,0 +1,35 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.TextAsset",
+            [
+                "_name",
+                "text"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "vi_daypersonal_9",
+            "Đây là ngày của sự kết thúc. Bạn nên giữ tâm trạng thoải mái và bao dung. Hãy dành thời gian để hoàn tất những việc bạn còn dang dở. Hoặc có thể làm từ thiện, chia sẻ món quà với người khác..."
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

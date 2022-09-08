@@ -1,0 +1,35 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.TextAsset",
+            [
+                "_name",
+                "text"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "vi_daypersonal_2",
+            "Đây ngày khá nhẹ nhàng, thoải mái dành cho bạn. Hôm nay bạn cũng có thể sẽ cần làm việc, hợp tác với mọi người. Bạn cũng nên kiên nhẫn và tập trung vào từng chi tiết. "
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

@@ -1,0 +1,35 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.TextAsset",
+            [
+                "_name",
+                "text"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "en_monthpersonal_3",
+            "Self-expression, Creativity & Communication\nThis is a fun month! A time to be social, spend time with friends and dabble in creative endeavors. Do more things that bring joy and happiness into your life. Even if your life isn’t perfect at the current moment (whose is?), try and maintain an optimistic attitude. Expressing your thoughts and feelings honestly will carry you far."
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

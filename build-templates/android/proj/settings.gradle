@@ -1,0 +1,12 @@
+include ':libcocos',':libservice',':Numerology36'
+//project(':libcocos').projectDir     = new File(COCOS_ENGINE_PATH,'cocos/platform/android/libcocos2dx')
+project(':libcocos').projectDir     = new File(NATIVE_DIR,'libcocos2dx')
+
+project(':Numerology36').projectDir    = new File(NATIVE_DIR, 'app')
+if(PROP_ENABLE_INSTANT_APP == "true" || PROP_ENABLE_INSTANT_APP == "yes") {
+    include ':instantapp'
+    project(':instantapp').projectDir   = new File(NATIVE_DIR, 'instantapp')
+
+}
+
+rootProject.name = "Numerology36"

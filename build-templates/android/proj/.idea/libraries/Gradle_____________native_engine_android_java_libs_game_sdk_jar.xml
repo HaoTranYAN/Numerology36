@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./../../../native/engine/android/java/libs/game-sdk.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../native/engine/android/java/libs/game-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

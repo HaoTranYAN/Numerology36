@@ -1,0 +1,35 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.TextAsset",
+            [
+                "_name",
+                "text"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "vi_year_3",
+            "Năm cá nhân 3: Công việc sáng tạo\n\nNăm 3 có năng lượng tập trung vào những thành công sáng tạo. Điều đó có nghĩa là bạn có thể có nhiều xu hướng để tạo ra như một cách để thể hiện bản thân khi ở trong số năm cá nhân này."
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

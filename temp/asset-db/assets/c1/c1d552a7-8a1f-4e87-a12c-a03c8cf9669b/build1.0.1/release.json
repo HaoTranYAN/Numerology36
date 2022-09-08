@@ -1,0 +1,35 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.TextAsset",
+            [
+                "_name",
+                "text"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "vi_impresson_1",
+            "Đây là nhóm người thường rất thích những môn thể thao cá nhân hoặc làm việc một mình. Họ thích được tự do làm mọi việc theo nhịp độ riêng, để có thể đạt được sự hài lòng cao nhất và xây dựng sự tự tin của họ trong các hoạt động thể chất."
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

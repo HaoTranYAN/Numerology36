@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+
+    <style name="Theme.NumerologyMain" parent="Theme.AppCompat.DayNight.NoActionBar">
+
+        <!-- Primary brand color. -->
+        <item name="android:colorPrimary">@color/color_app</item>
+        <item name="android:colorAccent">@color/color_app</item>
+        <item name="android:colorPrimaryDark">@color/color_app</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/color_app</item>
+        <!--        <item name="android:navigationBarColor" tools:targetApi="l">#fb5777</item>-->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowBackground">@color/color_app</item>
+        <!--        <item name="android:windowDrawsSystemBarBackgrounds">false</item>-->
+        <item name="android:windowContentOverlay">@null</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+
+
+</resources>

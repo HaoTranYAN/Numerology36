@@ -1,0 +1,3858 @@
+{
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common.meta": {
+    "time": 1660880834053.0493
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common": {
+    "time": 1662525189041.8425,
+    "uuid": "39516200-3210-465b-9eef-8a857f3bf629",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources.meta": {
+    "time": 1660880847371.7585
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources": {
+    "time": 1661423116410.6072,
+    "uuid": "c1340503-8dca-489a-a432-63ab3a00751e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene.meta": {
+    "time": 1660880856064.2163
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene": {
+    "time": 1661824506142.3235,
+    "uuid": "d11a8c51-4ecf-4e65-bd26-918751b1379d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script.meta": {
+    "time": 1660880870275.7234
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script": {
+    "time": 1661827153366.8154,
+    "uuid": "acebc361-c5c9-4457-8c69-9b6a00647c4a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts.meta": {
+    "time": 1660883869153.372
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts": {
+    "time": 1660883869151.0942,
+    "uuid": "c37918d4-3fc6-45a2-92dd-05d205472f5b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts.meta": {
+    "time": 1660883869161.9067
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts": {
+    "time": 1661835585546.178,
+    "uuid": "038449bc-292e-4dec-912f-62cd4a0a1712",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts.meta": {
+    "time": 1660883869189.2026
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts": {
+    "time": 1661499355825.8503,
+    "uuid": "e8581cf7-9790-4fe4-b818-83d407020832",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioPersistRootNode.ts.meta": {
+    "time": 1660883869200.9048
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioPersistRootNode.ts": {
+    "time": 1662526009353.986,
+    "uuid": "b2d76bdf-2f7a-4ba2-aeb4-ed4a39287e91",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts.meta": {
+    "time": 1660883869230.7156
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts": {
+    "time": 1662535018975.6172,
+    "uuid": "b05066de-ea1f-4f71-a797-d9a7e7e8d56e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Home.ts.meta": {
+    "time": 1660883911774.079
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Home.ts": {
+    "time": 1661852765543.438,
+    "uuid": "1fbd29c9-2b3b-4ed0-83bc-7383ddfde370",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Profile.ts.meta": {
+    "time": 1660883911782.418
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Profile.ts": {
+    "time": 1662608416057.548,
+    "uuid": "9504d3e1-f086-4476-b5c3-1d5e4f0c4026",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Splash.ts.meta": {
+    "time": 1660883911796.1777
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Splash.ts": {
+    "time": 1662619396145.0286,
+    "uuid": "d1faddca-a142-4cc7-b739-defa504246b0",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font.meta": {
+    "time": 1660883926270.0212
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font/Roboto-Bold.ttf.meta": {
+    "time": 1660883926265.4639
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font/Roboto-Regular.ttf.meta": {
+    "time": 1660883926261.0957
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font/UTM BanqueR.ttf.meta": {
+    "time": 1660883926253.754
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font": {
+    "time": 1661851155550.699,
+    "uuid": "8e650644-ced1-4817-8d14-8dcdfdb4d695",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font/UTM BanqueR.ttf": {
+    "time": 1660883926256.4106,
+    "uuid": "a1e8c18b-70f2-467c-9120-6835fdaefa32",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font/Roboto-Bold.ttf": {
+    "time": 1660883926267.9656,
+    "uuid": "b8b7ba42-58a9-439a-9133-ba133cf48c9b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font/Roboto-Regular.ttf": {
+    "time": 1660883926263.9375,
+    "uuid": "e3d6a002-ae01-4d6a-a7d5-564068f0b632",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/en.ts.meta": {
+    "time": 1660883926319.1216
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/en.ts": {
+    "time": 1661768242257.057,
+    "uuid": "7cebac75-5de9-4f51-9bed-37769f6917ac",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/vi.ts.meta": {
+    "time": 1660883926342.144
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/vi.ts": {
+    "time": 1661768240208.9023,
+    "uuid": "c57ae844-9cf1-409e-8dd7-c70d2276b352",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image.meta": {
+    "time": 1660883926457.5496
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/46.png.meta": {
+    "time": 1660883926554.724
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/47.png.meta": {
+    "time": 1660883926545.962
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/48.png.meta": {
+    "time": 1660883926547.028
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/49.png.meta": {
+    "time": 1660883926554.0425
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/5.png.meta": {
+    "time": 1660883926551.8052
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/50.png.meta": {
+    "time": 1660883926617.9883
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/51.png.meta": {
+    "time": 1660883926593.004
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/52.png.meta": {
+    "time": 1660883926591.9597
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/53.png.meta": {
+    "time": 1660883926743.7375
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/54.png.meta": {
+    "time": 1660883926597.8357
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/55.png.meta": {
+    "time": 1660883926738.3823
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/56.jpg.meta": {
+    "time": 1660883926625.9563
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/57.png.meta": {
+    "time": 1660883926743.0635
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/6.png.meta": {
+    "time": 1660883926788.2075
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/7.png.meta": {
+    "time": 1660883926801.4219
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/8.png.meta": {
+    "time": 1660883926812.758
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/9.png.meta": {
+    "time": 1660883926810.3735
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image": {
+    "time": 1661397488454.2192,
+    "uuid": "565e4457-6344-4ea1-ad17-2bc71f841fed",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/47.png": {
+    "time": 1660883926438.8696,
+    "uuid": "69d1718c-d715-40d9-93c3-e3ddc11574b5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/48.png": {
+    "time": 1660883926435.811,
+    "uuid": "4fe49294-5776-4ac5-8122-4dfa29aace45",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/5.png": {
+    "time": 1660883926428.2747,
+    "uuid": "b8c9a38d-b40c-4d83-aa0a-305d95559fe9",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/49.png": {
+    "time": 1660883926431.1536,
+    "uuid": "82a962c4-e234-443d-98c0-d9dc3a1b611f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/46.png": {
+    "time": 1660883926442.315,
+    "uuid": "70b5883e-d438-47ea-860a-920f52ac3992",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/52.png": {
+    "time": 1660883926409.596,
+    "uuid": "617e4923-a7c5-4bda-8947-a6d2a3ce415d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/51.png": {
+    "time": 1660883926413.1448,
+    "uuid": "647cea3f-0e59-48cc-a4f0-65e468608780",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/54.png": {
+    "time": 1660883926403.1406,
+    "uuid": "d1c57e8c-a616-413e-8450-055c804b6164",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/50.png": {
+    "time": 1660883926423.8433,
+    "uuid": "bebc0e36-11b4-44e7-bd2e-6f581ba3303f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/56.jpg": {
+    "time": 1660883926388.1243,
+    "uuid": "ffaacbc7-5fbb-43a4-af92-2e0d38b58013",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/1.png.meta": {
+    "time": 1660883926833.6829
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/10.png.meta": {
+    "time": 1660883926836.374
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/11.png.meta": {
+    "time": 1660883926843.9695
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/12.png.meta": {
+    "time": 1660883926855.047
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/13.png.meta": {
+    "time": 1660883926855.9607
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/14.png.meta": {
+    "time": 1660883926878.0024
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/15.png.meta": {
+    "time": 1660883926878.5137
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/16.png.meta": {
+    "time": 1660883926899.879
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/17.png.meta": {
+    "time": 1660883926909.6416
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/18.png.meta": {
+    "time": 1660883926900.6372
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/19.png.meta": {
+    "time": 1660883926932.0315
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/2.png.meta": {
+    "time": 1660883926933.0376
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/20.png.meta": {
+    "time": 1660883927002.8757
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/21.png.meta": {
+    "time": 1660883926988.1616
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/22.png.meta": {
+    "time": 1660883927001.774
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/23.png.meta": {
+    "time": 1660883927016.2493
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/24.png.meta": {
+    "time": 1660883927082.6023
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/25.png.meta": {
+    "time": 1660883927076.3635
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/26.png.meta": {
+    "time": 1660883927109.0312
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/27.png.meta": {
+    "time": 1660883927118.4326
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/28.png.meta": {
+    "time": 1660883927153.3384
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/29.png.meta": {
+    "time": 1660883927204.1262
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/3.png.meta": {
+    "time": 1660883927201.8433
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/30.png.meta": {
+    "time": 1660883927210.99
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/31.png.meta": {
+    "time": 1660883927208.307
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/32.png.meta": {
+    "time": 1660883927249.4763
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/33.png.meta": {
+    "time": 1660883927250.0083
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/34.png.meta": {
+    "time": 1660883927253.7798
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/35.png.meta": {
+    "time": 1660883927256.7366
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/36.png.meta": {
+    "time": 1660883927266.3015
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/37.png.meta": {
+    "time": 1660883927355.7754
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/38.png.meta": {
+    "time": 1660883927344.442
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/39.png.meta": {
+    "time": 1660883927360.0078
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/4.png.meta": {
+    "time": 1660883927370.745
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/40.png.meta": {
+    "time": 1660883927389.0396
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/41.png.meta": {
+    "time": 1660883927402.1345
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/42.png.meta": {
+    "time": 1660883927407.4634
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/43.png.meta": {
+    "time": 1660883927415.583
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/44.png.meta": {
+    "time": 1660883927432.7876
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/45.png.meta": {
+    "time": 1660883927438.6543
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/55.png": {
+    "time": 1660883926392.111,
+    "uuid": "824cb5ff-f529-4cf4-867a-9d7de0ba724b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/57.png": {
+    "time": 1660883926384.9539,
+    "uuid": "81857208-136f-4a1a-bd47-a83272a1a0c0",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/53.png": {
+    "time": 1660883926406.2532,
+    "uuid": "5de4eb4a-69d7-4163-8600-7f2ba370f686",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/6.png": {
+    "time": 1660883926378.916,
+    "uuid": "b4222614-2c3b-4d64-9d1b-c8ddd7c98525",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/7.png": {
+    "time": 1660883926376.0542,
+    "uuid": "7d66d0e0-0193-42f2-9e1d-1d74f64b4c13",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/9.png": {
+    "time": 1660883926370.0383,
+    "uuid": "6d98c5a2-4d16-4ebd-a71d-c77d44b19b34",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/8.png": {
+    "time": 1660883926372.363,
+    "uuid": "b29ef180-809e-4fe2-a853-59300cd7524f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/1.png": {
+    "time": 1660883926670.296,
+    "uuid": "37142241-fc44-4666-a6b2-db55d24b9400",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/10.png": {
+    "time": 1660883926667.8735,
+    "uuid": "fdca8763-f572-4036-8537-df27a8b752da",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/11.png": {
+    "time": 1660883926664.501,
+    "uuid": "2df1be8c-c52e-4071-b17e-b08097f63e12",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/12.png": {
+    "time": 1660883926660.473,
+    "uuid": "38d8f5ef-a11a-42c8-8237-1a9b32d86d93",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/13.png": {
+    "time": 1660883926657.2454,
+    "uuid": "ff8e76cd-ec53-45a8-a16a-3dbfb1bb872f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/14.png": {
+    "time": 1660883926654.169,
+    "uuid": "cc335271-cb39-4639-8571-1ba0fce35ca4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/15.png": {
+    "time": 1660883926650.4673,
+    "uuid": "77f904a6-6d5e-4dad-b936-7d15b45f787c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/16.png": {
+    "time": 1660883926646.4512,
+    "uuid": "acfa3a40-09ee-4249-a785-5842de0beae6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/18.png": {
+    "time": 1660883926626.6682,
+    "uuid": "97066657-5646-465c-bc45-e6fbc3db5ba9",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/17.png": {
+    "time": 1660883926641.091,
+    "uuid": "08854515-e8d7-464d-a2f9-241889865282",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/19.png": {
+    "time": 1660883926618.3337,
+    "uuid": "0bfcfaac-dc13-40e3-957f-b43a90076621",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/2.png": {
+    "time": 1660883926614.8152,
+    "uuid": "15313135-287b-4dec-809b-e43633b133ef",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/21.png": {
+    "time": 1660883926609.8408,
+    "uuid": "8e2a5478-2726-424b-b9e7-6921149cdb81",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/22.png": {
+    "time": 1660883926607.5435,
+    "uuid": "c789147e-05ba-462b-938d-d76f49dfd0ab",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/20.png": {
+    "time": 1660883926612.2456,
+    "uuid": "efca1e3b-4ca8-4ebb-a475-f536f3cb0cf8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/23.png": {
+    "time": 1660883926605.1821,
+    "uuid": "a8445c6f-6a82-424b-9b64-353656243e56",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/25.png": {
+    "time": 1660883926600.8386,
+    "uuid": "999e48de-0ba9-4b59-991a-33dc4bc4e837",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/24.png": {
+    "time": 1660883926603.3037,
+    "uuid": "3bbfb509-e373-4398-bad0-262c32d09149",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/26.png": {
+    "time": 1660883926597.3704,
+    "uuid": "df0db44b-586d-41e3-a662-04feb1ee4502",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/27.png": {
+    "time": 1660883926595.0337,
+    "uuid": "b1b5899a-49df-41be-ad1d-9f1ef9255578",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/28.png": {
+    "time": 1660883926592.7117,
+    "uuid": "0e6bbbcd-9b13-485b-a5cb-791a5ca65140",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/3.png": {
+    "time": 1660883926588.1228,
+    "uuid": "6e23b3d2-412f-4031-bcb7-03890564ec5c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/29.png": {
+    "time": 1660883926590.5247,
+    "uuid": "634b2ec5-326d-42fa-8726-42b198db8789",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/31.png": {
+    "time": 1660883926583.9521,
+    "uuid": "55b79dbb-be9b-4cfd-80f9-52418e42d52c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/30.png": {
+    "time": 1660883926585.805,
+    "uuid": "22424d54-78d0-4eee-88df-b7f61153d8ef",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/32.png": {
+    "time": 1660883926580.8618,
+    "uuid": "2553053f-9c95-4242-9e1e-7023b47b1363",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/33.png": {
+    "time": 1660883926578.4905,
+    "uuid": "0ac9ac4d-69cb-4c77-9797-e0892f0d6650",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/34.png": {
+    "time": 1660883926576.4543,
+    "uuid": "52db6f88-5d10-4b20-a973-6235c51ff10e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/35.png": {
+    "time": 1660883926564.8809,
+    "uuid": "a158afdf-80b7-43c5-a2ad-f3b8ad7cb5d0",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/36.png": {
+    "time": 1660883926561.6409,
+    "uuid": "f7904ee3-66e9-48aa-bacb-b3cad6f62f36",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/38.png": {
+    "time": 1660883926554.2202,
+    "uuid": "cec8cff6-c57e-4e81-a00a-174f5e19516f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/37.png": {
+    "time": 1660883926557.9932,
+    "uuid": "a77fb0f1-4780-41bf-84e1-625045547116",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/39.png": {
+    "time": 1660883926547.3394,
+    "uuid": "cacc4ada-26f2-4f93-b18a-0cee85a39887",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/4.png": {
+    "time": 1660883926542.9138,
+    "uuid": "c823609d-5ebe-4d62-a0de-95d72a3bfa9b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/40.png": {
+    "time": 1660883926537.823,
+    "uuid": "e44ad509-15fe-4326-87e8-887f456ba252",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/41.png": {
+    "time": 1660883926523.611,
+    "uuid": "6beaac36-aa18-43a0-ae0c-89ef4952290b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/42.png": {
+    "time": 1660883926493.2502,
+    "uuid": "93743282-d1e4-401c-b5f4-903905430a02",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/43.png": {
+    "time": 1660883926488.484,
+    "uuid": "b6a7bdb6-4390-4677-bebc-45b2161d2c07",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/44.png": {
+    "time": 1660883926469.582,
+    "uuid": "bd733ff4-a6ff-421a-b56a-18424091bdff",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/45.png": {
+    "time": 1660883926455.4893,
+    "uuid": "a87724b8-a455-4bc9-94ce-6086a5701917",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/sound.meta": {
+    "time": 1660883927485.181
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/sound/click.wav.meta": {
+    "time": 1660883927479.8923
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/sound/music.mp3.meta": {
+    "time": 1660883927467.824
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/sound": {
+    "time": 1662536249485.0867,
+    "uuid": "fff4b8bd-189a-4e68-b6d8-5792de059618",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/sound/click.wav": {
+    "time": 1660883927482.6887,
+    "uuid": "ead80ba9-6803-424e-a509-ba8f9535fb05",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/sound/music.mp3": {
+    "time": 1660883927478.1165,
+    "uuid": "0bde5509-ca16-44db-999b-c349448f4360",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Home.scene.meta": {
+    "time": 1660883953211.96
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Home.scene": {
+    "time": 1662609257934.8079,
+    "uuid": "9401f302-3507-4804-aed1-e337f86d4af8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Profile.scene.meta": {
+    "time": 1660883953243.3867
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Profile.scene": {
+    "time": 1662607481504.1357,
+    "uuid": "5bfb9266-e23d-4959-940a-f56b2bc6af09",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Splash.scene.meta": {
+    "time": 1660883953256.3352
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Splash.scene": {
+    "time": 1662536261215.6943,
+    "uuid": "30f95c25-369f-47a0-a25b-6b69836eb966",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Settings.ts.meta": {
+    "time": 1661222586284.898
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Settings.ts": {
+    "time": 1662546833366.2334,
+    "uuid": "ae7c2e6e-3c40-462c-9504-61076e425471",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/58.png.meta": {
+    "time": 1661237027086.334
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/59.png.meta": {
+    "time": 1661237027088.0984
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/60.png.meta": {
+    "time": 1661237027087.1755
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/58.png": {
+    "time": 1660530706000,
+    "uuid": "4bfb3983-7536-453c-9259-6f2ff6d57eb1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/60.png": {
+    "time": 1660530706000,
+    "uuid": "1176de4c-e89a-4f84-b73d-80e1b3021208",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/59.png": {
+    "time": 1660530706000,
+    "uuid": "b5355571-c2b0-44e0-a327-89e6c00a6c19",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Intro.ts.meta": {
+    "time": 1661248610359.8337
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Intro.ts": {
+    "time": 1662545939469.0874,
+    "uuid": "4c79c8e8-a88e-4a5b-ad73-5ae742ad1107",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Intro.scene.meta": {
+    "time": 1661222466110.368
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Intro.scene": {
+    "time": 1662352425449.4175,
+    "uuid": "ab98a63c-e779-46f4-9a74-ca800968bfe4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Settings.scene.meta": {
+    "time": 1661248593198.0938
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Settings.scene": {
+    "time": 1662607647017.2605,
+    "uuid": "0c4c10af-dd8d-4b78-92c9-6262093ad79a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/61.png.meta": {
+    "time": 1661249235886.2246
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/61.png": {
+    "time": 1649745263000,
+    "uuid": "a92e3f9d-343b-4317-b00c-ce7d41c7c78a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab.meta": {
+    "time": 1661309688803.133
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab": {
+    "time": 1661843143951.6807,
+    "uuid": "26b468e8-0655-4c38-9313-6b8361a6b90a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabTools.ts.meta": {
+    "time": 1661315997821.2034
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabTools.ts": {
+    "time": 1661756693490.5088,
+    "uuid": "f41f5088-2002-46ab-905d-4b8dbe994f9b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabTools.prefab.meta": {
+    "time": 1661316007353.82
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabTools.prefab": {
+    "time": 1661324163807.7136,
+    "uuid": "52caf2d4-23df-4f23-b23c-8b13f0a856a2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabMainNumbers.ts.meta": {
+    "time": 1661324841325.3933
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabMainNumbers.ts": {
+    "time": 1661836211784.4973,
+    "uuid": "c4237123-3947-4ce3-9165-2a53efeab687",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabMainNumbers.prefab.meta": {
+    "time": 1661332634916.9976
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabMainNumbers.prefab": {
+    "time": 1661758330359.886,
+    "uuid": "b69a5f1d-b75a-4bde-8053-56554c2cf6f9",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/62.png.meta": {
+    "time": 1661396578567.3433
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/62.png": {
+    "time": 1649745263000,
+    "uuid": "f6c789df-da36-404a-967a-271ae5c930d9",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/default_sprite_splash.png.meta": {
+    "time": 1661397488470.9805
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/image/default_sprite_splash.png": {
+    "time": 1649745263000,
+    "uuid": "5908b0bd-436d-4605-8e0b-f951df2329a6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecast.ts.meta": {
+    "time": 1661423088180.7144
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecast.ts": {
+    "time": 1662617964749.4272,
+    "uuid": "9839ec6e-91b4-40f9-a503-d86923cc6731",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecastMonth.prefab.meta": {
+    "time": 1661411422958.352
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecastMonth.prefab": {
+    "time": 1662609114989.1091,
+    "uuid": "c075dc55-0464-46cd-a62e-f1fef5b35dd6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecastMonth.ts.meta": {
+    "time": 1661411396736.1653
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecastMonth.ts": {
+    "time": 1662618006410.2007,
+    "uuid": "051137c1-a572-45a6-a2ee-2855c76e4d4f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data.meta": {
+    "time": 1661479905506.4888
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data": {
+    "time": 1660883891951.4727,
+    "uuid": "1bb94ae1-99d8-4b5a-b7c2-4c6ee22b8c1f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_1.txt.meta": {
+    "time": 1660883884456.956
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_11.txt.meta": {
+    "time": 1660883884622.2622
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_2.txt.meta": {
+    "time": 1660883884470.5996
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_22.txt.meta": {
+    "time": 1660883884656.346
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_3.txt.meta": {
+    "time": 1660883884487.3306
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_4.txt.meta": {
+    "time": 1660883884503.5583
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_5.txt.meta": {
+    "time": 1660883884526.2637
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_6.txt.meta": {
+    "time": 1660883884539.9783
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_7.txt.meta": {
+    "time": 1660883884560.6677
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_8.txt.meta": {
+    "time": 1660883884587.414
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_9.txt.meta": {
+    "time": 1660883884609.1064
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_1.txt.meta": {
+    "time": 1660883884685.8657
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_2.txt.meta": {
+    "time": 1660883884743.6511
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_3.txt.meta": {
+    "time": 1660883884761.7134
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_4.txt.meta": {
+    "time": 1660883884825.973
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_5.txt.meta": {
+    "time": 1660883884842.1826
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_6.txt.meta": {
+    "time": 1660883884888.014
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_7.txt.meta": {
+    "time": 1660883884898.4216
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_8.txt.meta": {
+    "time": 1660883884966.82
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_9.txt.meta": {
+    "time": 1660883884978.4998
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_1.txt.meta": {
+    "time": 1660883885021.3093
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_11.txt.meta": {
+    "time": 1660883885364.9966
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_2.txt.meta": {
+    "time": 1660883885059.3105
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_22.txt.meta": {
+    "time": 1660883885426.1587
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_3.txt.meta": {
+    "time": 1660883885091.0183
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_4.txt.meta": {
+    "time": 1660883885131.1833
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_5.txt.meta": {
+    "time": 1660883885177.104
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_6.txt.meta": {
+    "time": 1660883885188.7495
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_7.txt.meta": {
+    "time": 1660883885258.3376
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_8.txt.meta": {
+    "time": 1660883885309.2925
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_9.txt.meta": {
+    "time": 1660883885348.4094
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_0.txt.meta": {
+    "time": 1660883885755.7441
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_1.txt.meta": {
+    "time": 1660883885789.7883
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_2.txt.meta": {
+    "time": 1660883885815.9114
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_3.txt.meta": {
+    "time": 1660883885844.94
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_4.txt.meta": {
+    "time": 1660883885894.2185
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_5.txt.meta": {
+    "time": 1660883885907.739
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_6.txt.meta": {
+    "time": 1660883885917.5579
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_7.txt.meta": {
+    "time": 1660883885948.0627
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_8.txt.meta": {
+    "time": 1660883885980.4727
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_9.txt.meta": {
+    "time": 1660883886011.8674
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_0.txt.meta": {
+    "time": 1660883885448.1052
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_13.txt.meta": {
+    "time": 1660883885504.642
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_14.txt.meta": {
+    "time": 1660883885619.6057
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_16.txt.meta": {
+    "time": 1660883885676.5032
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_19.txt.meta": {
+    "time": 1660883885737.5652
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_1.txt.meta": {
+    "time": 1660883886063.6558
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_11.txt.meta": {
+    "time": 1660883886233.8728
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_2.txt.meta": {
+    "time": 1660883886073.6487
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_22.txt.meta": {
+    "time": 1660883886256.6445
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_3.txt.meta": {
+    "time": 1660883886083.325
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_4.txt.meta": {
+    "time": 1660883886112.4387
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_5.txt.meta": {
+    "time": 1660883886153.8323
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_6.txt.meta": {
+    "time": 1660883886163.9695
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_7.txt.meta": {
+    "time": 1660883886191.0066
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_8.txt.meta": {
+    "time": 1660883886198.9856
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_9.txt.meta": {
+    "time": 1660883886224.5847
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_11.txt.meta": {
+    "time": 1660883886265.6802
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_12.txt.meta": {
+    "time": 1660883886286.3584
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_13.txt.meta": {
+    "time": 1660883886307.4138
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_14.txt.meta": {
+    "time": 1660883886317.1663
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_15.txt.meta": {
+    "time": 1660883886341.3765
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_16.txt.meta": {
+    "time": 1660883886349.0417
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_17.txt.meta": {
+    "time": 1660883886386.8633
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_18.txt.meta": {
+    "time": 1660883886419.3047
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_19.txt.meta": {
+    "time": 1660883886443.6653
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_22.txt.meta": {
+    "time": 1660883886493.1292
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_23.txt.meta": {
+    "time": 1660883886502.4448
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_24.txt.meta": {
+    "time": 1660883886523.8613
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_25.txt.meta": {
+    "time": 1660883886531.644
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_26.txt.meta": {
+    "time": 1660883886557.753
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_27.txt.meta": {
+    "time": 1660883886567.2686
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_28.txt.meta": {
+    "time": 1660883886590.014
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_29.txt.meta": {
+    "time": 1660883886598.3093
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_33.txt.meta": {
+    "time": 1660883886620.5522
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_34.txt.meta": {
+    "time": 1660883886641.9539
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_35.txt.meta": {
+    "time": 1660883886652.4229
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_36.txt.meta": {
+    "time": 1660883886671.1165
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_37.txt.meta": {
+    "time": 1660883886690.3562
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_38.txt.meta": {
+    "time": 1660883886699.45
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_39.txt.meta": {
+    "time": 1660883886717.8457
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_44.txt.meta": {
+    "time": 1660883886761.1836
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_45.txt.meta": {
+    "time": 1660883886777.1714
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_46.txt.meta": {
+    "time": 1660883886802.81
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_47.txt.meta": {
+    "time": 1660883886810.6746
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_48.txt.meta": {
+    "time": 1660883886836.4558
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_49.txt.meta": {
+    "time": 1660883886859.119
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_55.txt.meta": {
+    "time": 1660883886867.7153
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_56.txt.meta": {
+    "time": 1660883886893.133
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_57.txt.meta": {
+    "time": 1660883886901.7502
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_58.txt.meta": {
+    "time": 1660883886919.412
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_59.txt.meta": {
+    "time": 1660883886954.0366
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_66.txt.meta": {
+    "time": 1660883886962.6084
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_67.txt.meta": {
+    "time": 1660883886986.4795
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_68.txt.meta": {
+    "time": 1660883887003.8008
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_69.txt.meta": {
+    "time": 1660883887023.2576
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_77.txt.meta": {
+    "time": 1660883887030.6995
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_78.txt.meta": {
+    "time": 1660883887055.5825
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_79.txt.meta": {
+    "time": 1660883887063.4814
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_88.txt.meta": {
+    "time": 1660883887102.498
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_89.txt.meta": {
+    "time": 1660883887110.9016
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_99.txt.meta": {
+    "time": 1660883887154.4937
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_1.txt.meta": {
+    "time": 1660883887162.0686
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_2.txt.meta": {
+    "time": 1660883887189.4795
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_3.txt.meta": {
+    "time": 1660883887196.8528
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_4.txt.meta": {
+    "time": 1660883887220.111
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_5.txt.meta": {
+    "time": 1660883887254.715
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_6.txt.meta": {
+    "time": 1660883887262.2063
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_7.txt.meta": {
+    "time": 1660883887304.062
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_8.txt.meta": {
+    "time": 1660883887311.5579
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_9.txt.meta": {
+    "time": 1660883887339.0947
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_1.txt.meta": {
+    "time": 1660883887346.0044
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_11.txt.meta": {
+    "time": 1660883887539.3926
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_2.txt.meta": {
+    "time": 1660883887385.1501
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_22.txt.meta": {
+    "time": 1660883887547.135
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_3.txt.meta": {
+    "time": 1660883887405.8206
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_33.txt.meta": {
+    "time": 1660883887586.5378
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_4.txt.meta": {
+    "time": 1660883887435.2163
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_5.txt.meta": {
+    "time": 1660883887458.1445
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_6.txt.meta": {
+    "time": 1660883887468.709
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_7.txt.meta": {
+    "time": 1660883887489.3684
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_8.txt.meta": {
+    "time": 1660883887496.7612
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_9.txt.meta": {
+    "time": 1660883887522.246
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_1.txt.meta": {
+    "time": 1660883887595.4333
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_11.txt.meta": {
+    "time": 1660883887771.5916
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_2.txt.meta": {
+    "time": 1660883887618.6296
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_22.txt.meta": {
+    "time": 1660883887779.1924
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_3.txt.meta": {
+    "time": 1660883887653.6204
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_4.txt.meta": {
+    "time": 1660883887661.1895
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_5.txt.meta": {
+    "time": 1660883887686.0967
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_6.txt.meta": {
+    "time": 1660883887693.5613
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_7.txt.meta": {
+    "time": 1660883887702.815
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_8.txt.meta": {
+    "time": 1660883887736.9907
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_9.txt.meta": {
+    "time": 1660883887745.78
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_1.txt.meta": {
+    "time": 1660883887820.6057
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_11.txt.meta": {
+    "time": 1660883887985.6536
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_2.txt.meta": {
+    "time": 1660883887829.6711
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_22.txt.meta": {
+    "time": 1660883888020.0742
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_3.txt.meta": {
+    "time": 1660883887853.099
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_33.txt.meta": {
+    "time": 1660883888028.3862
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_4.txt.meta": {
+    "time": 1660883887887.6445
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_5.txt.meta": {
+    "time": 1660883887895.5566
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_6.txt.meta": {
+    "time": 1660883887919.593
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_7.txt.meta": {
+    "time": 1660883887936.7273
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_8.txt.meta": {
+    "time": 1660883887957.3347
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_9.txt.meta": {
+    "time": 1660883887965.3384
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_1.txt.meta": {
+    "time": 1660883888067.7708
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_10.txt.meta": {
+    "time": 1660883888253.01
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_11.txt.meta": {
+    "time": 1660883888260.2236
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_2.txt.meta": {
+    "time": 1660883888083.1616
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_22.txt.meta": {
+    "time": 1660883888269.616
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_3.txt.meta": {
+    "time": 1660883888112.0159
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_4.txt.meta": {
+    "time": 1660883888136.637
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_5.txt.meta": {
+    "time": 1660883888154.2031
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_6.txt.meta": {
+    "time": 1660883888172.7256
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_7.txt.meta": {
+    "time": 1660883888182.33
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_8.txt.meta": {
+    "time": 1660883888203.5144
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_9.txt.meta": {
+    "time": 1660883888220.3518
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_1.txt.meta": {
+    "time": 1660883888288.8225
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_11.txt.meta": {
+    "time": 1660883888458.1772
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_2.txt.meta": {
+    "time": 1660883888297.4421
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_22.txt.meta": {
+    "time": 1660883888466.55
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_3.txt.meta": {
+    "time": 1660883888319.9412
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_33.txt.meta": {
+    "time": 1660883888489.8066
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_4.txt.meta": {
+    "time": 1660883888336.9836
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_5.txt.meta": {
+    "time": 1660883888370.042
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_6.txt.meta": {
+    "time": 1660883888377.8582
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_7.txt.meta": {
+    "time": 1660883888418.136
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_8.txt.meta": {
+    "time": 1660883888425.9143
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_9.txt.meta": {
+    "time": 1660883888434.606
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_1.txt.meta": {
+    "time": 1660883888497.583
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_11.txt.meta": {
+    "time": 1660883888648.4553
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_2.txt.meta": {
+    "time": 1660883888522.6743
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_3.txt.meta": {
+    "time": 1660883888529.438
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_4.txt.meta": {
+    "time": 1660883888569.3762
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_5.txt.meta": {
+    "time": 1660883888577.1045
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_6.txt.meta": {
+    "time": 1660883888601.9517
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_7.txt.meta": {
+    "time": 1660883888609.3782
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_8.txt.meta": {
+    "time": 1660883888618.115
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_9.txt.meta": {
+    "time": 1660883888640.83
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_1.txt.meta": {
+    "time": 1660883888683.9624
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_11.txt.meta": {
+    "time": 1660883888851.154
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_2.txt.meta": {
+    "time": 1660883888692.375
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_22.txt.meta": {
+    "time": 1660883888870.1807
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_3.txt.meta": {
+    "time": 1660883888700.9814
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_4.txt.meta": {
+    "time": 1660883888751.312
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_5.txt.meta": {
+    "time": 1660883888765.3416
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_6.txt.meta": {
+    "time": 1660883888785.4338
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_7.txt.meta": {
+    "time": 1660883888819.075
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_8.txt.meta": {
+    "time": 1660883888826.1914
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_9.txt.meta": {
+    "time": 1660883888835.0728
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_1.txt.meta": {
+    "time": 1660883888887.385
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_2.txt.meta": {
+    "time": 1660883888904.245
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_3.txt.meta": {
+    "time": 1660883888922.3828
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_4.txt.meta": {
+    "time": 1660883888929.461
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_5.txt.meta": {
+    "time": 1660883888951.803
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_6.txt.meta": {
+    "time": 1660883888970.1355
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_7.txt.meta": {
+    "time": 1660883888983.5566
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_8.txt.meta": {
+    "time": 1660883889002.1296
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_9.txt.meta": {
+    "time": 1660883889019.0576
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_1.txt.meta": {
+    "time": 1660883889038.914
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_11.txt.meta": {
+    "time": 1660883889185.5913
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_2.txt.meta": {
+    "time": 1660883889046.3367
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_22.txt.meta": {
+    "time": 1660883889201.2703
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_3.txt.meta": {
+    "time": 1660883889083.6824
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_4.txt.meta": {
+    "time": 1660883889092.1177
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_5.txt.meta": {
+    "time": 1660883889099.5273
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_6.txt.meta": {
+    "time": 1660883889120.0103
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_7.txt.meta": {
+    "time": 1660883889136.569
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_8.txt.meta": {
+    "time": 1660883889156.0076
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_9.txt.meta": {
+    "time": 1660883889162.3796
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_0.txt.meta": {
+    "time": 1660883889334.9526
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_1.txt.meta": {
+    "time": 1660883889342.5715
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_2.txt.meta": {
+    "time": 1660883889351.183
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_3.txt.meta": {
+    "time": 1660883889369.6309
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_4.txt.meta": {
+    "time": 1660883889386.6418
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_5.txt.meta": {
+    "time": 1660883889417.7761
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_6.txt.meta": {
+    "time": 1660883889426.9163
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_7.txt.meta": {
+    "time": 1660883889452.996
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_8.txt.meta": {
+    "time": 1660883889460.8604
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_9.txt.meta": {
+    "time": 1660883889483.4688
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_0.txt.meta": {
+    "time": 1660883889222.043
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_13.txt.meta": {
+    "time": 1660883889235.9758
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_14.txt.meta": {
+    "time": 1660883889252.5227
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_16.txt.meta": {
+    "time": 1660883889285.8208
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_19.txt.meta": {
+    "time": 1660883889311.206
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_1.txt.meta": {
+    "time": 1660883889491.8328
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_11.txt.meta": {
+    "time": 1660883889648.675
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_2.txt.meta": {
+    "time": 1660883889500.6848
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_22.txt.meta": {
+    "time": 1660883889669.4888
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_3.txt.meta": {
+    "time": 1660883889519.217
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_4.txt.meta": {
+    "time": 1660883889553.8218
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_5.txt.meta": {
+    "time": 1660883889561.8315
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_6.txt.meta": {
+    "time": 1660883889601.3071
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_7.txt.meta": {
+    "time": 1660883889609.4678
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_8.txt.meta": {
+    "time": 1660883889618.064
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_9.txt.meta": {
+    "time": 1660883889641.2815
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_11.txt.meta": {
+    "time": 1660883889702.6956
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_12.txt.meta": {
+    "time": 1660883889710.2043
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_13.txt.meta": {
+    "time": 1660883889735.095
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_14.txt.meta": {
+    "time": 1660883889743.5972
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_15.txt.meta": {
+    "time": 1660883889753.9211
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_16.txt.meta": {
+    "time": 1660883889769.6667
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_17.txt.meta": {
+    "time": 1660883889787.3538
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_18.txt.meta": {
+    "time": 1660883889806.1353
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_19.txt.meta": {
+    "time": 1660883889812.8364
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_22.txt.meta": {
+    "time": 1660883889835.127
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_23.txt.meta": {
+    "time": 1660883889851.8135
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_24.txt.meta": {
+    "time": 1660883889867.838
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_25.txt.meta": {
+    "time": 1660883889916.4329
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_26.txt.meta": {
+    "time": 1660883889930.6208
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_27.txt.meta": {
+    "time": 1660883889956.393
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_28.txt.meta": {
+    "time": 1660883889967.6199
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_29.txt.meta": {
+    "time": 1660883889991.8564
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_33.txt.meta": {
+    "time": 1660883890001.2302
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_34.txt.meta": {
+    "time": 1660883890022.8503
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_35.txt.meta": {
+    "time": 1660883890031.429
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_36.txt.meta": {
+    "time": 1660883890051.9504
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_37.txt.meta": {
+    "time": 1660883890069.3875
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_38.txt.meta": {
+    "time": 1660883890088.443
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_39.txt.meta": {
+    "time": 1660883890095.9783
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_44.txt.meta": {
+    "time": 1660883890118.1565
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_45.txt.meta": {
+    "time": 1660883890134.3225
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_46.txt.meta": {
+    "time": 1660883890152.5671
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_47.txt.meta": {
+    "time": 1660883890170.798
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_48.txt.meta": {
+    "time": 1660883890204.5679
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_49.txt.meta": {
+    "time": 1660883890212.278
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_55.txt.meta": {
+    "time": 1660883890234.5437
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_56.txt.meta": {
+    "time": 1660883890270.0544
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_57.txt.meta": {
+    "time": 1660883890277.71
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_58.txt.meta": {
+    "time": 1660883890302.0952
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_59.txt.meta": {
+    "time": 1660883890319.4985
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_66.txt.meta": {
+    "time": 1660883890336.72
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_67.txt.meta": {
+    "time": 1660883890355.3196
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_68.txt.meta": {
+    "time": 1660883890364.25
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_69.txt.meta": {
+    "time": 1660883890383.8098
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_77.txt.meta": {
+    "time": 1660883890402.8496
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_78.txt.meta": {
+    "time": 1660883890433.5767
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_79.txt.meta": {
+    "time": 1660883890440.8135
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_88.txt.meta": {
+    "time": 1660883890449.3052
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_89.txt.meta": {
+    "time": 1660883890469.392
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_99.txt.meta": {
+    "time": 1660883890500.9707
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_1.txt.meta": {
+    "time": 1660883890526.6748
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_2.txt.meta": {
+    "time": 1660883890554.1404
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_3.txt.meta": {
+    "time": 1660883890563.5154
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_4.txt.meta": {
+    "time": 1660883890589.2927
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_5.txt.meta": {
+    "time": 1660883890598.0955
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_6.txt.meta": {
+    "time": 1660883890619.054
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_7.txt.meta": {
+    "time": 1660883890651.744
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_8.txt.meta": {
+    "time": 1660883890658.3606
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_9.txt.meta": {
+    "time": 1660883890666.6975
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_1.txt.meta": {
+    "time": 1660883890685.6536
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_11.txt.meta": {
+    "time": 1660883890853.7925
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_2.txt.meta": {
+    "time": 1660883890727.5261
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_22.txt.meta": {
+    "time": 1660883890867.2021
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_3.txt.meta": {
+    "time": 1660883890741.8801
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_33.txt.meta": {
+    "time": 1660883890884.844
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_4.txt.meta": {
+    "time": 1660883890751.122
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_5.txt.meta": {
+    "time": 1660883890770.1548
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_6.txt.meta": {
+    "time": 1660883890791.0857
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_7.txt.meta": {
+    "time": 1660883890800.2764
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_8.txt.meta": {
+    "time": 1660883890817.256
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_9.txt.meta": {
+    "time": 1660883890833.2637
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_1.txt.meta": {
+    "time": 1660883890918.5225
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_11.txt.meta": {
+    "time": 1660883891106.869
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_2.txt.meta": {
+    "time": 1660883890926.809
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_22.txt.meta": {
+    "time": 1660883891116.2495
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_3.txt.meta": {
+    "time": 1660883890936.0117
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_4.txt.meta": {
+    "time": 1660883890956.7173
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_5.txt.meta": {
+    "time": 1660883890965.0364
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_6.txt.meta": {
+    "time": 1660883891002.799
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_7.txt.meta": {
+    "time": 1660883891010.838
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_8.txt.meta": {
+    "time": 1660883891035.3423
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_9.txt.meta": {
+    "time": 1660883891051.8364
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_1.txt.meta": {
+    "time": 1660883891135.1226
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_11.txt.meta": {
+    "time": 1660883891289.2322
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_2.txt.meta": {
+    "time": 1660883891152.9785
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_22.txt.meta": {
+    "time": 1660883891299.5413
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_3.txt.meta": {
+    "time": 1660883891173.234
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_33.txt.meta": {
+    "time": 1660883891337.6003
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_4.txt.meta": {
+    "time": 1660883891182.807
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_5.txt.meta": {
+    "time": 1660883891218.7266
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_6.txt.meta": {
+    "time": 1660883891226.4087
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_7.txt.meta": {
+    "time": 1660883891235.569
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_8.txt.meta": {
+    "time": 1660883891252.087
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_9.txt.meta": {
+    "time": 1660883891270.461
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_1.txt.meta": {
+    "time": 1660883891344.5327
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_10.txt.meta": {
+    "time": 1660883891520.648
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_11.txt.meta": {
+    "time": 1660883891528.336
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_2.txt.meta": {
+    "time": 1660883891368.216
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_22.txt.meta": {
+    "time": 1660883891552.1755
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_3.txt.meta": {
+    "time": 1660883891385.3298
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_4.txt.meta": {
+    "time": 1660883891405.8455
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_5.txt.meta": {
+    "time": 1660883891425.746
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_6.txt.meta": {
+    "time": 1660883891435.119
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_7.txt.meta": {
+    "time": 1660883891453.3306
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_8.txt.meta": {
+    "time": 1660883891470.044
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_9.txt.meta": {
+    "time": 1660883891485.8838
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_1.txt.meta": {
+    "time": 1660883891573.5918
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_11.txt.meta": {
+    "time": 1660883891756.0227
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_2.txt.meta": {
+    "time": 1660883891582.2473
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_22.txt.meta": {
+    "time": 1660883891763.841
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_3.txt.meta": {
+    "time": 1660883891606.5376
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_33.txt.meta": {
+    "time": 1660883891785.6116
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_4.txt.meta": {
+    "time": 1660883891614.197
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_5.txt.meta": {
+    "time": 1660883891668.7163
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_6.txt.meta": {
+    "time": 1660883891679.5583
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_7.txt.meta": {
+    "time": 1660883891702.1135
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_8.txt.meta": {
+    "time": 1660883891719.0242
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_9.txt.meta": {
+    "time": 1660883891736.6172
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_1.txt.meta": {
+    "time": 1660883891803.378
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_11.txt.meta": {
+    "time": 1660883891951.587
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_2.txt.meta": {
+    "time": 1660883891820.736
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_3.txt.meta": {
+    "time": 1660883891839.9082
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_4.txt.meta": {
+    "time": 1660883891848.359
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_5.txt.meta": {
+    "time": 1660883891867.0618
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_6.txt.meta": {
+    "time": 1660883891882.967
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_7.txt.meta": {
+    "time": 1660883891900.2583
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_8.txt.meta": {
+    "time": 1660883891916.7097
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_9.txt.meta": {
+    "time": 1660883891936.0054
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_2.txt": {
+    "time": 1660883884467.7637,
+    "uuid": "3ca0a0a8-fc18-4e26-96b8-452c24eed2fe",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_11.txt": {
+    "time": 1660883884618.5847,
+    "uuid": "90824dbb-2ec4-4269-a684-36a36cc4d732",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_1.txt": {
+    "time": 1660883884448.9382,
+    "uuid": "4fabaf28-46e4-4c5f-9eee-b7eb8f3ce87f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_22.txt": {
+    "time": 1660883884653.0056,
+    "uuid": "f8164242-7b08-4277-9f69-c93725155f2b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_3.txt": {
+    "time": 1660883884483.9583,
+    "uuid": "5ce1c573-77de-4b5d-8303-3abdce23bbd8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_5.txt": {
+    "time": 1660883884523.1753,
+    "uuid": "d2871e4a-932d-418d-8570-884d78a23ae5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_6.txt": {
+    "time": 1660883884537.7688,
+    "uuid": "bca90b09-05ee-4ae4-ac4a-527c8608b885",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_4.txt": {
+    "time": 1660883884500.4277,
+    "uuid": "a3627886-2676-4645-b839-25038862be1e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_7.txt": {
+    "time": 1660883884557.3013,
+    "uuid": "2861dc35-f13b-4f33-a4ee-52eed61315d2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_8.txt": {
+    "time": 1660883884585.1672,
+    "uuid": "969b9494-3ceb-4597-b1ab-bd320ba0d795",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_2.txt": {
+    "time": 1660883884740.5679,
+    "uuid": "4d79f940-d9a9-4c61-80b1-d6aa8d592706",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_1.txt": {
+    "time": 1660883884681.9924,
+    "uuid": "48beb6eb-4f2b-46d1-9e2e-29ec9762ceaa",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_address_9.txt": {
+    "time": 1660883884607.0864,
+    "uuid": "96d9a2b6-b844-4bca-b537-a76893248571",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_3.txt": {
+    "time": 1660883884759.023,
+    "uuid": "effc7235-a92a-46d2-b038-dc03bab02d5d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_4.txt": {
+    "time": 1660883884823.1958,
+    "uuid": "8145d27f-68f9-4506-acab-ff947acd46ba",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_5.txt": {
+    "time": 1660883884839.488,
+    "uuid": "8f976194-3c2d-40ab-af2d-a78e3573a330",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_6.txt": {
+    "time": 1660883884884.7805,
+    "uuid": "04d4f479-818d-420d-bf96-16c4d0dd1de8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_7.txt": {
+    "time": 1660883884895.7083,
+    "uuid": "bdf8f3f2-25a4-4bde-8271-66c5d0320fd3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_8.txt": {
+    "time": 1660883884963.507,
+    "uuid": "9235d652-ec70-4ece-9e8f-31821370813b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_daypersonal_9.txt": {
+    "time": 1660883884976.0188,
+    "uuid": "ad8d0c02-45d9-4a6e-8476-54093dda51f3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_1.txt": {
+    "time": 1660883885019.0952,
+    "uuid": "1c72b653-9cd5-45d4-8b4f-719f3438e691",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_11.txt": {
+    "time": 1660883885362.0723,
+    "uuid": "c888e9db-86ab-4f7a-a78a-a61284601adf",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_2.txt": {
+    "time": 1660883885056.8235,
+    "uuid": "d909c2ef-4112-495f-a4d0-0adc8a143d7b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_22.txt": {
+    "time": 1660883885423.5522,
+    "uuid": "7e9b3478-fbc7-4776-96dc-c7f72deb50f7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_3.txt": {
+    "time": 1660883885088.3423,
+    "uuid": "ea2872ea-2c49-40b1-a397-5c70b9147f8d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_4.txt": {
+    "time": 1660883885128.8574,
+    "uuid": "ffba2351-af49-4652-88f4-183ba8d72c0e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_5.txt": {
+    "time": 1660883885173.9841,
+    "uuid": "8a682bbd-03f2-48fa-96a9-da1cf59091ae",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_6.txt": {
+    "time": 1660883885186.2397,
+    "uuid": "bd6cd55c-1c50-40c1-a280-7ed701d5c231",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_7.txt": {
+    "time": 1660883885253.9329,
+    "uuid": "06e6ff1b-9b24-41ef-ad3e-c874d9534ae4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_8.txt": {
+    "time": 1660883885305.2625,
+    "uuid": "79501d58-242d-47e7-a775-db1f970f7efa",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_impresson_9.txt": {
+    "time": 1660883885345.242,
+    "uuid": "6f6baa13-a1da-4293-87a5-0ffbb0ee56ad",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_0.txt": {
+    "time": 1660883885752.4055,
+    "uuid": "c4370e4d-2858-48ed-9a2e-7528df304ba4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_1.txt": {
+    "time": 1660883885786.469,
+    "uuid": "66de20a6-79a4-42e4-bb7b-8644dd2c37fc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_2.txt": {
+    "time": 1660883885813.2964,
+    "uuid": "e19b6e92-d9b6-4724-9814-5d2bd86dc148",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_3.txt": {
+    "time": 1660883885842.5283,
+    "uuid": "4bb866fe-ae6d-44f9-a3b5-93caa4d62485",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_4.txt": {
+    "time": 1660883885891.334,
+    "uuid": "8f961141-e5a3-462f-8882-3fd5e0b9ca73",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_5.txt": {
+    "time": 1660883885905.4424,
+    "uuid": "1100f088-8221-462d-b06e-b65b74bd1943",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_6.txt": {
+    "time": 1660883885914.6196,
+    "uuid": "304d8d87-ebd9-46a1-8455-4cc5a0240450",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_7.txt": {
+    "time": 1660883885945.789,
+    "uuid": "9fe79b03-2ee2-477a-a06b-0c433ad8b38d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_8.txt": {
+    "time": 1660883885978.3545,
+    "uuid": "8b9dfd7d-7cf8-4646-a260-7c47a66a7f68",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicLesson_9.txt": {
+    "time": 1660883886010.2534,
+    "uuid": "b81a4234-20b9-419a-8079-2a825a2dcf4e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_13.txt": {
+    "time": 1660883885501.094,
+    "uuid": "de5a5650-a703-4655-afe4-6d6f21038776",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_0.txt": {
+    "time": 1660883885444.7666,
+    "uuid": "75c8bdcd-26e0-4c38-be07-385bbd8a2d42",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_14.txt": {
+    "time": 1660883885616.6008,
+    "uuid": "1878cb17-19d5-425f-bdd0-70fc959ea720",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_16.txt": {
+    "time": 1660883885673.6223,
+    "uuid": "d686f767-ecbd-464c-bba6-55876d37767e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_karmicdebt_19.txt": {
+    "time": 1660883885733.0417,
+    "uuid": "c06d5011-0cd2-45ff-8147-fc5ebd000dd5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_11.txt": {
+    "time": 1660883886231.395,
+    "uuid": "97e67fcf-6dcb-49fb-baa1-2c8c85e354b6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_1.txt": {
+    "time": 1660883886061.449,
+    "uuid": "76244214-1cba-4b88-bff3-6700cf1861fc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_2.txt": {
+    "time": 1660883886071.3972,
+    "uuid": "20b2ca2a-7e25-4d8e-9575-d450d9e6ebfc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_22.txt": {
+    "time": 1660883886254.476,
+    "uuid": "b7b5d3a8-a181-4543-aa10-b4f8b4932488",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_3.txt": {
+    "time": 1660883886080.5872,
+    "uuid": "19377ab0-bee1-464b-8a2c-7cafc4b77652",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_4.txt": {
+    "time": 1660883886110.5354,
+    "uuid": "bd09cfda-96e7-4288-8d9d-0afdc5822cb6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_5.txt": {
+    "time": 1660883886150.6953,
+    "uuid": "50b3618b-1e59-4906-ab87-208c4cb65d89",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_6.txt": {
+    "time": 1660883886161.6824,
+    "uuid": "cc31a3bd-1185-4adf-b53e-f6aa4b183b5b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_7.txt": {
+    "time": 1660883886188.8484,
+    "uuid": "564ea0f7-0633-4136-b226-d3927c6bb33d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_8.txt": {
+    "time": 1660883886196.439,
+    "uuid": "a4e06438-a1be-4d8c-9792-57a17096d4a1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_lifepath_9.txt": {
+    "time": 1660883886222.4438,
+    "uuid": "4d31bbdb-c3b3-491b-baeb-e9bc1c6cc87f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_11.txt": {
+    "time": 1660883886263.3955,
+    "uuid": "43cd37a5-1de4-48b3-9909-5b2ba1847cb6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_13.txt": {
+    "time": 1660883886304.4958,
+    "uuid": "85c84e46-e2f4-490f-aa36-3374344a7ffd",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_12.txt": {
+    "time": 1660883886284.1978,
+    "uuid": "0a124c3e-2e4c-4e44-8a9e-26a1ffe33bd2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_14.txt": {
+    "time": 1660883886314.9543,
+    "uuid": "fcaea086-c238-404f-9b6e-e6538abcc737",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_15.txt": {
+    "time": 1660883886339.2007,
+    "uuid": "5b828c09-2792-4114-9798-f2ed1022ea82",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_16.txt": {
+    "time": 1660883886346.7664,
+    "uuid": "b3de7637-4132-4129-9c7b-5270e9d4594f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_18.txt": {
+    "time": 1660883886417.2805,
+    "uuid": "7e8e6760-72ad-45c0-831a-dfe0f7937d07",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_17.txt": {
+    "time": 1660883886384.4868,
+    "uuid": "d3b37851-5326-487a-af79-304f0960ff11",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_19.txt": {
+    "time": 1660883886439.5007,
+    "uuid": "ce45f972-9c2d-48ac-9ae0-4149ade4a6af",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_22.txt": {
+    "time": 1660883886491.2722,
+    "uuid": "6cecdc9d-83fe-4482-bf90-d076fe7e7a84",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_24.txt": {
+    "time": 1660883886522.1316,
+    "uuid": "224c8413-a13d-420f-ab75-2abe1a6857c8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_23.txt": {
+    "time": 1660883886500.2573,
+    "uuid": "1740020b-904d-4b73-9d8a-a7835f44dcfc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_25.txt": {
+    "time": 1660883886529.051,
+    "uuid": "df6f30b9-ffbd-41ff-9dbf-d72814d7b922",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_26.txt": {
+    "time": 1660883886555.5674,
+    "uuid": "dc126849-0518-4145-ac33-2e2d83f39856",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_27.txt": {
+    "time": 1660883886563.8237,
+    "uuid": "d8c900c8-f2b0-44ab-ac1c-a6b72e4fb273",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_29.txt": {
+    "time": 1660883886595.738,
+    "uuid": "bc7bc26c-1730-4230-84e8-c031a0025fee",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_33.txt": {
+    "time": 1660883886618.0188,
+    "uuid": "a55ab899-a2bf-4248-bdeb-865be682a22d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_28.txt": {
+    "time": 1660883886587.9692,
+    "uuid": "b82f360b-afca-402d-be76-d7346f96e67e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_34.txt": {
+    "time": 1660883886639.9312,
+    "uuid": "8a96c8da-8763-4bba-a467-4ac1fab8c34d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_35.txt": {
+    "time": 1660883886650.2239,
+    "uuid": "b53e6678-1070-4c62-8046-74a2cf8e8915",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_36.txt": {
+    "time": 1660883886668.8975,
+    "uuid": "3d6c8ac0-bcc0-4ea8-9309-5cf745773ceb",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_37.txt": {
+    "time": 1660883886688.2837,
+    "uuid": "94ba5d6c-acd0-4396-9599-2b0553b49041",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_38.txt": {
+    "time": 1660883886697.3582,
+    "uuid": "ffc05046-5a96-4b10-a116-0badaf192e40",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_39.txt": {
+    "time": 1660883886715.906,
+    "uuid": "b03316a1-4d16-4f4d-a73b-ddc885861f7d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_44.txt": {
+    "time": 1660883886750.6746,
+    "uuid": "3183c983-0b5c-4ea7-9a56-534ff367c1dc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_46.txt": {
+    "time": 1660883886800.3242,
+    "uuid": "512421df-10dc-4971-95e6-a260f4a85af7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_45.txt": {
+    "time": 1660883886774.8018,
+    "uuid": "58e76b50-d50d-4905-9cc4-edd27ee06ff8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_47.txt": {
+    "time": 1660883886808.7668,
+    "uuid": "bbc4301e-938b-4226-9de2-3dbb85461d34",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_48.txt": {
+    "time": 1660883886834.3704,
+    "uuid": "9fe3ddf9-f9b1-449b-b856-34ed7caa8fb8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_49.txt": {
+    "time": 1660883886857.4277,
+    "uuid": "d722d5e0-9890-47f1-894b-4dcdac5370d3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_56.txt": {
+    "time": 1660883886891.2498,
+    "uuid": "9a1e8f58-ef0d-4eef-acf8-42ed6d235836",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_55.txt": {
+    "time": 1660883886865.1953,
+    "uuid": "0b206207-f2df-460f-9b2e-ef7a6b1b0a0c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_57.txt": {
+    "time": 1660883886899.6597,
+    "uuid": "5e68f908-7719-4d8f-8f1b-a91ad99b6778",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_58.txt": {
+    "time": 1660883886917.087,
+    "uuid": "1d0051f7-0827-494d-84e0-5df468634c08",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_59.txt": {
+    "time": 1660883886951.0518,
+    "uuid": "16da4589-a521-4d23-ab3a-d10308a83f3c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_66.txt": {
+    "time": 1660883886960.3696,
+    "uuid": "9d125133-15d3-44ec-a54d-99c18d052a36",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_67.txt": {
+    "time": 1660883886984.251,
+    "uuid": "285e4e37-2db2-49c1-99cf-9f456011abbc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_68.txt": {
+    "time": 1660883887001.5586,
+    "uuid": "d6af7b2c-dde3-448b-b486-f152e6471d6a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_69.txt": {
+    "time": 1660883887021.5632,
+    "uuid": "c6cf90c7-9dff-4ab0-bfe3-99fb92a62d4e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_77.txt": {
+    "time": 1660883887028.7136,
+    "uuid": "b9448bef-34c0-4c5c-8caa-0fdc8cd6cfc2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_78.txt": {
+    "time": 1660883887053.9216,
+    "uuid": "a7bc2bd1-bd6c-4d56-b36b-6255e91c1dc3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_79.txt": {
+    "time": 1660883887061.025,
+    "uuid": "52dfe661-e504-4dac-9b59-4a9c286806e3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_88.txt": {
+    "time": 1660883887100.159,
+    "uuid": "9686b5a9-cc9b-4e39-9798-1322d5e8781b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_89.txt": {
+    "time": 1660883887108.1758,
+    "uuid": "fa5fd7d6-d9f0-4df5-8272-c23ec294ebbf",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_love_99.txt": {
+    "time": 1660883887152.0894,
+    "uuid": "21f0189f-aa17-4c13-9f38-ea75cfb1e573",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_1.txt": {
+    "time": 1660883887160.174,
+    "uuid": "b41cfb7e-a82a-4dc9-86c3-3518977fcad1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_3.txt": {
+    "time": 1660883887194.8704,
+    "uuid": "dd331558-6f9d-4890-b027-05adc7aed10e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_2.txt": {
+    "time": 1660883887187.649,
+    "uuid": "ef47f3ec-6941-4694-9071-921926e04342",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_4.txt": {
+    "time": 1660883887217.9485,
+    "uuid": "85600dce-7e8c-4b88-bd4e-e0efbd0c35c7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_5.txt": {
+    "time": 1660883887252.6768,
+    "uuid": "2795f6dd-81a9-4868-8ba8-7699daa41fe4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_6.txt": {
+    "time": 1660883887260.3547,
+    "uuid": "7c3e90ba-b123-4bb1-8620-21ed9c4faeab",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_7.txt": {
+    "time": 1660883887301.1658,
+    "uuid": "b3ccaf5c-dd7c-4405-9bbc-a8933fccf7fa",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_8.txt": {
+    "time": 1660883887309.7385,
+    "uuid": "554aeae1-23fc-4e26-a7f8-22d3bf72198e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_monthpersonal_9.txt": {
+    "time": 1660883887337.3586,
+    "uuid": "a7117adb-784e-4526-9410-75cfdb0534e2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_11.txt": {
+    "time": 1660883887537.4128,
+    "uuid": "ebf67226-b95e-464e-9f28-ee293640a09d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_1.txt": {
+    "time": 1660883887344.1304,
+    "uuid": "ad2de56e-e0c1-4e5d-a323-d3f7ff86f3db",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_22.txt": {
+    "time": 1660883887544.8604,
+    "uuid": "966299b9-4c44-4c1a-aa8a-104ae9d9db0c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_2.txt": {
+    "time": 1660883887383.158,
+    "uuid": "2b28722a-dccc-4784-8259-d138ff076f62",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_3.txt": {
+    "time": 1660883887403.4539,
+    "uuid": "92c8673c-b298-4b5d-bc36-319ba9c8ba28",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_33.txt": {
+    "time": 1660883887583.4958,
+    "uuid": "69253e0a-43dc-47fd-8557-63b3cc99e9d1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_4.txt": {
+    "time": 1660883887432.5757,
+    "uuid": "dab04507-5415-4d33-8b26-64c58bc35111",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_5.txt": {
+    "time": 1660883887455.9907,
+    "uuid": "d447f3ea-16f9-4bf4-b1ec-8c327eba8a15",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_6.txt": {
+    "time": 1660883887465.696,
+    "uuid": "314da49a-9a84-4e20-8eb0-dddebbaa8e6b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_7.txt": {
+    "time": 1660883887487.6448,
+    "uuid": "0aef5019-09bd-4083-b0af-b5c87ae85071",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_8.txt": {
+    "time": 1660883887494.851,
+    "uuid": "cfcce752-e4ca-42d6-b920-b24a1a2e7ad7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_namenumber_9.txt": {
+    "time": 1660883887519.8545,
+    "uuid": "35f37ed6-96e9-4ad8-bb00-4bc54d311f18",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_11.txt": {
+    "time": 1660883887769.3706,
+    "uuid": "a453c8e0-3c1e-4079-850c-49c430505daa",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_1.txt": {
+    "time": 1660883887593.3591,
+    "uuid": "3238e409-91be-48d7-b93c-2be8bf83b393",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_2.txt": {
+    "time": 1660883887616.4167,
+    "uuid": "46571396-1514-4dc0-8da0-55c55470cc16",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_3.txt": {
+    "time": 1660883887650.98,
+    "uuid": "b97d7b32-cc82-4e21-b0df-4b7652315e1a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_22.txt": {
+    "time": 1660883887777.2566,
+    "uuid": "66d15ccb-d292-413b-b75b-cdc81abd3919",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_5.txt": {
+    "time": 1660883887683.7556,
+    "uuid": "5b67ff34-38c5-4212-a1d2-180c072a143f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_4.txt": {
+    "time": 1660883887659.2576,
+    "uuid": "18426604-e06d-4475-9099-944afd5a4f31",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_6.txt": {
+    "time": 1660883887691.651,
+    "uuid": "d444d620-e565-4bf2-8ccc-8ae85ae69aa2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_7.txt": {
+    "time": 1660883887700.4175,
+    "uuid": "2f8e8ded-b9ea-4b91-a094-f5d365926202",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_8.txt": {
+    "time": 1660883887734.5352,
+    "uuid": "82493853-db5a-4664-8dde-52c26d59b192",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_1.txt": {
+    "time": 1660883887817.5852,
+    "uuid": "c8edc8b8-62ee-4f92-b83a-424757b817ae",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_period_9.txt": {
+    "time": 1660883887743.6116,
+    "uuid": "7e152718-ff81-4cf1-94c9-f817948b5580",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_11.txt": {
+    "time": 1660883887983.524,
+    "uuid": "ccf6915d-9ab8-4b0d-85aa-8139747940cd",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_2.txt": {
+    "time": 1660883887827.5947,
+    "uuid": "29fdb2f5-19a0-48c3-b0d7-6dbab013801a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_22.txt": {
+    "time": 1660883888016.993,
+    "uuid": "c10fe086-7ed6-4262-b939-0cbb639ba59c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_3.txt": {
+    "time": 1660883887850.607,
+    "uuid": "9a629ca9-1f1f-41b8-8310-1b4b5580c55e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_33.txt": {
+    "time": 1660883888026.2383,
+    "uuid": "1ca8f86d-73f0-47f8-b882-c6bd8ad1197d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_4.txt": {
+    "time": 1660883887885.5493,
+    "uuid": "f812baeb-f4ba-433b-9a2b-a23c99b8b793",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_6.txt": {
+    "time": 1660883887917.0957,
+    "uuid": "a59fb4d5-78c5-4e3f-9672-5eacaee8ce89",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_5.txt": {
+    "time": 1660883887893.4841,
+    "uuid": "0dd05308-699b-462b-87b1-96ff2978b06c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_7.txt": {
+    "time": 1660883887934.7246,
+    "uuid": "8fc74616-39c3-402d-bcaf-72f4676bdc3f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_8.txt": {
+    "time": 1660883887955.5938,
+    "uuid": "f082e9ea-6440-466f-8cb6-ebdc68d29915",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_phone_9.txt": {
+    "time": 1660883887963.0083,
+    "uuid": "a988e543-ed22-4cd1-a8c9-f0919b526f59",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_10.txt": {
+    "time": 1660883888250.7434,
+    "uuid": "ce8c6b7c-06cc-44bd-a2b0-b0f779854af2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_1.txt": {
+    "time": 1660883888065.4727,
+    "uuid": "e6d6e17a-2d4f-4779-802d-fd3ef75c8a1c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_11.txt": {
+    "time": 1660883888258.2634,
+    "uuid": "f0fad32b-f167-4a80-8ee3-142b6263626b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_2.txt": {
+    "time": 1660883888080.218,
+    "uuid": "6557a4fe-1ca5-4687-b362-b20007b09d42",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_22.txt": {
+    "time": 1660883888267.302,
+    "uuid": "ccdeac69-2852-4062-9f9b-da6d007a973d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_3.txt": {
+    "time": 1660883888110.217,
+    "uuid": "114a30e1-497f-45d2-ae9c-62a8edc606f4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_4.txt": {
+    "time": 1660883888134.4597,
+    "uuid": "ddcae926-ab79-45c5-ae56-1a06614742fa",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_5.txt": {
+    "time": 1660883888152.022,
+    "uuid": "f9ac118a-9f43-4e3c-9de1-6891459fcbb9",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_6.txt": {
+    "time": 1660883888170.5198,
+    "uuid": "b27ead41-3e13-4d07-8c73-8ed6e9de43e4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_7.txt": {
+    "time": 1660883888179.8228,
+    "uuid": "80275f78-887f-4c96-9c72-f4bac09979a3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_9.txt": {
+    "time": 1660883888218.0605,
+    "uuid": "f72683f5-84d6-4707-aa3f-c80ba7e69ef7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_rullingNumber_8.txt": {
+    "time": 1660883888201.0378,
+    "uuid": "b0c1e554-856a-4aa1-9c04-2100de69be40",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_11.txt": {
+    "time": 1660883888456.3975,
+    "uuid": "361434bc-41e2-4e4a-bad9-3f6de9bb91a7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_1.txt": {
+    "time": 1660883888286.7856,
+    "uuid": "200cc4ce-1695-4b5b-b778-660954ff25d7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_2.txt": {
+    "time": 1660883888295.1475,
+    "uuid": "6b7abcf8-8a3e-4fbc-9a4a-51212639c4ca",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_22.txt": {
+    "time": 1660883888464.3425,
+    "uuid": "e2fa5507-fc2d-46e5-8e3d-6445908ba5df",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_3.txt": {
+    "time": 1660883888317.6826,
+    "uuid": "4bfb70d9-7635-4c69-bef8-3755d0d7617d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_4.txt": {
+    "time": 1660883888334.8828,
+    "uuid": "1cbc0484-c9b9-42bf-9a47-ba91c6736a4a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_33.txt": {
+    "time": 1660883888487.9636,
+    "uuid": "b821843f-1001-47ff-b824-388786c66b19",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_5.txt": {
+    "time": 1660883888367.378,
+    "uuid": "0f8fb986-7ac7-4f87-8576-b684c67e8b28",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_6.txt": {
+    "time": 1660883888375.9006,
+    "uuid": "ad5dd3b8-0b6b-4256-a8f6-78f64105c268",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_8.txt": {
+    "time": 1660883888423.956,
+    "uuid": "c531aa70-191a-454b-9d24-8c9366f6ee0e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_7.txt": {
+    "time": 1660883888415.9307,
+    "uuid": "f2973ebf-5e21-4e70-b29d-cfd6427c93fd",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_soul_9.txt": {
+    "time": 1660883888432.6284,
+    "uuid": "84dee320-388e-4be0-98ed-9ccd0a76663c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_1.txt": {
+    "time": 1660883888495.5623,
+    "uuid": "e98f1d59-67cc-4ab5-89b9-247fe6b4103e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_11.txt": {
+    "time": 1660883888645.9004,
+    "uuid": "44e22341-1624-4e39-abac-ac65eb24cd1e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_2.txt": {
+    "time": 1660883888521.01,
+    "uuid": "8bee8dbf-3e11-4587-a328-f2dce91ed9a3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_3.txt": {
+    "time": 1660883888527.65,
+    "uuid": "01565b4e-ed05-4501-85a9-6c9676c99768",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_4.txt": {
+    "time": 1660883888566.7642,
+    "uuid": "31db192e-14d1-45c5-8914-cb90550cce02",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_5.txt": {
+    "time": 1660883888575.1025,
+    "uuid": "25a03a20-9a77-4770-9cd6-f16b9051b88b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_6.txt": {
+    "time": 1660883888599.6343,
+    "uuid": "1f953149-c80b-48a5-9659-a81d4bf89419",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_8.txt": {
+    "time": 1660883888616.0784,
+    "uuid": "82f4ce59-6f67-4c40-bb26-667638cebdff",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_7.txt": {
+    "time": 1660883888607.5076,
+    "uuid": "ac002c24-96a3-470e-8a06-a0d10aa4d6d6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/en_year_9.txt": {
+    "time": 1660883888639.0334,
+    "uuid": "397abf61-06d2-4557-89bb-c2734787f645",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_1.txt": {
+    "time": 1660883888681.5537,
+    "uuid": "8e71809c-6736-4ba4-a5c2-90a024a906f9",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_11.txt": {
+    "time": 1660883888848.9133,
+    "uuid": "13c338a1-e0d9-42fc-a5d7-6887bd021815",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_2.txt": {
+    "time": 1660883888689.8564,
+    "uuid": "a7385441-c529-4696-bde0-5e2dc07a6fd2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_22.txt": {
+    "time": 1660883888867.926,
+    "uuid": "b0f22456-320c-4344-80b4-aef47736702a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_3.txt": {
+    "time": 1660883888698.7793,
+    "uuid": "4ca20f0a-07f0-48b6-8e9d-80b7c656ff98",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_4.txt": {
+    "time": 1660883888748.564,
+    "uuid": "842efc63-e8de-4ad7-a7bc-d92d846e47bc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_5.txt": {
+    "time": 1660883888763.0244,
+    "uuid": "4cfb8aad-b119-4754-b595-7e794548f770",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_6.txt": {
+    "time": 1660883888783.1687,
+    "uuid": "231cdb4c-f666-4b69-bc74-0db46bb76b21",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_7.txt": {
+    "time": 1660883888816.74,
+    "uuid": "06d7d938-da5d-4231-8a2e-62abdb4f3018",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_8.txt": {
+    "time": 1660883888824.2637,
+    "uuid": "fad8058b-ad9a-4978-ad27-48271baacf2f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_1.txt": {
+    "time": 1660883888885.1858,
+    "uuid": "12513c33-1a10-4272-be2e-cc53a92b0e13",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_address_9.txt": {
+    "time": 1660883888832.9097,
+    "uuid": "ec2449eb-6bf3-466a-88bd-4296db1e87ca",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_2.txt": {
+    "time": 1660883888902.037,
+    "uuid": "2cb3a360-adf8-458d-a5fa-0dae6dfd0a10",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_3.txt": {
+    "time": 1660883888920.3655,
+    "uuid": "6e0b9ed7-3284-425f-9628-f657746a9119",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_4.txt": {
+    "time": 1660883888927.6165,
+    "uuid": "44fa9d3b-b96d-4606-8263-ede73be6c4ce",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_5.txt": {
+    "time": 1660883888949.1157,
+    "uuid": "eb430f7f-f1cb-4fc8-9889-192bfd0138ae",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_7.txt": {
+    "time": 1660883888981.301,
+    "uuid": "a8d3e375-adc9-4acc-81d2-148a545d8874",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_6.txt": {
+    "time": 1660883888968.2517,
+    "uuid": "e8c072d7-23dd-46cc-8beb-9b7cbf6d62fc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_8.txt": {
+    "time": 1660883889000.2405,
+    "uuid": "a354dcf6-2e9e-4fe8-949b-3d8fd23d65c4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_daypersonal_9.txt": {
+    "time": 1660883889016.6968,
+    "uuid": "c42957f1-b43a-4750-974a-757d6660aa78",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_1.txt": {
+    "time": 1660883889036.741,
+    "uuid": "c1d552a7-8a1f-4e87-a12c-a03c8cf9669b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_2.txt": {
+    "time": 1660883889044.3923,
+    "uuid": "594081ed-dc96-437f-bdd6-13b965aebde0",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_11.txt": {
+    "time": 1660883889182.856,
+    "uuid": "f5d9b80b-f78a-4375-979b-4fe09e03d394",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_22.txt": {
+    "time": 1660883889199.217,
+    "uuid": "cb7971dc-b96c-4aad-a846-7ba08222dd72",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_3.txt": {
+    "time": 1660883889080.674,
+    "uuid": "d27efeaf-63c5-47b9-b9fb-72a1ca006324",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_4.txt": {
+    "time": 1660883889090.3416,
+    "uuid": "69b1f84d-4731-490c-85b0-65536a732a70",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_6.txt": {
+    "time": 1660883889117.655,
+    "uuid": "fe200c21-bd3c-47c2-9075-ddcf27d4c8c7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_5.txt": {
+    "time": 1660883889097.4805,
+    "uuid": "221ca469-3096-4c8e-806c-ca852132d5bb",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_7.txt": {
+    "time": 1660883889134.465,
+    "uuid": "f313b0d9-adc1-4992-bf17-dac6069f51ee",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_8.txt": {
+    "time": 1660883889154.3696,
+    "uuid": "052f6bb5-3c11-415a-8e0c-0daa6f496794",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_impresson_9.txt": {
+    "time": 1660883889160.692,
+    "uuid": "d925e980-1707-4ba8-b42a-2a00066c2a50",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_0.txt": {
+    "time": 1660883889332.467,
+    "uuid": "466153cb-399d-404c-8b81-d7bddb6069dc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_1.txt": {
+    "time": 1660883889340.7239,
+    "uuid": "c09d6182-54af-4a99-8937-663ef42f6e7a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_2.txt": {
+    "time": 1660883889348.8699,
+    "uuid": "b6cc4045-dd48-4ae3-aa8d-974d52ab53b7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_3.txt": {
+    "time": 1660883889367.4993,
+    "uuid": "bcb09db4-b3ed-4393-8b14-af38f79cb0b7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_4.txt": {
+    "time": 1660883889384.4224,
+    "uuid": "0a884901-a19d-4a6e-b1fa-603c0b21840f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_6.txt": {
+    "time": 1660883889425.1084,
+    "uuid": "4ed96fdf-d250-4eb8-a8c1-eb67391fce0b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_5.txt": {
+    "time": 1660883889414.8704,
+    "uuid": "f91cb8a8-f312-47fc-9fac-f5a825be3d34",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_7.txt": {
+    "time": 1660883889450.644,
+    "uuid": "5469c932-7497-4aa5-9f84-fa03fb26b9be",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_8.txt": {
+    "time": 1660883889458.889,
+    "uuid": "13b12be7-8f9b-4274-9cc5-1b8735670303",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicLesson_9.txt": {
+    "time": 1660883889481.4338,
+    "uuid": "8e3132cc-d5b6-46f8-b713-106f3051832a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_0.txt": {
+    "time": 1660883889219.622,
+    "uuid": "a552b20e-684c-45f8-a11f-f8af24c05304",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_13.txt": {
+    "time": 1660883889234.0208,
+    "uuid": "012e4395-416e-4d95-8f33-08c62716768c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_14.txt": {
+    "time": 1660883889250.468,
+    "uuid": "a059d46c-ba40-4892-97ac-4d614a68b031",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_16.txt": {
+    "time": 1660883889283.3801,
+    "uuid": "1f5e0647-fd30-4fae-b478-c8514b6efedc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_karmicdebt_19.txt": {
+    "time": 1660883889308.867,
+    "uuid": "e4ac0467-b09d-462c-adc7-2c27ef176eca",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_1.txt": {
+    "time": 1660883889489.986,
+    "uuid": "0e5fe53a-c606-4189-a51e-37c1a58313b4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_11.txt": {
+    "time": 1660883889646.279,
+    "uuid": "91d6068d-a62d-43ab-ac51-2b6d703ca0e3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_2.txt": {
+    "time": 1660883889498.6108,
+    "uuid": "a8041baa-a89b-4e0a-a7f5-d1f59e55535b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_22.txt": {
+    "time": 1660883889667.295,
+    "uuid": "849c1477-c4a4-46a2-9e3c-33c830a8d18a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_3.txt": {
+    "time": 1660883889516.9932,
+    "uuid": "0150c91a-4233-4aa0-be36-a1570e1203a1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_4.txt": {
+    "time": 1660883889551.4119,
+    "uuid": "16179e41-d9a9-478a-848e-7b4fd018aef1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_5.txt": {
+    "time": 1660883889559.8325,
+    "uuid": "1033b633-a5e7-41ec-b0cb-7c556314c64b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_7.txt": {
+    "time": 1660883889607.5557,
+    "uuid": "b5e123a1-0637-41bb-bf51-613a2fe556ff",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_8.txt": {
+    "time": 1660883889615.8682,
+    "uuid": "624ed676-6a8c-4152-89e0-63dfb3c3a455",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_6.txt": {
+    "time": 1660883889599.0442,
+    "uuid": "95e40ff0-774f-4fee-840d-8829d0003ee3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_11.txt": {
+    "time": 1660883889700.1235,
+    "uuid": "8ac53042-e7c1-434a-8493-0276f9c8acd8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_lifepath_9.txt": {
+    "time": 1660883889639.5918,
+    "uuid": "ad86a648-89c4-40d3-8d91-efac8ae5dd74",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_12.txt": {
+    "time": 1660883889708.2966,
+    "uuid": "ae1e97dd-686d-4a78-9da7-6ac2969f754f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_13.txt": {
+    "time": 1660883889732.8955,
+    "uuid": "894b2676-381e-419b-9098-d001feee315b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_14.txt": {
+    "time": 1660883889741.7065,
+    "uuid": "c3781406-c2ed-49a4-ba60-f1f60f96984a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_15.txt": {
+    "time": 1660883889751.792,
+    "uuid": "4f2b8b9e-1f4e-4f05-977f-5d763abbc3f0",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_16.txt": {
+    "time": 1660883889767.4792,
+    "uuid": "61644162-95ac-4b46-a431-e7f5e7d3d50e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_17.txt": {
+    "time": 1660883889785.0745,
+    "uuid": "871efa21-0ad1-40d4-a614-5753b5f1b696",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_18.txt": {
+    "time": 1660883889804.3113,
+    "uuid": "4918a66b-9dd3-46d2-8c85-55f05d09df4b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_19.txt": {
+    "time": 1660883889811.1191,
+    "uuid": "68675e7c-8930-4797-9fa5-c61832bacb4c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_22.txt": {
+    "time": 1660883889832.4353,
+    "uuid": "9f3054b9-5f33-4612-bf84-173ba5b855b6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_23.txt": {
+    "time": 1660883889849.742,
+    "uuid": "b028bc2d-fb3e-456f-a32e-a8c4271825a4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_25.txt": {
+    "time": 1660883889914.039,
+    "uuid": "b048e5da-2564-4668-86b3-0e0f5c502166",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_24.txt": {
+    "time": 1660883889865.5632,
+    "uuid": "19473141-03b9-43ec-8369-e294e74b214a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_26.txt": {
+    "time": 1660883889928.3472,
+    "uuid": "51341f27-3771-4efd-9a83-faf8e6e233e1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_27.txt": {
+    "time": 1660883889954.2373,
+    "uuid": "58756d1f-e6b5-4197-a451-f75f1427f4d8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_28.txt": {
+    "time": 1660883889965.5493,
+    "uuid": "1258ba75-d15b-41ee-af14-7b1564373eaf",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_33.txt": {
+    "time": 1660883889999.1006,
+    "uuid": "01fe32dd-e3de-4bed-8080-297f10ea1ca6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_34.txt": {
+    "time": 1660883890020.9548,
+    "uuid": "b5fdfbe1-37ea-449d-bd97-fb2273de68d1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_29.txt": {
+    "time": 1660883889989.7695,
+    "uuid": "b3dc790b-cf3e-4502-8eb0-e8e354df03f5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_35.txt": {
+    "time": 1660883890029.0928,
+    "uuid": "800d6106-c641-4a0f-af6e-291fb3da8140",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_36.txt": {
+    "time": 1660883890049.696,
+    "uuid": "0e804226-e398-4348-9eb5-c553b77b8900",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_37.txt": {
+    "time": 1660883890067.0808,
+    "uuid": "cf6fb752-a15e-4246-8a78-9e62711aab0e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_39.txt": {
+    "time": 1660883890093.9102,
+    "uuid": "e11586b3-50fb-4047-9d0a-11536c7c75f0",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_38.txt": {
+    "time": 1660883890086.5432,
+    "uuid": "f8f7b8d1-838f-42ef-b212-56e8cff65dd6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_44.txt": {
+    "time": 1660883890115.261,
+    "uuid": "a5e4bea5-76cd-4690-9e2d-2731ec49c723",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_45.txt": {
+    "time": 1660883890132.1816,
+    "uuid": "c37736fb-71df-450a-95a8-206a45119de9",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_46.txt": {
+    "time": 1660883890150.4785,
+    "uuid": "4a32d178-4317-40a4-b0fa-3baaa7cfc1a2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_47.txt": {
+    "time": 1660883890168.464,
+    "uuid": "5fcca7cc-4f31-4571-a8ac-f7584d1d75c4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_48.txt": {
+    "time": 1660883890202.1228,
+    "uuid": "4820e0ea-7a41-4728-b9ed-91253ec7f0a7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_49.txt": {
+    "time": 1660883890210.2734,
+    "uuid": "08b7ebcc-3161-407b-9bd4-80378cba170d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_56.txt": {
+    "time": 1660883890267.632,
+    "uuid": "87eafd82-e7c7-4d6c-be8d-84135cc6dcc2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_57.txt": {
+    "time": 1660883890275.8186,
+    "uuid": "2608ccd1-6711-49bd-ab37-364b081844e5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_55.txt": {
+    "time": 1660883890232.4026,
+    "uuid": "831e262f-f9d7-4501-b534-c37b14ddf9ce",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_58.txt": {
+    "time": 1660883890298.9119,
+    "uuid": "f948f87b-351f-4040-b667-43596acdb808",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_59.txt": {
+    "time": 1660883890317.3328,
+    "uuid": "2b0bc3ff-3bd9-4eba-9905-399f39f672b0",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_66.txt": {
+    "time": 1660883890334.623,
+    "uuid": "88657d74-b19a-4d7c-b816-4f43159d92b3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_67.txt": {
+    "time": 1660883890353.1438,
+    "uuid": "ed7b5013-28b8-456c-95d3-79d38dd8ebb4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_68.txt": {
+    "time": 1660883890362.0684,
+    "uuid": "1e0b92bd-69d3-4ce6-a72e-2983f5adc97d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_69.txt": {
+    "time": 1660883890381.4202,
+    "uuid": "c232b531-2d1f-471e-8a59-96044e446e89",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_77.txt": {
+    "time": 1660883890400.5332,
+    "uuid": "cf357d83-13b3-412e-9764-c94e1dceba29",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_88.txt": {
+    "time": 1660883890446.4844,
+    "uuid": "8e5165f5-c668-4c16-b9b4-763710e90f30",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_79.txt": {
+    "time": 1660883890439.001,
+    "uuid": "5ed678bf-c384-453c-88dc-ec47ad6ecd6c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_78.txt": {
+    "time": 1660883890431.4521,
+    "uuid": "fd67065b-bc92-4fb2-b700-b00e976eebb3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_89.txt": {
+    "time": 1660883890467.1616,
+    "uuid": "b3d0f393-0681-4612-b907-75246013a330",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_love_99.txt": {
+    "time": 1660883890498.738,
+    "uuid": "5b1871ba-340b-4589-b8b8-5b936b8d8773",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_1.txt": {
+    "time": 1660883890524.4712,
+    "uuid": "b233daad-6e4e-4dfe-b544-a0a9e3291963",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_2.txt": {
+    "time": 1660883890552.1477,
+    "uuid": "551e549c-f163-4af8-a0bc-000f770ef760",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_3.txt": {
+    "time": 1660883890561.2366,
+    "uuid": "332ffc81-95d4-4263-aab9-c92f2841f5cc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_4.txt": {
+    "time": 1660883890587.3438,
+    "uuid": "5755293a-9d31-4b2c-916a-1eab99e10f45",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_5.txt": {
+    "time": 1660883890595.7737,
+    "uuid": "6b4bf493-f9c9-4680-b79f-16967c8e2fbe",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_7.txt": {
+    "time": 1660883890649.9038,
+    "uuid": "5b221aad-55fb-4760-9af8-652577f189ef",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_6.txt": {
+    "time": 1660883890616.9106,
+    "uuid": "2c1154e2-6b91-4102-9a5d-fb1e5bd0d571",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_8.txt": {
+    "time": 1660883890656.4805,
+    "uuid": "247f52f2-2c7b-4afe-807f-1f46645ce136",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_monthpersonal_9.txt": {
+    "time": 1660883890664.5527,
+    "uuid": "e5d129d9-c7f0-4085-8d79-778634d4e0ad",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_1.txt": {
+    "time": 1660883890683.551,
+    "uuid": "4b30884d-ec45-4dfc-b073-33fdf36e7496",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_22.txt": {
+    "time": 1660883890864.9255,
+    "uuid": "42a47151-94b7-4d1c-a415-02a6ba1a0fef",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_11.txt": {
+    "time": 1660883890851.8584,
+    "uuid": "54619c1c-7230-448c-af36-09dcba2526c2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_2.txt": {
+    "time": 1660883890725.3276,
+    "uuid": "4d65e466-9871-4e07-b3b2-0a8814f53b62",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_3.txt": {
+    "time": 1660883890739.581,
+    "uuid": "8bd2639d-3289-475b-8324-3a231aa6bf61",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_33.txt": {
+    "time": 1660883890882.7732,
+    "uuid": "891b3ce8-16ef-408c-b4b7-f086284886c7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_6.txt": {
+    "time": 1660883890788.9949,
+    "uuid": "45ec8b0a-3f67-4a54-a0e5-0cb2a4d4c5d1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_4.txt": {
+    "time": 1660883890748.4753,
+    "uuid": "f865d77f-338d-45ee-8a75-bfb76e3c3c4f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_5.txt": {
+    "time": 1660883890767.4724,
+    "uuid": "f6bbe5cb-da6a-4aa0-a2f6-90671e157fbc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_7.txt": {
+    "time": 1660883890798.2825,
+    "uuid": "0843dcfb-b7bf-4cf8-837f-d42b7b4f8d44",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_8.txt": {
+    "time": 1660883890815.3076,
+    "uuid": "9e3f4186-45bc-4fc7-9344-7d77943eb068",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_1.txt": {
+    "time": 1660883890915.6353,
+    "uuid": "a1fc0c07-d278-4fe1-b570-6c447de423e1",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_namenumber_9.txt": {
+    "time": 1660883890830.9834,
+    "uuid": "63654d61-d666-4a8a-aa0d-e2c322b6984f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_11.txt": {
+    "time": 1660883891100.2905,
+    "uuid": "a33c82bd-a13f-4f1d-b993-655836cac973",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_22.txt": {
+    "time": 1660883891113.975,
+    "uuid": "29b78695-c49a-4e3b-92fd-7858c0f88bab",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_2.txt": {
+    "time": 1660883890924.8079,
+    "uuid": "583cc843-65e2-4d26-997b-5a295a53b43e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_5.txt": {
+    "time": 1660883890962.745,
+    "uuid": "5fc40eaa-f636-472a-b5e8-892dc16ea402",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_4.txt": {
+    "time": 1660883890954.6404,
+    "uuid": "a5d0af93-cd70-4409-84fe-2958a8034959",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_3.txt": {
+    "time": 1660883890933.8345,
+    "uuid": "e612994d-9e40-4aa5-92df-685d1e3204c9",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_6.txt": {
+    "time": 1660883891000.4678,
+    "uuid": "34596bcf-8cf6-484f-876a-338f65def755",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_7.txt": {
+    "time": 1660883891008.93,
+    "uuid": "768b1f88-d2ec-42c4-ba07-d38d43e79549",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_9.txt": {
+    "time": 1660883891049.3875,
+    "uuid": "e20975e2-9a31-489d-8067-b9ca935e8520",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_1.txt": {
+    "time": 1660883891132.7815,
+    "uuid": "74571a9c-71de-4e45-9a09-308aaeef680c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_period_8.txt": {
+    "time": 1660883891033.1775,
+    "uuid": "d88e51bf-47f9-4f8a-98be-e782151470e4",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_11.txt": {
+    "time": 1660883891287.0232,
+    "uuid": "b14788c7-76a8-44c7-83fa-c0b44041c072",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_2.txt": {
+    "time": 1660883891150.8313,
+    "uuid": "8d8907e2-6297-4e99-adec-7dcc0d3f6ecb",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_22.txt": {
+    "time": 1660883891296.472,
+    "uuid": "c0230255-81f2-4f99-8bd4-a70e8c4d582d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_3.txt": {
+    "time": 1660883891171.0547,
+    "uuid": "091b4c84-f752-47c6-9711-dd4a969adc9f",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_33.txt": {
+    "time": 1660883891334.4478,
+    "uuid": "dbd61e14-81af-462a-bcbb-be8d26f610d8",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_4.txt": {
+    "time": 1660883891180.077,
+    "uuid": "2d4cd0ac-c8f4-4544-aa10-c7f2d2fb93f6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_5.txt": {
+    "time": 1660883891216.258,
+    "uuid": "2aeba2a7-dd58-48ad-aefd-2802b34bd3ea",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_6.txt": {
+    "time": 1660883891224.4697,
+    "uuid": "3beece08-112a-4b3a-9887-b62aa881ec28",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_7.txt": {
+    "time": 1660883891233.0054,
+    "uuid": "982df6a3-a76e-4931-a25d-20d1e988736e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_8.txt": {
+    "time": 1660883891249.2961,
+    "uuid": "8a4bf47d-f70e-42ed-a5a0-dd260373b136",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_phone_9.txt": {
+    "time": 1660883891268.2263,
+    "uuid": "a3d07378-8a72-4c1f-8287-6e95a58cb0f2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_1.txt": {
+    "time": 1660883891342.7864,
+    "uuid": "efda8b78-d453-4551-b5ea-276956431d4b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_11.txt": {
+    "time": 1660883891526.455,
+    "uuid": "175441c6-6096-4e5e-be6b-3a4c0e906fc5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_2.txt": {
+    "time": 1660883891365.9734,
+    "uuid": "755a179b-db5d-4808-96c3-09c670bbadb0",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_10.txt": {
+    "time": 1660883891518.1694,
+    "uuid": "b2353acd-2925-4d31-a7e7-27b248d09d6a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_22.txt": {
+    "time": 1660883891550.1528,
+    "uuid": "ff909009-cb63-4c5c-ba5f-27eb63fb107d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_3.txt": {
+    "time": 1660883891382.9917,
+    "uuid": "2775b186-73cd-4512-b5e0-343461960032",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_5.txt": {
+    "time": 1660883891423.571,
+    "uuid": "2b82d8bb-b036-4697-896f-621b856738e6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_6.txt": {
+    "time": 1660883891432.7283,
+    "uuid": "1d060aaa-8398-4312-9ede-e36eaac2a603",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_4.txt": {
+    "time": 1660883891403.7622,
+    "uuid": "103ac5f8-edb3-451f-81e7-391248d11156",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_7.txt": {
+    "time": 1660883891450.969,
+    "uuid": "d29fcd69-4ebd-4635-97b9-04e102bf45c9",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_8.txt": {
+    "time": 1660883891468.1528,
+    "uuid": "7d41f469-54c0-42b0-aaab-68406dc7aff7",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_1.txt": {
+    "time": 1660883891571.3816,
+    "uuid": "8abaa9ab-ff33-4274-ae71-4511d7758775",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_rullingNumber_9.txt": {
+    "time": 1660883891484.0132,
+    "uuid": "5c3740bc-eb24-4583-894d-6312cbee7157",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_11.txt": {
+    "time": 1660883891754.0444,
+    "uuid": "ad6d440a-cb9e-417e-9dee-42d919b8f132",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_2.txt": {
+    "time": 1660883891579.5706,
+    "uuid": "b5e69b62-5e49-4299-9b53-6b2c2214d5aa",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_22.txt": {
+    "time": 1660883891761.6067,
+    "uuid": "3cd86810-dfb5-4a72-a944-e62b232d797d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_4.txt": {
+    "time": 1660883891612.0132,
+    "uuid": "71a1c82d-b6ba-41fe-8c85-6c35c5ed7e56",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_33.txt": {
+    "time": 1660883891783.6328,
+    "uuid": "827e9ab1-15b1-4c12-b1c7-281d8c0293e5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_3.txt": {
+    "time": 1660883891603.9297,
+    "uuid": "75d4bb27-1914-4480-95ba-6dc7caa1a54b",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_5.txt": {
+    "time": 1660883891665.2285,
+    "uuid": "06b5efbb-e2b6-467c-934f-580711873166",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_6.txt": {
+    "time": 1660883891677.4558,
+    "uuid": "0589ee5c-0173-4427-b023-e49a1fa3bfdd",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_8.txt": {
+    "time": 1660883891716.7825,
+    "uuid": "8783357c-2cb4-4cd3-b553-bd2ca2e7b09e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_9.txt": {
+    "time": 1660883891734.6328,
+    "uuid": "272976c9-639f-4a11-984b-08c2bfc78ded",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_soul_7.txt": {
+    "time": 1660883891700.132,
+    "uuid": "2ae5fb07-adce-4fc5-bdd4-5696eab811a5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_1.txt": {
+    "time": 1660883891801.0686,
+    "uuid": "c00f5de1-0ba9-4baf-90ad-a2266c83ec82",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_11.txt": {
+    "time": 1660883891949.7935,
+    "uuid": "5f6d56fa-b2ee-4890-a6c0-f33bef6ac54c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_2.txt": {
+    "time": 1660883891818.5647,
+    "uuid": "1dc150a8-1b1f-4efe-92ba-a27fee86b66c",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_3.txt": {
+    "time": 1660883891837.7766,
+    "uuid": "b0b25291-54f0-45ce-a9fe-941aeda46308",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_4.txt": {
+    "time": 1660883891845.7156,
+    "uuid": "48a0af6e-e15d-4cdd-823a-605a7e64fed2",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_5.txt": {
+    "time": 1660883891864.7156,
+    "uuid": "6ea6a3e7-d1b4-46dd-85b5-24e12f2eda4d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_6.txt": {
+    "time": 1660883891880.577,
+    "uuid": "80b11ac4-19ac-4af7-9436-c8dabcbb2e91",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_7.txt": {
+    "time": 1660883891898.2114,
+    "uuid": "7768afc8-88aa-4f2a-a5f1-6f05623fda3e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_9.txt": {
+    "time": 1660883891933.7356,
+    "uuid": "8001918f-6916-47ed-ab28-1a43375bb720",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/data/vi_year_8.txt": {
+    "time": 1660883891914.6926,
+    "uuid": "3158a8ea-6e1b-421f-937e-6d1a4a7f59ed",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/PhoneAddress.scene.meta": {
+    "time": 1661483683064.5803
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/PhoneAddress.scene": {
+    "time": 1662608730596.4805,
+    "uuid": "99884bf1-c0a7-46b8-8ff2-ff3d3562e121",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts.meta": {
+    "time": 1661497020829.8018
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts": {
+    "time": 1662618863025.612,
+    "uuid": "3f69caa8-c558-42aa-ad80-b31f28afe182",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.prefab.meta": {
+    "time": 1661498704280.4998
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.prefab": {
+    "time": 1661823924858.7893,
+    "uuid": "39162d3e-f802-4b52-b6bc-2a6a01b21b1a",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PhoneAddress.ts.meta": {
+    "time": 1661504622059.1487
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PhoneAddress.ts": {
+    "time": 1661509402677.4165,
+    "uuid": "3c1dd904-8992-4ec3-8da4-74c46e1901e0",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Love.scene.meta": {
+    "time": 1661743229940.029
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Love.scene": {
+    "time": 1662608631070.7686,
+    "uuid": "17a1c7e8-9c32-43c2-9804-5088f400eb87",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Love.ts.meta": {
+    "time": 1661744379330.3198
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Love.ts": {
+    "time": 1662608475492.0833,
+    "uuid": "edf618f3-f0f7-46a5-908d-7078ec243aee",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.prefab.meta": {
+    "time": 1661755217920.5842
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.prefab": {
+    "time": 1661823932048.8628,
+    "uuid": "66e86a35-5e75-4aa9-9f6d-be5b3c9da1da",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.ts.meta": {
+    "time": 1661755301153.3438
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.ts": {
+    "time": 1662618911477.5906,
+    "uuid": "94b5aff1-7e01-40bb-b4f2-22d8514a9694",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPeriod.prefab.meta": {
+    "time": 1661765881570.017
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPeriod.prefab": {
+    "time": 1661766483259.0876,
+    "uuid": "4938dcc2-8326-4c52-8e21-918588fa08fc",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPeriod.ts.meta": {
+    "time": 1661766362610.7974
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPeriod.ts": {
+    "time": 1661836228732.8123,
+    "uuid": "ab1adcc3-4d36-4f88-b6ec-9341995e39c3",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/PeriodCycle.scene.meta": {
+    "time": 1661761475434.8545
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/PeriodCycle.scene": {
+    "time": 1662352362920.042,
+    "uuid": "f36df58c-24c5-436d-85d3-21b7d4bdf6f5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PeriodCycle.ts.meta": {
+    "time": 1661767230083.1492
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PeriodCycle.ts": {
+    "time": 1661846094869.0972,
+    "uuid": "f7a716f7-0a79-47b0-a874-82cfaca6d893",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Detail.scene.meta": {
+    "time": 1661824472605.292
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/scene/Detail.scene": {
+    "time": 1662619285553.54,
+    "uuid": "b5ba79ef-37d5-40a8-adfc-33f8a151ac68",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Detail.ts.meta": {
+    "time": 1661827153368.2153
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Detail.ts": {
+    "time": 1662617889369.4766,
+    "uuid": "53889653-2f38-4b30-8aeb-27cbe5eb9a62",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.prefab.meta": {
+    "time": 1661833643438.3633
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.prefab": {
+    "time": 1662612091569.2747,
+    "uuid": "cfe30afc-861c-41d4-9b74-3ec81ae3cdb6",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.ts.meta": {
+    "time": 1661833689529.6238
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.ts": {
+    "time": 1662618839987.9731,
+    "uuid": "b37cf922-8bcf-4e59-8127-f9fc8b2811b5",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.prefab.meta": {
+    "time": 1661843102896.699
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.prefab": {
+    "time": 1661851166406.0603,
+    "uuid": "398845d3-bca8-4a88-95fd-4bcd54b8e522",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.ts.meta": {
+    "time": 1661843143956.7092
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.ts": {
+    "time": 1662618888929.3247,
+    "uuid": "59f053d6-4f9f-435c-ba38-2464f6a5d420",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font/UTM-BanqueB.ttf.meta": {
+    "time": 1661851155564.3367
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/font/UTM-BanqueB.ttf": {
+    "time": 1660883926259.9917,
+    "uuid": "05c7cc42-bb6b-4bf2-abb5-e53127f2884e",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/SoundPersistRootNode.ts.meta": {
+    "time": 1662525189043.918
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/SoundPersistRootNode.ts": {
+    "time": 1662534749456.768,
+    "uuid": "dd848e7e-bb08-4d71-88ef-529a6cedaf0d",
+    "missing": false
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/sound/soundClick.mp3.meta": {
+    "time": 1662536249552.4617
+  },
+  "/Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/sound/soundClick.mp3": {
+    "time": 1662536180240.9592,
+    "uuid": "ad2fc851-3f4b-484d-87c5-8bf7bf8a5a5e",
+    "missing": false
+  }
+}

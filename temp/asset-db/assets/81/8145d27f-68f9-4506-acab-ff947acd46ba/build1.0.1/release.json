@@ -1,0 +1,35 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.TextAsset",
+            [
+                "_name",
+                "text"
+            ],
+            1
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            "en_daypersonal_4",
+            "It's a methodical energy, today. It tends to attract the idea that the way to get things done is the way it was successfully done before. It also brings consideration about a secure foundation for the future.\n\n"
+        ]
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

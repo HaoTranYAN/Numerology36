@@ -1,0 +1,46 @@
+{
+  "game": {
+    "app_id": "623681657",
+    "name": "Numerology36",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "0af677"
+    },
+    {
+      "app_id": "623681657",
+      "config_id": "b8ae5f"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "0af677",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "623681657",
+      "config_id": "b5b46c",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "623681657",
+      "config_id": "b8ae5f",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": true,
+          "param": {}
+        }
+      ]
+    }
+  ]
+}

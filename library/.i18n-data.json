@@ -1,0 +1,14 @@
+{
+  "b3f015f8-224e-4b11-b20f-29766bdc9583": {
+    "url": "db://i18n/LanguageData.ts",
+    "value": {}
+  },
+  "edf98407-d83d-4052-80ab-b5095bc45ad4": {
+    "url": "db://i18n/LocalizedLabel.ts",
+    "value": {}
+  },
+  "c05c2e42-e313-40ba-9598-301f77b48ce9": {
+    "url": "db://i18n/LocalizedSprite.ts",
+    "value": {}
+  }
+}

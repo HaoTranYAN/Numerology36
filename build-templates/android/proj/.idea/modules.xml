@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Numerology36.iml" filepath="$PROJECT_DIR$/.idea/modules/Numerology36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2075698869/Numerology36.Numerology36.iml" filepath="$PROJECT_DIR$/.idea/modules/2075698869/Numerology36.Numerology36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-548292892/Numerology36.libcocos.iml" filepath="$PROJECT_DIR$/.idea/modules/-548292892/Numerology36.libcocos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libservice/Numerology36.libservice.iml" filepath="$PROJECT_DIR$/.idea/modules/libservice/Numerology36.libservice.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4585 @@
+{
+  "modules": {
+    "cce:/internal/x/cc": {
+      "mTimestamp": 8937.99664902687,
+      "chunkId": "ca4374a3008ca85000d465787e739a302e4e4ac6",
+      "imports": [
+        {
+          "value": "cce:/internal/x/cc-fu/base",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 14
+            },
+            "end": {
+              "line": 1,
+              "column": 42
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 14
+            },
+            "end": {
+              "line": 2,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 14
+            },
+            "end": {
+              "line": 3,
+              "column": 48
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/3d",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 14
+            },
+            "end": {
+              "line": 4,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/animation",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 14
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/skeletal-animation",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 14
+            },
+            "end": {
+              "line": 6,
+              "column": 56
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/2d",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 14
+            },
+            "end": {
+              "line": 7,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/ui",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 40
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 14
+            },
+            "end": {
+              "line": 9,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/particle-2d",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 14
+            },
+            "end": {
+              "line": 10,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-framework",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 14
+            },
+            "end": {
+              "line": 11,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 14
+            },
+            "end": {
+              "line": 12,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/intersection-2d",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 14
+            },
+            "end": {
+              "line": 13,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/primitive",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 14
+            },
+            "end": {
+              "line": 14,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/profiler",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 14
+            },
+            "end": {
+              "line": 15,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/geometry-renderer",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 14
+            },
+            "end": {
+              "line": 16,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/audio",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 14
+            },
+            "end": {
+              "line": 17,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/video",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 14
+            },
+            "end": {
+              "line": 18,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/terrain",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 14
+            },
+            "end": {
+              "line": 19,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/webview",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 14
+            },
+            "end": {
+              "line": 20,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tween",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 14
+            },
+            "end": {
+              "line": 21,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/tiled-map",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 14
+            },
+            "end": {
+              "line": 22,
+              "column": 47
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/spine",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 14
+            },
+            "end": {
+              "line": 23,
+              "column": 43
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/dragon-bones",
+          "resolved": "__unresolved_23",
+          "loc": {
+            "start": {
+              "line": 24,
+              "column": 14
+            },
+            "end": {
+              "line": 24,
+              "column": 50
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/x/cc-fu/custom-pipeline",
+          "resolved": "__unresolved_24",
+          "loc": {
+            "start": {
+              "line": 25,
+              "column": 14
+            },
+            "end": {
+              "line": 25,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/base"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/3d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/skeletal-animation"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/ui"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/primitive"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/profiler"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/geometry-renderer"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/audio"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/video"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/terrain"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/webview"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tween"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/spine"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "external",
+            "specifierOrURL": "cce:/internal/x/cc-fu/custom-pipeline"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/x/prerequisite-imports": {
+      "mTimestamp": 78089429.54051197,
+      "chunkId": "3da5c602a2424370fccd798e09dc140ebc8ae04c",
+      "imports": [
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 35
+            },
+            "end": {
+              "line": 5,
+              "column": 124
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioPersistRootNode.ts",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 140
+            },
+            "end": {
+              "line": 5,
+              "column": 237
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 253
+            },
+            "end": {
+              "line": 5,
+              "column": 338
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 354
+            },
+            "end": {
+              "line": 5,
+              "column": 439
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 455
+            },
+            "end": {
+              "line": 5,
+              "column": 540
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/SoundPersistRootNode.ts",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 556
+            },
+            "end": {
+              "line": 5,
+              "column": 653
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 669
+            },
+            "end": {
+              "line": 5,
+              "column": 771
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.ts",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 787
+            },
+            "end": {
+              "line": 5,
+              "column": 881
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.ts",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 897
+            },
+            "end": {
+              "line": 5,
+              "column": 996
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecast.ts",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1012
+            },
+            "end": {
+              "line": 5,
+              "column": 1103
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecastMonth.ts",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1119
+            },
+            "end": {
+              "line": 5,
+              "column": 1215
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.ts",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1231
+            },
+            "end": {
+              "line": 5,
+              "column": 1318
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabMainNumbers.ts",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1334
+            },
+            "end": {
+              "line": 5,
+              "column": 1428
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPeriod.ts",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1444
+            },
+            "end": {
+              "line": 5,
+              "column": 1533
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabTools.ts",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1549
+            },
+            "end": {
+              "line": 5,
+              "column": 1637
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/en.ts",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1653
+            },
+            "end": {
+              "line": 5,
+              "column": 1735
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/vi.ts",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1751
+            },
+            "end": {
+              "line": 5,
+              "column": 1833
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Detail.ts",
+          "resolved": "__unresolved_17",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1849
+            },
+            "end": {
+              "line": 5,
+              "column": 1932
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Home.ts",
+          "resolved": "__unresolved_18",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 1948
+            },
+            "end": {
+              "line": 5,
+              "column": 2029
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Intro.ts",
+          "resolved": "__unresolved_19",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2045
+            },
+            "end": {
+              "line": 5,
+              "column": 2127
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Love.ts",
+          "resolved": "__unresolved_20",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2143
+            },
+            "end": {
+              "line": 5,
+              "column": 2224
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PeriodCycle.ts",
+          "resolved": "__unresolved_21",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2240
+            },
+            "end": {
+              "line": 5,
+              "column": 2328
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PhoneAddress.ts",
+          "resolved": "__unresolved_22",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2344
+            },
+            "end": {
+              "line": 5,
+              "column": 2433
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Profile.ts",
+          "resolved": "__unresolved_23",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2449
+            },
+            "end": {
+              "line": 5,
+              "column": 2533
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Settings.ts",
+          "resolved": "__unresolved_24",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2549
+            },
+            "end": {
+              "line": 5,
+              "column": 2634
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Splash.ts",
+          "resolved": "__unresolved_25",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2650
+            },
+            "end": {
+              "line": 5,
+              "column": 2733
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts",
+          "resolved": "__unresolved_26",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2749
+            },
+            "end": {
+              "line": 5,
+              "column": 2847
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedLabel.ts",
+          "resolved": "__unresolved_27",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2863
+            },
+            "end": {
+              "line": 5,
+              "column": 2963
+            }
+          }
+        },
+        {
+          "value": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedSprite.ts",
+          "resolved": "__unresolved_28",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 2979
+            },
+            "end": {
+              "line": 5,
+              "column": 3080
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioPersistRootNode.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/SoundPersistRootNode.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecast.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecastMonth.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabMainNumbers.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPeriod.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabTools.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/en.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/vi.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Detail.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Home.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Intro.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Love.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PeriodCycle.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PhoneAddress.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Profile.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Settings.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Splash.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedLabel.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedSprite.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts": {
+      "mTimestamp": {
+        "mtime": 1661499219002.0107,
+        "uuid": "b3f015f8-224e-4b11-b20f-29766bdc9583"
+      },
+      "chunkId": "b0d0881e050a74a661a4b4416db9538fc9274b59",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 25
+            },
+            "end": {
+              "line": 1,
+              "column": 29
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedLabel.ts": {
+      "mTimestamp": {
+        "mtime": 1660891185852.9402,
+        "uuid": "edf98407-d83d-4052-80ab-b5095bc45ad4"
+      },
+      "chunkId": "ef792bc70ce2085ce69375a2daf7d2ef796e0c82",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./LanguageData",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 45
+            },
+            "end": {
+              "line": 4,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LocalizedSprite.ts": {
+      "mTimestamp": {
+        "mtime": 1660891203661.8623,
+        "uuid": "c05c2e42-e313-40ba-9598-301f77b48ce9"
+      },
+      "chunkId": "97a658214c02e8b60ca8bb299a29204b11acd7d6",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "./LanguageData",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 22
+            },
+            "end": {
+              "line": 2,
+              "column": 38
+            }
+          }
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 59
+            },
+            "end": {
+              "line": 4,
+              "column": 63
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts": {
+      "mTimestamp": {
+        "mtime": 1661835585546.178,
+        "uuid": "038449bc-292e-4dec-912f-62cd4a0a1712"
+      },
+      "chunkId": "5b1071dd0c2952f15afda049287756c72e203d17",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 50
+            },
+            "end": {
+              "line": 1,
+              "column": 54
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts": {
+      "mTimestamp": {
+        "mtime": 1660883869151.0942,
+        "uuid": "c37918d4-3fc6-45a2-92dd-05d205472f5b"
+      },
+      "chunkId": "2b465a6b3862f393e1c37e46e53095fcb258642d",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 32
+            },
+            "end": {
+              "line": 13,
+              "column": 36
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts": {
+      "mTimestamp": {
+        "mtime": 1662535018975.6172,
+        "uuid": "b05066de-ea1f-4f71-a797-d9a7e7e8d56e"
+      },
+      "chunkId": "1658d2f4d19835c30cec35d85fa256434e1fdaae",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 71
+            },
+            "end": {
+              "line": 1,
+              "column": 75
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioPersistRootNode.ts": {
+      "mTimestamp": {
+        "mtime": 1662526009353.986,
+        "uuid": "b2d76bdf-2f7a-4ba2-aeb4-ed4a39287e91"
+      },
+      "chunkId": "93dcee0d584cac1994f65dd732002a1722536037",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 69
+            },
+            "end": {
+              "line": 1,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "cce:/internal/code-quality/cr.mjs": {
+      "mTimestamp": 1662541308522,
+      "chunkId": "84741ad843cea9a440c5d8c2d379669b6551400d",
+      "imports": [],
+      "type": "esm",
+      "resolutions": []
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts": {
+      "mTimestamp": {
+        "mtime": 1661499355825.8503,
+        "uuid": "e8581cf7-9790-4fe4-b818-83d407020832"
+      },
+      "chunkId": "4cedf99e42f15dcc651eee22cdf59e9e6e6555c3",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 71
+            },
+            "end": {
+              "line": 8,
+              "column": 75
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Home.ts": {
+      "mTimestamp": {
+        "mtime": 1661852765543.438,
+        "uuid": "1fbd29c9-2b3b-4ed0-83bc-7383ddfde370"
+      },
+      "chunkId": "c349731069481a28fc2786ecf9c34a5908e0c493",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 87
+            },
+            "end": {
+              "line": 1,
+              "column": 91
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 37
+            },
+            "end": {
+              "line": 6,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Profile.ts": {
+      "mTimestamp": {
+        "mtime": 1662608416057.548,
+        "uuid": "9504d3e1-f086-4476-b5c3-1d5e4f0c4026"
+      },
+      "chunkId": "206f6dce8c58f87dd87cd7e63655083118bd1194",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 7
+            },
+            "end": {
+              "line": 17,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 29
+            },
+            "end": {
+              "line": 20,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 22
+            },
+            "end": {
+              "line": 21,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 25
+            },
+            "end": {
+              "line": 22,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 25
+            },
+            "end": {
+              "line": 23,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Splash.ts": {
+      "mTimestamp": {
+        "mtime": 1662619396145.0286,
+        "uuid": "d1faddca-a142-4cc7-b739-defa504246b0"
+      },
+      "chunkId": "dba30f22a990658c4186fbc2b5389866550e315a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 7
+            },
+            "end": {
+              "line": 11,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 22
+            },
+            "end": {
+              "line": 14,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 26
+            },
+            "end": {
+              "line": 16,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/i18n/en.ts": {
+      "mTimestamp": {
+        "mtime": 1660883926302.9153,
+        "uuid": "58e3329a-4bbc-46fb-a654-3b3500555038"
+      },
+      "chunkId": "3dda4eaccfc1de68561f8e51ec3fd6e542324993",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/i18n/vi.ts": {
+      "mTimestamp": {
+        "mtime": 1660883926299.9854,
+        "uuid": "afe7f1e1-aabf-4885-a48c-de89a4209c05"
+      },
+      "chunkId": "ad63c2cef2e72317ebe6b894f6e857cbc429d37f",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/en.ts": {
+      "mTimestamp": {
+        "mtime": 1661768242257.057,
+        "uuid": "7cebac75-5de9-4f51-9bed-37769f6917ac"
+      },
+      "chunkId": "ae5bcff855790a4429b5c75fdaf4c268002ce77e",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/resources/vi.ts": {
+      "mTimestamp": {
+        "mtime": 1661768240208.9023,
+        "uuid": "c57ae844-9cf1-409e-8dd7-c70d2276b352"
+      },
+      "chunkId": "c6a26f4b4a454fd36bec31916ac824b64a5c5f75",
+      "imports": [
+        {
+          "value": "cc"
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Settings.ts": {
+      "mTimestamp": {
+        "mtime": 1662546833366.2334,
+        "uuid": "ae7c2e6e-3c40-462c-9504-61076e425471"
+      },
+      "chunkId": "823073bc2f3e80024ab71f7f064b369de221aa01",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 7
+            },
+            "end": {
+              "line": 12,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 29
+            },
+            "end": {
+              "line": 14,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 26
+            },
+            "end": {
+              "line": 15,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 22
+            },
+            "end": {
+              "line": 16,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Intro.ts": {
+      "mTimestamp": {
+        "mtime": 1662545939469.0874,
+        "uuid": "4c79c8e8-a88e-4a5b-ad73-5ae742ad1107"
+      },
+      "chunkId": "bf676c5b85a6a9c30d517c8fce46b8b09f5a938e",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 64
+            },
+            "end": {
+              "line": 1,
+              "column": 68
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 22
+            },
+            "end": {
+              "line": 5,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabTools.ts": {
+      "mTimestamp": {
+        "mtime": 1661756693490.5088,
+        "uuid": "f41f5088-2002-46ab-905d-4b8dbe994f9b"
+      },
+      "chunkId": "905482526de8ece927c368d658d0798fd0762fd4",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 54
+            },
+            "end": {
+              "line": 1,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/MainNumbers.ts": {
+      "mTimestamp": {
+        "mtime": 1661324841319.6196,
+        "uuid": "c4237123-3947-4ce3-9165-2a53efeab687"
+      },
+      "chunkId": "f3e18e3e8b709fd1b07d3b884e8e202e85467f35",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabMainNumbers.ts": {
+      "mTimestamp": {
+        "mtime": 1661836211784.4973,
+        "uuid": "c4237123-3947-4ce3-9165-2a53efeab687"
+      },
+      "chunkId": "53ef444dae5ca5dace3cca54d6093e0e4abecc8b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 66
+            },
+            "end": {
+              "line": 1,
+              "column": 70
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 37
+            },
+            "end": {
+              "line": 5,
+              "column": 57
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecast.ts": {
+      "mTimestamp": {
+        "mtime": 1662617964749.4272,
+        "uuid": "9839ec6e-91b4-40f9-a503-d86923cc6731"
+      },
+      "chunkId": "9e8f2ecca3d31949723c70e53a7972e9a0c1b8dd",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 159
+            },
+            "end": {
+              "line": 1,
+              "column": 163
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 45
+            },
+            "end": {
+              "line": 4,
+              "column": 65
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 26
+            },
+            "end": {
+              "line": 5,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecast-001.ts": {
+      "mTimestamp": {
+        "mtime": 1661411396737.051,
+        "uuid": "051137c1-a572-45a6-a2ee-2855c76e4d4f"
+      },
+      "chunkId": "c3183cff8d4bd785d3dc5fded4881b52d03283e1",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 82
+            },
+            "end": {
+              "line": 1,
+              "column": 86
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabForecastMonth.ts": {
+      "mTimestamp": {
+        "mtime": 1662618006410.2007,
+        "uuid": "051137c1-a572-45a6-a2ee-2855c76e4d4f"
+      },
+      "chunkId": "4c953371f1fe3c16d8568b061ae3096fac19ce77",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 127
+            },
+            "end": {
+              "line": 1,
+              "column": 131
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 25
+            },
+            "end": {
+              "line": 3,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 45
+            },
+            "end": {
+              "line": 4,
+              "column": 65
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 26
+            },
+            "end": {
+              "line": 5,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PhoneAddess.ts": {
+      "mTimestamp": {
+        "mtime": 1661504202733.6304,
+        "uuid": "1f16ea1f-4f53-40b9-88c4-e603b3e09a67"
+      },
+      "chunkId": "cc8f062df2d8e8b7fe042901d953eed92fe9a301",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 7
+            },
+            "end": {
+              "line": 15,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 29
+            },
+            "end": {
+              "line": 17,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 26
+            },
+            "end": {
+              "line": 18,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 22
+            },
+            "end": {
+              "line": 19,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 37
+            },
+            "end": {
+              "line": 20,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 25
+            },
+            "end": {
+              "line": 21,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../prefab/PrefabContentPhoneAddress",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 42
+            },
+            "end": {
+              "line": 22,
+              "column": 79
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts": {
+      "mTimestamp": {
+        "mtime": 1662618863025.612,
+        "uuid": "3f69caa8-c558-42aa-ad80-b31f28afe182"
+      },
+      "chunkId": "44b7800ec5a1f63848da3f9f292e25f60b5dcde5",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 86
+            },
+            "end": {
+              "line": 1,
+              "column": 90
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PhoneAddress.ts": {
+      "mTimestamp": {
+        "mtime": 1661509402677.4165,
+        "uuid": "3c1dd904-8992-4ec3-8da4-74c46e1901e0"
+      },
+      "chunkId": "75c1ffb4261541f7e4f195b43afb035d985a3661",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 7
+            },
+            "end": {
+              "line": 16,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 29
+            },
+            "end": {
+              "line": 18,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 26
+            },
+            "end": {
+              "line": 19,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 22
+            },
+            "end": {
+              "line": 20,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 37
+            },
+            "end": {
+              "line": 21,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 25
+            },
+            "end": {
+              "line": 22,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../prefab/PrefabContentPhoneAddress",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 42
+            },
+            "end": {
+              "line": 23,
+              "column": 79
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabContentPhoneAddress.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Love.ts": {
+      "mTimestamp": {
+        "mtime": 1662608475492.0833,
+        "uuid": "edf618f3-f0f7-46a5-908d-7078ec243aee"
+      },
+      "chunkId": "a11c4d987bfd767fcad7908c044867f352921171",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 125
+            },
+            "end": {
+              "line": 1,
+              "column": 129
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 29
+            },
+            "end": {
+              "line": 4,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 26
+            },
+            "end": {
+              "line": 5,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 22
+            },
+            "end": {
+              "line": 6,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 25
+            },
+            "end": {
+              "line": 7,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 25
+            },
+            "end": {
+              "line": 8,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../prefab/PrefabLove",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 27
+            },
+            "end": {
+              "line": 9,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabLove.ts": {
+      "mTimestamp": {
+        "mtime": 1662618911477.5906,
+        "uuid": "94b5aff1-7e01-40bb-b4f2-22d8514a9694"
+      },
+      "chunkId": "e57c0ab5b87ca1440ec9e8205e869d168c6dda38",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 86
+            },
+            "end": {
+              "line": 1,
+              "column": 90
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 26
+            },
+            "end": {
+              "line": 2,
+              "column": 46
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPreriod.ts": {
+      "mTimestamp": {
+        "mtime": 1661764374075.337,
+        "uuid": "9456f8fc-1704-4056-90b0-b6a029e021c8"
+      },
+      "chunkId": "bb7fff341c73571c41740d4d8da587d1d9507780",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabPeriod.ts": {
+      "mTimestamp": {
+        "mtime": 1661836228732.8123,
+        "uuid": "ab1adcc3-4d36-4f88-b6ec-9341995e39c3"
+      },
+      "chunkId": "ff7f02c68d222f5ccaea144866311cf0b49c4644",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 54
+            },
+            "end": {
+              "line": 1,
+              "column": 58
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/PeriodCycle.ts": {
+      "mTimestamp": {
+        "mtime": 1661846094869.0972,
+        "uuid": "f7a716f7-0a79-47b0-a874-82cfaca6d893"
+      },
+      "chunkId": "8576fdd0e4abb85d852e372a40a42b3c5c77bb00",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 85
+            },
+            "end": {
+              "line": 1,
+              "column": 89
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 26
+            },
+            "end": {
+              "line": 4,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 22
+            },
+            "end": {
+              "line": 5,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 27
+            },
+            "end": {
+              "line": 6,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/script/Detail.ts": {
+      "mTimestamp": {
+        "mtime": 1662617889369.4766,
+        "uuid": "53889653-2f38-4b30-8aeb-27cbe5eb9a62"
+      },
+      "chunkId": "bc7c60a6630151406a0c458fafd09890ad2677e3",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 7
+            },
+            "end": {
+              "line": 12,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "../common/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 29
+            },
+            "end": {
+              "line": 14,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 26
+            },
+            "end": {
+              "line": 15,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 22
+            },
+            "end": {
+              "line": 16,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 37
+            },
+            "end": {
+              "line": 17,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../common/CommonTS",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 25
+            },
+            "end": {
+              "line": 18,
+              "column": 45
+            }
+          }
+        },
+        {
+          "value": "../prefab/PrefabCountNumber",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 34
+            },
+            "end": {
+              "line": 19,
+              "column": 63
+            }
+          }
+        },
+        {
+          "value": "../prefab/PrefabDetailYourNumber",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 39
+            },
+            "end": {
+              "line": 20,
+              "column": 73
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/CommonTS.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabCountNumber.ts": {
+      "mTimestamp": {
+        "mtime": 1662618839987.9731,
+        "uuid": "b37cf922-8bcf-4e59-8127-f9fc8b2811b5"
+      },
+      "chunkId": "c9ec16aa942ac176ffde2f157189871562dc778b",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 86
+            },
+            "end": {
+              "line": 1,
+              "column": 90
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/prefab/PrefabDetailYourNumber.ts": {
+      "mTimestamp": {
+        "mtime": 1662618888929.3247,
+        "uuid": "59f053d6-4f9f-435c-ba38-2464f6a5d420"
+      },
+      "chunkId": "78f111d2efc19caa7211f22c7888db97e993bd5f",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 86
+            },
+            "end": {
+              "line": 1,
+              "column": 90
+            }
+          }
+        },
+        {
+          "value": "../common/Language",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 26
+            },
+            "end": {
+              "line": 3,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "db://i18n/LanguageData",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 22
+            },
+            "end": {
+              "line": 4,
+              "column": 46
+            }
+          }
+        },
+        {
+          "value": "../common/Constant",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 47
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Language.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/extensions/i18n/assets/LanguageData.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/Constant.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/SoundPersistRootNode.ts": {
+      "mTimestamp": {
+        "mtime": 1662534749456.768,
+        "uuid": "dd848e7e-bb08-4d71-88ef-529a6cedaf0d"
+      },
+      "chunkId": "6fabf9ca84a2534320e152887393bbae8e2b9d99",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 69
+            },
+            "end": {
+              "line": 1,
+              "column": 73
+            }
+          }
+        },
+        {
+          "value": "./AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 29
+            },
+            "end": {
+              "line": 2,
+              "column": 45
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/haothanhit/Desktop/ThanSoHocV2/Numerology36/assets/common/AudioManager.ts"
+          },
+          "messages": []
+        }
+      ]
+    }
+  }
+}
